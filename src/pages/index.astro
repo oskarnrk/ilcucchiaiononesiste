@@ -45,7 +45,7 @@ const posts = (await Astro.glob("./2*/**/index.{md,mdx}"))
             posts.map((post) => (
               <li>
                 <time datetime={post.frontmatter.date}>
-                  {new Date(post.frontmatter.date).toLocaleDateString("en-us", {
+                  {new Date(post.frontmatter.date).toLocaleDateString("it-it", {
                     year: "numeric",
                     month: "short",
                     day: "numeric",
