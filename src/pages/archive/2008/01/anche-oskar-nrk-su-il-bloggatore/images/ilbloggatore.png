@@ -1,0 +1,2023 @@
+<!doctype html><html
+dir="ltr" lang="it-IT"><head><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel="profile" href="http://gmpg.org/xfn/11"><title>IL BLOGGATORE</title> <script defer src="data:text/javascript;base64,CiAgICAgICAgICAgICAgICB2YXIgZXJyb3Jfc3RyX29iaiA9IHsKICAgICAgICAgICAgICAgICAgICAncmVxdWlyZWQnIDogJ2lzIHJlcXVpcmVkJywKICAgICAgICAgICAgICAgICAgICAnbWlzbWF0Y2gnIDogJ2RvZXMgbm90IG1hdGNoJywKICAgICAgICAgICAgICAgICAgICAndmFsaWRhdGlvbicgOiAnaXMgbm90IHZhbGlkJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICA=" type="text/javascript" id="wpuf-language-script"></script> <meta
+name="description" content="Il Blog dell’Informazione, Il Bloggatore. News sulle Ultime Tecnologie, Cybersecurity e Articoli sulla Sicurezza, Lifestyle, Privacy e GDPR. News sul Trading, Salute e Fitness. Articoli Settimanali sulle News pubblicati dai Blog. IlBloggatore, il superblog dell’informazione News e Blogs" /><meta
+name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" /><meta
+name="keywords" content="news,privacy,gdpr,android,auto elettriche,cybersecurity,ramsonware,penetration test" /><link
+rel="canonical" href="https://www.ilbloggatore.com/" /><link
+rel="next" href="https://www.ilbloggatore.com/page/2/" /><meta
+name="generator" content="All in One SEO (AIOSEO) 4.2.8 " /> <script type="application/ld+json" class="aioseo-schema">{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.ilbloggatore.com\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.ilbloggatore.com\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/www.ilbloggatore.com\/","name":"Home","description":"Il Blog dell\u2019Informazione, Il Bloggatore. News sulle Ultime Tecnologie, Cybersecurity e Articoli sulla Sicurezza, Lifestyle, Privacy e GDPR. News sul Trading, Salute e Fitness. Articoli Settimanali sulle News pubblicati dai Blog. IlBloggatore, il superblog dell\u2019informazione News e Blogs","url":"https:\/\/www.ilbloggatore.com\/"}}]},{"@type":"CollectionPage","@id":"https:\/\/www.ilbloggatore.com\/#collectionpage","url":"https:\/\/www.ilbloggatore.com\/","name":"IL BLOGGATORE","description":"Il Blog dell\u2019Informazione, Il Bloggatore. News sulle Ultime Tecnologie, Cybersecurity e Articoli sulla Sicurezza, Lifestyle, Privacy e GDPR. News sul Trading, Salute e Fitness. Articoli Settimanali sulle News pubblicati dai Blog. IlBloggatore, il superblog dell\u2019informazione News e Blogs","inLanguage":"it-IT","isPartOf":{"@id":"https:\/\/www.ilbloggatore.com\/#website"},"breadcrumb":{"@id":"https:\/\/www.ilbloggatore.com\/#breadcrumblist"},"about":{"@id":"https:\/\/www.ilbloggatore.com\/#organization"}},{"@type":"Organization","@id":"https:\/\/www.ilbloggatore.com\/#organization","name":"IL BLOGGATORE","url":"https:\/\/www.ilbloggatore.com\/","logo":{"@type":"ImageObject","url":"https:\/\/www.ilbloggatore.com\/wp-content\/uploads\/2021\/01\/cropped-cropped-cropped-cropped-cropped-logo1-1.jpg","@id":"https:\/\/www.ilbloggatore.com\/#organizationLogo","width":1500,"height":255},"image":{"@id":"https:\/\/www.ilbloggatore.com\/#organizationLogo"}},{"@type":"WebSite","@id":"https:\/\/www.ilbloggatore.com\/#website","url":"https:\/\/www.ilbloggatore.com\/","name":"IL BLOGGATORE","description":"dal 2006 news sul digitale, innovazione, privacy, sicurezza...","inLanguage":"it-IT","publisher":{"@id":"https:\/\/www.ilbloggatore.com\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.ilbloggatore.com\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}</script> <script defer src="data:text/javascript;base64,CgkJCXdpbmRvdy5nYT13aW5kb3cuZ2F8fGZ1bmN0aW9uKCl7KGdhLnE9Z2EucXx8W10pLnB1c2goYXJndW1lbnRzKX07Z2EubD0rbmV3IERhdGU7CgkJCWdhKCdjcmVhdGUnLCAiMjUyMzMyODAiLCAnYXV0bycpOwoJCQlnYSgnc2VuZCcsICdwYWdldmlldycpOwoJCQ==" type="text/javascript" ></script>  <link
+rel='dns-prefetch' href='//www.googletagmanager.com' /><link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//pagead2.googlesyndication.com' /><link
+rel="alternate" type="application/rss+xml" title="IL BLOGGATORE &raquo; Feed" href="https://www.ilbloggatore.com/feed/" /><link
+rel="alternate" type="application/rss+xml" title="IL BLOGGATORE &raquo; Feed dei commenti" href="https://www.ilbloggatore.com/comments/feed/" />
+<script defer src="data:text/javascript;base64,CgkJCXdpbmRvdy5hZHZhbmNlZF9hZHNfcmVhZHk9ZnVuY3Rpb24oZSxhKXthPWF8fCJjb21wbGV0ZSI7dmFyIGQ9ZnVuY3Rpb24oZSl7cmV0dXJuImludGVyYWN0aXZlIj09PWE/ImxvYWRpbmciIT09ZToiY29tcGxldGUiPT09ZX07ZChkb2N1bWVudC5yZWFkeVN0YXRlKT9lKCk6ZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigicmVhZHlzdGF0ZWNoYW5nZSIsKGZ1bmN0aW9uKGEpe2QoYS50YXJnZXQucmVhZHlTdGF0ZSkmJmUoKX0pLHtvbmNlOiJpbnRlcmFjdGl2ZSI9PT1hfSl9LHdpbmRvdy5hZHZhbmNlZF9hZHNfcmVhZHlfcXVldWU9d2luZG93LmFkdmFuY2VkX2Fkc19yZWFkeV9xdWV1ZXx8W107CQk=" id="ilblo-ready"></script> <link
+rel='stylesheet' id='classic-theme-styles-css' href='https://www.ilbloggatore.com/wp-includes/css/classic-themes.min.css' type='text/css' media='all' /><link
+rel='stylesheet' id='cookie-law-info-css' href='https://www.ilbloggatore.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css' type='text/css' media='all' /><link
+rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://www.ilbloggatore.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css' type='text/css' media='all' /><link
+rel='stylesheet' id='sek-base-light-css' href='https://www.ilbloggatore.com/wp-content/plugins/nimble-builder/assets/front/css/sek-base-light.css' type='text/css' media='all' /><link
+rel='stylesheet' id='uaf_client_css-css' href='https://www.ilbloggatore.com/wp-content/uploads/useanyfont/uaf.css' type='text/css' media='all' /><link
+rel='stylesheet' id='wp-snow-effect-css' href='https://www.ilbloggatore.com/wp-content/plugins/wp-snow-effect/public/css/wp-snow-effect-public.css' type='text/css' media='all' /><link
+rel='stylesheet' id='font-awesome-v5-css' href='https://www.ilbloggatore.com/wp-content/themes/darknews/assets/font-awesome/css/all.min.css' type='text/css' media='all' /><link
+rel='stylesheet' id='bootstrap-css' href='https://www.ilbloggatore.com/wp-content/themes/darknews/assets/bootstrap/css/bootstrap.min.css' type='text/css' media='all' /><link
+rel='stylesheet' id='slick-css-css' href='https://www.ilbloggatore.com/wp-content/themes/darknews/assets/slick/css/slick.min.css' type='text/css' media='all' /><link
+rel='stylesheet' id='sidr-css' href='https://www.ilbloggatore.com/wp-content/themes/darknews/assets/sidr/css/jquery.sidr.dark.css' type='text/css' media='all' /><link
+rel='stylesheet' id='magnific-popup-css' href='https://www.ilbloggatore.com/wp-content/themes/darknews/assets/magnific-popup/magnific-popup.css' type='text/css' media='all' /><link
+rel='stylesheet' id='darknews-google-fonts-css' href='https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700|Poppins:300,400,500,600,700|Poppins:300,400,500,600,700&#038;subset=latin,latin-ext' type='text/css' media='all' /><link
+rel='stylesheet' id='darknews-style-css' href='https://www.ilbloggatore.com/wp-content/themes/darknews/style.css' type='text/css' media='all' /><style id='darknews-style-inline-css' type='text/css'>body.aft-dark-mode #sidr,
+        body.aft-dark-mode,
+        body.aft-dark-mode #af-preloader {
+        background-color: #000000;
+        }
+    
+                body.aft-default-mode #sidr,
+        body.aft-default-mode #af-preloader {
+        background-color: #2cd6d6;
+        }
+        body.aft-default-mode.custom-background,
+        body.aft-default-mode {
+        background-color: #2cd6d6 ;
+        }
+    
+                .woocommerce span.onsale,
+        .woocommerce #respond input#submit.disabled,
+        .woocommerce #respond input#submit:disabled,
+        .woocommerce #respond input#submit:disabled[disabled],
+        .woocommerce a.button.disabled,
+        .woocommerce a.button:disabled,
+        .woocommerce a.button:disabled[disabled],
+        .woocommerce button.button.disabled,
+        .woocommerce button.button:disabled,
+        .woocommerce button.button:disabled[disabled],
+        .woocommerce input.button.disabled,
+        .woocommerce input.button:disabled,
+        .woocommerce input.button:disabled[disabled],
+        .woocommerce #respond input#submit,
+        .woocommerce a.button,
+        .woocommerce button.button,
+        .woocommerce input.button,
+        .woocommerce #respond input#submit.alt,
+        .woocommerce a.button.alt,
+        .woocommerce button.button.alt,
+        .woocommerce input.button.alt,
+
+        .widget-title-fill-and-border .wp_post_author_widget .widget-title .header-after,
+        .widget-title-fill-and-no-border .wp_post_author_widget .widget-title .header-after,
+
+        footer .aft-small-social-menu ul li a:hover,
+        header .top-header .aft-small-social-menu ul li a:hover,
+        .darknews_author_info_widget .aft-small-social-menu ul li a:hover,
+        footer .aft-small-social-menu ul li a:hover,
+        body.widget-title-border-center .widget-title .heading-line-before,
+        body.widget-title-border-bottom .header-after1 .heading-line-before,
+        body.widget-title-border-bottom .widget-title .heading-line-before,
+        body .af-cat-widget-carousel a.darknews-categories.category-color-1,
+        .widget-title-fill-and-no-border .widget-title .heading-line,
+        .widget-title-fill-and-border .widget-title .heading-line,
+        .widget-title-border-center .wp_post_author_widget .widget-title .heading-line-before,
+        .widget-title-border-center .wp_post_author_widget .widget-title .header-after::before,
+
+        .aft-posts-tabs-panel .nav-tabs>li>a.active,
+        .aft-main-banner-wrapper .widget-title .heading-line,
+        a.sidr-class-sidr-button-close,
+
+        body.aft-default-mode.woocommerce span.onsale,
+        body.aft-dark-mode input[type="button"],
+        body.aft-dark-mode input[type="reset"],
+        body.aft-dark-mode input[type="submit"],
+        body.aft-dark-mode .inner-suscribe input[type=submit],
+        body.aft-default-mode input[type="button"],
+        body.aft-default-mode input[type="reset"],
+        body.aft-default-mode input[type="submit"],
+        body.aft-default-mode .inner-suscribe input[type=submit],
+        .af-youtube-slider .af-video-wrap .af-bg-play i,
+        .af-youtube-video-list .entry-header-yt-video-wrapper .af-yt-video-play i,
+        body .btn-style1 a:visited,
+        body .btn-style1 a,
+        body .darknews-pagination .nav-links .page-numbers.current,
+        body #scroll-up,
+        .aft-readmore-wrapper a.aft-readmore:hover,
+        body.aft-dark-mode .aft-readmore-wrapper a.aft-readmore:hover,
+        footer.site-footer .aft-readmore-wrapper a.aft-readmore:hover,
+        .aft-readmore-wrapper a.aft-readmore:hover,
+        .read-img .trending-no,
+        body .trending-posts-vertical .trending-no{
+        background-color: #1e73be;
+        }
+
+        .grid-design-texts-over-image .aft-readmore-wrapper a.aft-readmore:hover,
+        .aft-readmore-wrapper a.aft-readmore:hover,
+        body.aft-dark-mode .aft-readmore-wrapper a.aft-readmore:hover,
+        body.aft-default-mode .aft-readmore-wrapper a.aft-readmore:hover,
+
+        body.single .entry-header .aft-post-excerpt-and-meta .post-excerpt,
+        .aft-posts-tabs-panel .nav-tabs,
+        .widget-title-fill-and-border .widget-title,
+        body.aft-dark-mode.single span.tags-links a:hover,
+        .darknews-pagination .nav-links .page-numbers.current,
+        .aft-readmore-wrapper a.aft-readmore:hover,
+        p.awpa-more-posts a:hover{
+        border-color: #1e73be;
+        }
+        .wp-post-author-meta .wp-post-author-meta-more-posts a.awpa-more-posts:hover{
+        border-color: #1e73be;
+        }
+        #scroll-up::after,
+        .aft-dark-mode #loader,
+        .aft-default-mode #loader {
+        border-bottom-color: #1e73be;
+        }
+        .widget_text a ,
+        body.aft-default-mode .site-footer .wp-block-tag-cloud a:hover,
+        body.aft-default-mode .site-footer .tagcloud a:hover,
+        .wp_post_author_widget .wp-post-author-meta .awpa-display-name a:hover,
+        body.aft-dark-mode .site-footer .tagcloud a:hover,
+        .wp-post-author-meta .wp-post-author-meta-more-posts a.awpa-more-posts:hover,
+        body.aft-default-mode .af-breadcrumbs a:hover,
+        body.aft-dark-mode .af-breadcrumbs a:hover,
+        .aft-default-mode .site-footer .wp-calendar-nav a,
+        body.aft-dark-mode .wp-calendar-nav a,
+        body .entry-content > [class*="wp-block-"] a:not(.has-text-color),
+        body .entry-content > [class*="wp-block-"] li,
+        body .entry-content > ul a,
+        body .entry-content > ol a,
+        body .entry-content > p a ,
+        body p.logged-in-as,
+        a,  a:visited,  a:hover,  a:focus,  a:active,
+        body.aft-default-mode .tagcloud a:hover,
+        body.aft-default-mode.single span.tags-links a:hover,
+        body.aft-default-mode p.awpa-more-posts a:hover,
+        body.aft-default-mode p.awpa-website a:hover ,
+        body.aft-default-mode .wp-post-author-meta h4 a:hover,
+        body.aft-default-mode .widget ul.menu >li a:hover,
+        body.aft-default-mode .widget > ul > li a:hover,
+        body.aft-default-mode .nav-links a:hover,
+        body.aft-default-mode ul.trail-items li a:hover,
+        body.aft-default-mode .sidr-class-sidr-button-close,
+        body.aft-dark-mode .tagcloud a:hover,
+        body.aft-dark-mode.single span.tags-links a:hover,
+        body.aft-dark-mode p.awpa-more-posts a:hover,
+        body.aft-dark-mode p.awpa-website a:hover ,
+        body.aft-dark-mode .widget ul.menu >li a:hover,
+        body.aft-dark-mode .nav-links a:hover,
+        body.aft-dark-mode ul.trail-items li a:hover,
+        .site-footer .secondary-footer a:hover,
+        h2.comments-title,
+        .comment-metadata a,
+        .fn a{
+        color:#1e73be;
+        }
+
+        @media only screen and (min-width: 992px){
+        body.aft-default-mode .darknews-header .main-navigation .menu-desktop > ul > li:hover > a:before,
+        body.aft-default-mode .darknews-header .main-navigation .menu-desktop > ul > li.current-menu-item > a:before {
+        background-color: #1e73be;
+        }
+        }
+    
+                .woocommerce-product-search button[type="submit"], input.search-submit{
+        background-color: #1e73be;
+        }
+        #wp-calendar tbody td a,
+        body.aft-dark-mode #wp-calendar tbody td#today,
+        body.aft-default-mode #wp-calendar tbody td#today,
+        body .entry-content > [class*="wp-block-"] a:not(.has-text-color),
+        body .entry-content > ul a, body .entry-content > ul a:visited,
+        body .entry-content > ol a, body .entry-content > ol a:visited,
+        body .entry-content > p a, body .entry-content > p a:visited
+        {
+        color: #1e73be;
+        }
+        .woocommerce-product-search button[type="submit"], input.search-submit,
+        body.single span.tags-links a:hover{
+        border-color: #1e73be;
+        }
+
+        @media only screen and (min-width: 993px){
+        .main-navigation .menu-desktop > li.current-menu-item::after,
+        .main-navigation .menu-desktop > ul > li.current-menu-item::after,
+        .main-navigation .menu-desktop > li::after, .main-navigation .menu-desktop > ul > li::after{
+        background-color: #1e73be;
+        }
+        }
+    
+
+                .site-title {
+        font-family: Poppins;
+        }
+    
+                body,
+        button,
+        input,
+        select,
+        optgroup,
+        .cat-links li a,
+        .min-read,
+        .af-social-contacts .social-widget-menu .screen-reader-text,
+        textarea, p {
+        font-family: Poppins;
+        }
+    
+                div.custom-menu-link > a,
+        .aft-main-banner-wrapper .nav-tabs>li>a,
+        .aft-posts-tabs-panel .nav-tabs>li>a,
+        .exclusive-posts .exclusive-now span,
+        .aft-posts-tabs-panel .nav-tabs>li>a,
+        .nav-tabs>li,
+        .widget ul ul li,
+        .widget ul.menu >li ,
+        .widget > ul > li,
+        .main-navigation ul li a,
+        h1, h2, h3, h4, h5, h6 {
+        font-family: Poppins;
+        }
+    
+    .elementor-page .elementor-section.elementor-section-full_width > .elementor-container,
+        .elementor-page .elementor-section.elementor-section-boxed > .elementor-container,
+        .elementor-default .elementor-section.elementor-section-full_width > .elementor-container,
+        .elementor-default .elementor-section.elementor-section-boxed > .elementor-container{
+            max-width: 1244px;
+        }
+        @media screen and (min-width: 1360px){
+            .af-full-layout.elementor-page .elementor-section.elementor-section-full_width > .elementor-container,
+            .af-full-layout.elementor-page .elementor-section.elementor-section-boxed > .elementor-container,
+            .af-full-layout.elementor-default .elementor-section.elementor-section-full_width > .elementor-container,
+            .af-full-layout.elementor-default .elementor-section.elementor-section-boxed > .elementor-container{
+                max-width: 1920px;
+            }
+        }
+        .full-width-content .elementor-section-stretched,
+        .align-content-left .elementor-section-stretched,
+        .align-content-right .elementor-section-stretched {
+            max-width: 100%;
+            left: 0 !important;
+        }</style><link
+rel='stylesheet' id='newsletter-css' href='https://www.ilbloggatore.com/wp-content/plugins/newsletter/style.css' type='text/css' media='all' /><link
+rel='stylesheet' id='nooz-outline-css' href='https://www.ilbloggatore.com/wp-content/plugins/nooz/themes/outline/css/theme.css' type='text/css' media='all' /><link
+rel='stylesheet' id='wpuf-css-css' href='https://www.ilbloggatore.com/wp-content/plugins/wp-user-frontend/assets/css/frontend-forms.css' type='text/css' media='all' /><link
+rel='stylesheet' id='jquery-ui-css' href='https://www.ilbloggatore.com/wp-content/plugins/weforms/assets/wpuf/css/jquery-ui-1.9.1.custom.css' type='text/css' media='all' /><link
+rel='stylesheet' id='wpuf-sweetalert2-css' href='https://www.ilbloggatore.com/wp-content/plugins/weforms/assets/wpuf/vendor/sweetalert2/dist/sweetalert2.css' type='text/css' media='all' /> <script defer type='text/javascript' id="nb-jquery" src='https://www.ilbloggatore.com/wp-includes/js/jquery/jquery.min.js'></script>   <script defer src="data:text/javascript;base64,CndpbmRvdy5uYl89e30sZnVuY3Rpb24oZSx0KXtpZih3aW5kb3cubmJfPXtpc0FycmF5OmZ1bmN0aW9uKGUpe3JldHVybiBBcnJheS5pc0FycmF5KGUpfHwiW29iamVjdCBBcnJheV0iPT09dG9TdHJpbmcuY2FsbChlKX0saW5BcnJheTpmdW5jdGlvbihlLHQpe3JldHVybiEoIW5iXy5pc0FycmF5KGUpfHxuYl8uaXNVbmRlZmluZWQodCkpJiZlLmluZGV4T2YodCk+LTF9LGlzVW5kZWZpbmVkOmZ1bmN0aW9uKGUpe3JldHVybiB2b2lkIDA9PT1lfSxpc09iamVjdDpmdW5jdGlvbihlKXt2YXIgdD10eXBlb2YgZTtyZXR1cm4iZnVuY3Rpb24iPT09dHx8Im9iamVjdCI9PT10JiYhIWV9LGVycm9yTG9nOmZ1bmN0aW9uKCl7bmJfLmlzVW5kZWZpbmVkKGNvbnNvbGUpfHwiZnVuY3Rpb24iIT10eXBlb2Ygd2luZG93LmNvbnNvbGUubG9nfHxjb25zb2xlLmxvZy5hcHBseShjb25zb2xlLGFyZ3VtZW50cyl9LGhhc1ByZWxvYWRTdXBwb3J0OmZ1bmN0aW9uKGUpe3ZhciB0PWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoImxpbmsiKS5yZWxMaXN0O3JldHVybiEoIXR8fCF0LnN1cHBvcnRzKSYmdC5zdXBwb3J0cygicHJlbG9hZCIpfSxsaXN0ZW5UbzpmdW5jdGlvbihlLHQpe25iXy5ldmVudHNMaXN0ZW5lZFRvLnB1c2goZSk7dmFyIG49eyJuYi1qcXVlcnktbG9hZGVkIjpmdW5jdGlvbigpe3JldHVybiJ1bmRlZmluZWQiIT10eXBlb2YgalF1ZXJ5fSwibmItYXBwLXJlYWR5IjpmdW5jdGlvbigpe3JldHVybiB2b2lkIDAhPT13aW5kb3cubmJfJiZuYl8ud2FzTGlzdGVuZWRUbygibmItanF1ZXJ5LWxvYWRlZCIpfSwibmItc3dpcGVib3gtcGFyc2VkIjpmdW5jdGlvbigpe3JldHVybiJ1bmRlZmluZWQiIT10eXBlb2YgalF1ZXJ5JiZ2b2lkIDAhPT1qUXVlcnkuZm4uc3dpcGVib3h9LCJuYi1tYWluLXN3aXBlci1wYXJzZWQiOmZ1bmN0aW9uKCl7cmV0dXJuIHZvaWQgMCE9PXdpbmRvdy5Td2lwZXJ9fSxvPWZ1bmN0aW9uKG8pe25iXy5pc1VuZGVmaW5lZChuW2VdKXx8ITEhPT1uW2VdKCk/dCgpOm5iXy5lcnJvckxvZygiTmltYmxlIGVycm9yID0+IGFuIGV2ZW50IGNhbGxiYWNrIGNvdWxkIG5vdCBiZSBmaXJlZCBiZWNhdXNlIGNvbmRpdGlvbnMgbm90IG1ldCA9PiAiLGUsbmJfLmV2ZW50c0xpc3RlbmVkVG8sdCl9OyJmdW5jdGlvbiI9PXR5cGVvZiB0P25iXy53YXNFbWl0dGVkKGUpP28oKTpkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKGUsbyk6bmJfLmVycm9yTG9nKCJOaW1ibGUgZXJyb3IgPT4gbGlzdGVuVG8gZnVuYyBwYXJhbSBpcyBub3QgYSBmdW5jdGlvbiBmb3IgZXZlbnQgPT4gIixlKX0sZXZlbnRzRW1pdHRlZDpbXSxldmVudHNMaXN0ZW5lZFRvOltdLGVtaXQ6ZnVuY3Rpb24oZSx0KXtpZighKG5iXy5pc1VuZGVmaW5lZCh0KXx8dC5maXJlX29uY2UpfHwhbmJfLndhc0VtaXR0ZWQoZSkpe3ZhciBuPWRvY3VtZW50LmNyZWF0ZUV2ZW50KCJFdmVudCIpO24uaW5pdEV2ZW50KGUsITAsITApLGRvY3VtZW50LmRpc3BhdGNoRXZlbnQobiksbmJfLmV2ZW50c0VtaXR0ZWQucHVzaChlKX19LHdhc0xpc3RlbmVkVG86ZnVuY3Rpb24oZSl7cmV0dXJuInN0cmluZyI9PXR5cGVvZiBlJiZuYl8uaW5BcnJheShuYl8uZXZlbnRzTGlzdGVuZWRUbyxlKX0sd2FzRW1pdHRlZDpmdW5jdGlvbihlKXtyZXR1cm4ic3RyaW5nIj09dHlwZW9mIGUmJm5iXy5pbkFycmF5KG5iXy5ldmVudHNFbWl0dGVkLGUpfSxpc0luU2NyZWVuOmZ1bmN0aW9uKGUpe2lmKCFuYl8uaXNPYmplY3QoZSkpcmV0dXJuITE7dmFyIHQ9ZS5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKSxuPU1hdGgubWF4KGRvY3VtZW50LmRvY3VtZW50RWxlbWVudC5jbGllbnRIZWlnaHQsd2luZG93LmlubmVySGVpZ2h0KTtyZXR1cm4hKHQuYm90dG9tPDB8fHQudG9wLW4+PTApfSxpc0N1c3RvbWl6aW5nOmZ1bmN0aW9uKCl7cmV0dXJuITF9LGlzTGF6eUxvYWRFbmFibGVkOmZ1bmN0aW9uKCl7cmV0dXJuIW5iXy5pc0N1c3RvbWl6aW5nKCkmJiExfSxwcmVsb2FkT3JEZWZlckFzc2V0OmZ1bmN0aW9uKGUpe2lmKGU9ZXx8e30sbmJfLnByZWxvYWRlZEFzc2V0cz1uYl8ucHJlbG9hZGVkQXNzZXRzfHxbXSwhbmJfLmluQXJyYXkobmJfLnByZWxvYWRlZEFzc2V0cyxlLmlkKSl7dmFyIHQsbj1kb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgiaGVhZCIpWzBdLG89ZnVuY3Rpb24oKXtpZigic3R5bGUiPT09ZS5hcyl0aGlzLnNldEF0dHJpYnV0ZSgicmVsIiwic3R5bGVzaGVldCIpLHRoaXMuc2V0QXR0cmlidXRlKCJ0eXBlIiwidGV4dC9jc3MiKSx0aGlzLnNldEF0dHJpYnV0ZSgibWVkaWEiLCJhbGwiKTtlbHNle3ZhciB0PWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3Quc2V0QXR0cmlidXRlKCJzcmMiLGUuaHJlZiksdC5zZXRBdHRyaWJ1dGUoImlkIixlLmlkKSwic2NyaXB0Ij09PWUuYXMmJnQuc2V0QXR0cmlidXRlKCJkZWZlciIsImRlZmVyIiksbi5hcHBlbmRDaGlsZCh0KSxpLmNhbGwodGhpcyl9ZS5ldmVudE9uTG9hZCYmbmJfLmVtaXQoZS5ldmVudE9uTG9hZCl9LGk9ZnVuY3Rpb24oKXtpZih0aGlzJiZ0aGlzLnBhcmVudE5vZGUmJnRoaXMucGFyZW50Tm9kZS5jb250YWlucyh0aGlzKSl0cnl7dGhpcy5wYXJlbnROb2RlLnJlbW92ZUNoaWxkKHRoaXMpfWNhdGNoKGUpe25iXy5lcnJvckxvZygiTkIgZXJyb3Igd2hlbiByZW1vdmluZyBhIHNjcmlwdCBlbCIsZWwpfX07KCJmb250IiE9PWUuYXN8fG5iXy5oYXNQcmVsb2FkU3VwcG9ydCgpKSYmKHQ9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgibGluayIpLCJzY3JpcHQiPT09ZS5hcz9lLm9uRXZlbnQ/bmJfLmxpc3RlblRvKGUub25FdmVudCxmdW5jdGlvbigpe28uY2FsbCh0KX0pOm8uY2FsbCh0KToodC5zZXRBdHRyaWJ1dGUoImhyZWYiLGUuaHJlZiksInN0eWxlIj09PWUuYXM/dC5zZXRBdHRyaWJ1dGUoInJlbCIsbmJfLmhhc1ByZWxvYWRTdXBwb3J0KCk/InByZWxvYWQiOiJzdHlsZXNoZWV0Iik6ImZvbnQiPT09ZS5hcyYmbmJfLmhhc1ByZWxvYWRTdXBwb3J0KCkmJnQuc2V0QXR0cmlidXRlKCJyZWwiLCJwcmVsb2FkIiksdC5zZXRBdHRyaWJ1dGUoImlkIixlLmlkKSx0LnNldEF0dHJpYnV0ZSgiYXMiLGUuYXMpLCJmb250Ij09PWUuYXMmJih0LnNldEF0dHJpYnV0ZSgidHlwZSIsZS50eXBlKSx0LnNldEF0dHJpYnV0ZSgiY3Jvc3NvcmlnaW4iLCJhbm9ueW1vdXMiKSksdC5vbmxvYWQ9ZnVuY3Rpb24oKXt0aGlzLm9ubG9hZD1udWxsLCJmb250IiE9PWUuYXM/ZS5vbkV2ZW50P25iXy5saXN0ZW5UbyhlLm9uRXZlbnQsZnVuY3Rpb24oKXtvLmNhbGwodCl9KTpvLmNhbGwodCk6ZS5ldmVudE9uTG9hZCYmbmJfLmVtaXQoZS5ldmVudE9uTG9hZCl9LHQub25lcnJvcj1mdW5jdGlvbih0KXtuYl8uZXJyb3JMb2coIk5pbWJsZSBwcmVsb2FkT3JEZWZlckFzc2V0IGVycm9yIix0LGUpfSksbi5hcHBlbmRDaGlsZCh0KSxuYl8ucHJlbG9hZGVkQXNzZXRzLnB1c2goZS5pZCksaS5jYWxsKGUuc2NyaXB0RWwpKX19LG1heUJlUmV2ZWFsQkc6ZnVuY3Rpb24oKXt0aGlzLmdldEF0dHJpYnV0ZSgiZGF0YS1zZWstc3JjIikmJih0aGlzLnNldEF0dHJpYnV0ZSgic3R5bGUiLCdiYWNrZ3JvdW5kLWltYWdlOnVybCgiJyt0aGlzLmdldEF0dHJpYnV0ZSgiZGF0YS1zZWstc3JjIikrJyIpJyksdGhpcy5jbGFzc05hbWUrPSIgc2VrLWxhenktbG9hZGVkIix0aGlzLnF1ZXJ5U2VsZWN0b3JBbGwoIi5zZWstY3NzLWxvYWRlciIpLmZvckVhY2goZnVuY3Rpb24oZSl7bmJfLmlzT2JqZWN0KGUpJiZlLnBhcmVudE5vZGUucmVtb3ZlQ2hpbGQoZSl9KSl9fSx3aW5kb3cuTm9kZUxpc3QmJiFOb2RlTGlzdC5wcm90b3R5cGUuZm9yRWFjaCYmKE5vZGVMaXN0LnByb3RvdHlwZS5mb3JFYWNoPWZ1bmN0aW9uKGUsdCl7dD10fHx3aW5kb3c7Zm9yKHZhciBuPTA7bjx0aGlzLmxlbmd0aDtuKyspZS5jYWxsKHQsdGhpc1tuXSxuLHRoaXMpfSksbmJfLmxpc3RlblRvKCJuYi1kb2NyZWFkeSIsZnVuY3Rpb24oKXt2YXIgZT1kb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCJkaXYuc2VrLWhhcy1iZyIpOyFuYl8uaXNPYmplY3QoZSl8fGUubGVuZ3RoPDF8fGUuZm9yRWFjaChmdW5jdGlvbihlKXtuYl8uaXNPYmplY3QoZSkmJih3aW5kb3cuc2VrRnJvbnRMb2NhbGl6ZWQmJndpbmRvdy5zZWtGcm9udExvY2FsaXplZC5sYXp5bG9hZF9lbmFibGVkP25iXy5pc0luU2NyZWVuKGUpJiZuYl8ubWF5QmVSZXZlYWxCRy5jYWxsKGUpOm5iXy5tYXlCZVJldmVhbEJHLmNhbGwoZSkpfSl9KSwiY29tcGxldGUiPT09ZG9jdW1lbnQucmVhZHlTdGF0ZXx8ImxvYWRpbmciIT09ZG9jdW1lbnQucmVhZHlTdGF0ZSYmIWRvY3VtZW50LmRvY3VtZW50RWxlbWVudC5kb1Njcm9sbCluYl8uZW1pdCgibmItZG9jcmVhZHkiKTtlbHNle3ZhciBuPWZ1bmN0aW9uKCl7bmJfLndhc0VtaXR0ZWQoIm5iLWRvY3JlYWR5Iil8fG5iXy5lbWl0KCJuYi1kb2NyZWFkeSIpfTtkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCJET01Db250ZW50TG9hZGVkIixuKSx3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigibG9hZCIsbil9fSh3aW5kb3csZG9jdW1lbnQpLGZ1bmN0aW9uKCl7dmFyIGU9ZnVuY3Rpb24oKXt2YXIgZT0ibmItanF1ZXJ5LWxvYWRlZCI7bmJfLndhc0VtaXR0ZWQoZSl8fG5iXy5lbWl0KGUpfSx0PWZ1bmN0aW9uKG4pe249bnx8MCx2b2lkIDAhPT13aW5kb3cualF1ZXJ5P2UoKTpuPDMwP3NldFRpbWVvdXQoZnVuY3Rpb24oKXt0KCsrbil9LDIwMCk6d2luZG93LmNvbnNvbGUmJndpbmRvdy5jb25zb2xlLmxvZyYmY29uc29sZS5sb2coIk5pbWJsZSBCdWlsZGVyIHByb2JsZW0gOiBqUXVlcnkuanMgd2FzIG5vdCBkZXRlY3RlZCBvbiB5b3VyIHdlYnNpdGUiKX0sbj1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgibmItanF1ZXJ5Iik7biYmbi5hZGRFdmVudExpc3RlbmVyKCJsb2FkIixmdW5jdGlvbigpe2UoKX0pLHQoKX0oKSx3aW5kb3csZG9jdW1lbnQsbmJfLmxpc3RlblRvKCJuYi1qcXVlcnktbG9hZGVkIixmdW5jdGlvbigpe3Nla0Zyb250TG9jYWxpemVkLmxvYWRfZnJvbnRfYXNzZXRzX29uX2R5bmFtaWNhbGx5JiYobmJfLnNjcmlwdHNMb2FkaW5nU3RhdHVzPXt9LG5iXy5hamF4TG9hZFNjcmlwdD1mdW5jdGlvbihlKXtqUXVlcnkoZnVuY3Rpb24odCl7ZT10LmV4dGVuZCh7cGF0aDoiIixjb21wbGV0ZToiIixsb2FkY2hlY2s6ITF9LGUpLG5iXy5zY3JpcHRzTG9hZGluZ1N0YXR1c1tlLnBhdGhdJiYicGVuZGluZyI9PT1uYl8uc2NyaXB0c0xvYWRpbmdTdGF0dXNbZS5wYXRoXS5zdGF0ZSgpfHwobmJfLnNjcmlwdHNMb2FkaW5nU3RhdHVzW2UucGF0aF09bmJfLnNjcmlwdHNMb2FkaW5nU3RhdHVzW2UucGF0aF18fHQuRGVmZXJyZWQoKSxqUXVlcnkuYWpheCh7dXJsOnNla0Zyb250TG9jYWxpemVkLmZyb250QXNzZXRzUGF0aCtlLnBhdGgrIj8iK3Nla0Zyb250TG9jYWxpemVkLmFzc2V0VmVyc2lvbixjYWNoZTohMCxkYXRhVHlwZToic2NyaXB0In0pLmRvbmUoZnVuY3Rpb24oKXsiZnVuY3Rpb24iIT10eXBlb2YgZS5sb2FkY2hlY2t8fGUubG9hZGNoZWNrKCk/ImZ1bmN0aW9uIj09dHlwZW9mIGUuY29tcGxldGUmJmUuY29tcGxldGUoKTpuYl8uZXJyb3JMb2coImFqYXhMb2FkU2NyaXB0IHN1Y2Nlc3MgYnV0IGxvYWRjaGVjayBmYWlsZWQgZm9yID0+ICIrZS5wYXRoKX0pLmZhaWwoZnVuY3Rpb24oKXtuYl8uZXJyb3JMb2coImFqYXhMb2FkU2NyaXB0IGZhaWxlZCBmb3IgPT4gIitlLnBhdGgpfSkpfSl9KX0pLG5iXy5saXN0ZW5UbygibmItanF1ZXJ5LWxvYWRlZCIsZnVuY3Rpb24oKXtqUXVlcnkoZnVuY3Rpb24oZSl7c2VrRnJvbnRMb2NhbGl6ZWQubG9hZF9mcm9udF9hc3NldHNfb25fZHluYW1pY2FsbHkmJihuYl8uYWpheExvYWRTY3JpcHQoe3BhdGg6c2VrRnJvbnRMb2NhbGl6ZWQuaXNEZXZNb2RlPyJqcy9jY2F0LW5pbWJsZS1mcm9udC5qcyI6ImpzL2NjYXQtbmltYmxlLWZyb250Lm1pbi5qcyJ9KSxlLmVhY2goc2VrRnJvbnRMb2NhbGl6ZWQucGFydGlhbEZyb250U2NyaXB0cyxmdW5jdGlvbihlLHQpe25iXy5saXN0ZW5Ubyh0LGZ1bmN0aW9uKCl7bmJfLmFqYXhMb2FkU2NyaXB0KHtwYXRoOnNla0Zyb250TG9jYWxpemVkLmlzRGV2TW9kZT8ianMvcGFydGlhbHMvIitlKyIuanMiOiJqcy9wYXJ0aWFscy8iK2UrIi5taW4uanMifSl9KX0pKX0pfSk7DQogICAgICAgICAgICAK" type='text/javascript' id='nb-js-app-js-after'></script>         <script defer type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-25233280-1#038;siteground-async=1' id='google_gtagjs-js' async></script> <script defer type='text/javascript' id='google_gtagjs-js-after'>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.ilbloggatore.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-25233280-1", {"anonymize_ip":true});</script>    <script defer type='text/javascript' src='https://www.ilbloggatore.com/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>  <script defer type='text/javascript' src='https://www.ilbloggatore.com/wp-includes/js/dist/hooks.min.js' id='wp-hooks-js'></script> <script defer type='text/javascript' src='https://www.ilbloggatore.com/wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script> <script defer src="data:text/javascript;base64,CndwLmkxOG4uc2V0TG9jYWxlRGF0YSggeyAndGV4dCBkaXJlY3Rpb25cdTAwMDRsdHInOiBbICdsdHInIF0gfSApOwo=" type='text/javascript' id='wp-i18n-js-after'></script>           <script type='text/javascript' id='wpuf-upload-js-extra'>/*  */
+var wpuf_frontend_upload = {"confirmMsg":"Are you sure?","delete_it":"Yes, delete it","cancel_it":"No, cancel it","nonce":"b7b7236574","ajaxurl":"https:\/\/www.ilbloggatore.com\/wp-admin\/admin-ajax.php","max_filesize":"256M","plupload":{"url":"https:\/\/www.ilbloggatore.com\/wp-admin\/admin-ajax.php?nonce=3605ab4a11","flash_swf_url":"https:\/\/www.ilbloggatore.com\/wp-includes\/js\/plupload\/plupload.flash.swf","filters":[{"title":"Allowed Files","extensions":"*"}],"multipart":true,"urlstream_upload":true,"warning":"Maximum number of files reached!","size_error":"The file you have uploaded exceeds the file size limit. Please try again.","type_error":"You have uploaded an incorrect file type. Please try again."}};
+/*  */</script>   <link
+rel="https://api.w.org/" href="https://www.ilbloggatore.com/wp-json/" /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ilbloggatore.com/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ilbloggatore.com/wp-includes/wlwmanifest.xml" /><meta
+name="generator" content="WordPress 6.1.1" /> <script defer src="data:text/javascript;base64,DQogIHZhciBjbGlja3lfY3VzdG9tID0gY2xpY2t5X2N1c3RvbSB8fCB7fTsNCiAgY2xpY2t5X2N1c3RvbS5vdXRib3VuZF9wYXR0ZXJuID0gWycvZ28vJywnL291dC8nXTsNCg==" type="text/javascript"></script> <script async src="//static.getclicky.com/101293562.js"></script> <meta
+name="generator" content="Site Kit by Google 1.90.1" /><style>:root {
+			--lazy-loader-animation-duration: 300ms;
+		}
+		  
+		.lazyload {
+	display: block;
+}
+
+.lazyload,
+        .lazyloading {
+			opacity: 0;
+		}
+
+
+		.lazyloaded {
+			opacity: 1;
+			transition: opacity 300ms;
+			transition: opacity var(--lazy-loader-animation-duration);
+		}</style><noscript><style>.lazyload { display: none; } .lazyload[class*="lazy-loader-background-element-"] { display: block; opacity: 1; }</style></noscript><link
+rel="dns-prefetch" href="https://cdn.statically.io/" ><link
+rel="preconnect" href="https://cdn.statically.io/" crossorigin><style id="zeno-font-resizer" type="text/css">p.zeno_font_resizer .screen-reader-text {
+			border: 0;
+			clip: rect(1px, 1px, 1px, 1px);
+			clip-path: inset(50%);
+			height: 1px;
+			margin: -1px;
+			overflow: hidden;
+			padding: 0;
+			position: absolute;
+			width: 1px;
+			word-wrap: normal !important;
+		}</style><style></style><meta
+name="google-adsense-platform-account" content="ca-host-pub-2644536267352236"><meta
+name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+ <script defer src="data:text/javascript;base64,CiAgICAgICAgKGZ1bmN0aW9uKCl7CiAgICAgICAgICAgIHZhciBpZCA9ICdub296LW91dGxpbmUtdGhlbWUtanMtY3NzJzsKICAgICAgICAgICAgaWYgKCAhIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGlkKSkgewogICAgICAgICAgICAgICAgdmFyIGxpbmsgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdsaW5rJyk7CiAgICAgICAgICAgICAgICBsaW5rLmhyZWYgPSAnaHR0cHM6Ly93d3cuaWxibG9nZ2F0b3JlLmNvbS93cC1jb250ZW50L3BsdWdpbnMvbm9vei90aGVtZXMvb3V0bGluZS9jc3MvdGhlbWUtanMuY3NzJzsKICAgICAgICAgICAgICAgIGxpbmsuaWQgPSBpZDsKICAgICAgICAgICAgICAgIGxpbmsudHlwZSA9ICd0ZXh0L2Nzcyc7CiAgICAgICAgICAgICAgICBsaW5rLnJlbCA9ICdzdHlsZXNoZWV0JzsKICAgICAgICAgICAgICAgIGxpbmsubWVkaWEgPSAnYWxsJzsKICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdoZWFkJylbMF0uYXBwZW5kQ2hpbGQobGluayk7CiAgICAgICAgICAgIH0KICAgICAgICB9KSgpOwogICAg"></script> <style type="text/css">body .af-header-image.data-bg:before{
+                opacity:0;
+            }
+                        .site-title,
+            .site-description {
+                position: absolute;
+                clip: rect(1px, 1px, 1px, 1px);
+                display: none;
+            }</style> <script async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5323123091649595&amp;host=ca-host-pub-2644536267352236" crossorigin="anonymous" type="text/javascript"></script> <link
+rel="icon" href="https://www.ilbloggatore.com/wp-content/uploads/2019/10/cropped-logo1-32x32.jpg" sizes="32x32" /><link
+rel="icon" href="https://www.ilbloggatore.com/wp-content/uploads/2019/10/cropped-logo1-192x192.jpg" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://www.ilbloggatore.com/wp-content/uploads/2019/10/cropped-logo1-180x180.jpg" /><meta
+name="msapplication-TileImage" content="https://www.ilbloggatore.com/wp-content/uploads/2019/10/cropped-logo1-270x270.jpg" /></head><body
+class="nb-3-3-2 nimble-has-local-data-skp__home nimble-no-group-site-tmpl-skp__home_for_site_tmpl home blog wp-embed-responsive sek-hide-rc-badge hfeed aft-default-mode aft-header-layout-default header-image-full widget-title-fill-and-border default-content-layout full-width-content af-boxed-layout aft-enable-top-bottom-gaps aa-prefix-ilblo-"><div
+id="af-preloader"><div
+id="loader-wrapper"><div
+id="loader"></div></div></div><div
+id="page" class="site af-whole-wrapper">
+<a
+class="skip-link screen-reader-text" href="#content">Skip to content</a><header
+id="masthead" class="header-layout-default darknews-header"><div
+class="top-header"><div
+class="container-wrapper"><div
+class="top-bar-flex"><div
+class="top-bar-left col-2"><div
+class="date-bar-left">
+<span
+class="topbar-date">
+Gennaio 2, 2023    </span></div></div><div
+class="top-bar-right col-2"><div
+class="aft-small-social-menu"></div></div></div></div></div><div
+class="af-middle-header af-header-image data-bg"
+data-background="https://www.ilbloggatore.com/wp-content/uploads/2022/07/cropped-Tavola-disegno-22square-scaled-1.jpg"><div
+class="container-wrapper"><div
+class="af-middle-container"><div
+class="logo"><div
+class="site-branding"><h1 class="site-title font-family-1">
+<a
+href="https://www.ilbloggatore.com/" class="site-title-anchor"
+rel="home">IL BLOGGATORE</a></h1><p
+class="site-description">dal 2006 news sul digitale, innovazione, privacy, sicurezza&#8230;</p></div></div><div
+class="header-promotion"></div></div></div></div><div
+id="main-navigation-bar" class="af-bottom-header"><div
+class="container-wrapper"><div
+class="bottom-bar-flex"><div
+class="offcanvas-navigaiton"><div
+class="af-bottom-head-nav"><div
+class="navigation-container"><nav
+class="main-navigation clearfix"><button
+class="toggle-menu" aria-controls="primary-menu" aria-expanded="false">
+<span
+class="screen-reader-text">
+Primary Menu                                        </span>
+<i
+class="ham"></i>
+</button><div
+class="menu main-menu menu-desktop show-menu-border"><ul
+id="primary-menu" class="menu"><li
+id="menu-item-21896" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21896"><a
+href="https://www.ilbloggatore.com/category/attualita/">Attualità</a></li><li
+id="menu-item-25039" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25039"><a
+href="https://www.ilbloggatore.com/category/tech-news/">Tech news</a></li><li
+id="menu-item-83" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-83"><a
+href="https://www.ilbloggatore.com/category/cybersecurity/">Cybersecurity</a></li><li
+id="menu-item-85" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85"><a
+href="https://www.ilbloggatore.com/category/tutto-sul-gdpr/">GDPR news</a></li><li
+id="menu-item-22127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22127"><a
+href="https://www.ilbloggatore.com/category/idee-in-cucina/">Idee in cucina</a></li><li
+id="menu-item-22125" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22125"><a
+href="https://www.ilbloggatore.com/category/auto-elettriche/">Auto elettriche</a></li><li
+id="menu-item-222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-222"><a
+href="https://www.ilbloggatore.com/category/in-evidenza/">In evidenza</a></li><li
+id="menu-item-223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-223"><a
+href="https://www.ilbloggatore.com/category/life-style/">Life Style</a></li><li
+id="menu-item-22126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22126"><a
+href="https://www.ilbloggatore.com/category/design/">Design</a></li><li
+id="menu-item-22176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22176"><a
+href="https://www.ilbloggatore.com/category/come-fare-per/">Come fare per&#8230;</a></li><li
+id="menu-item-30080" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30080"><a
+href="https://www.ilbloggatore.com/category/beauty/">Beauty</a></li><li
+id="menu-item-30121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30121"><a
+href="https://www.ilbloggatore.com/category/e-bike/">e-bike</a></li><li
+id="menu-item-30636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30636"><a
+href="https://www.ilbloggatore.com/category/startup/">Startup</a></li></ul></div></nav></div></div></div><div
+class="search-watch"><div
+class="af-search-wrap"><div
+class="search-overlay">
+<a
+href="#" title="Search" class="search-icon">
+<i
+class="fa fa-search"></i>
+</a><div
+class="af-search-form"><form
+role="search" method="get" class="search-form" action="https://www.ilbloggatore.com/">
+<label>
+<span
+class="screen-reader-text">Ricerca per:</span>
+<input
+type="search" class="search-field" placeholder="Cerca &hellip;" value="" name="s" />
+</label>
+<input
+type="submit" class="search-submit" value="Cerca" /></form></div></div></div></div></div></div></div></header><div
+class="aft-popular-tags"><div
+class="container-wrapper"><div
+class="aft-popular-taxonomies-lists clearfix"><strong>Popular Tags</strong><ul><li><a
+href="https://www.ilbloggatore.com/tag/ibrida/">ibrida</a></li><li><a
+href="https://www.ilbloggatore.com/tag/auto-elettriche/">auto elettriche</a></li><li><a
+href="https://www.ilbloggatore.com/tag/motore-elettrico/">motore elettrico</a></li><li><a
+href="https://www.ilbloggatore.com/tag/come-fare/">come fare</a></li><li><a
+href="https://www.ilbloggatore.com/tag/riparare/">riparare</a></li><li><a
+href="https://www.ilbloggatore.com/tag/fai-da-te/">fai da te</a></li><li><a
+href="https://www.ilbloggatore.com/tag/diy/">diy</a></li><li><a
+href="https://www.ilbloggatore.com/tag/news/">News</a></li><li><a
+href="https://www.ilbloggatore.com/tag/android/">android</a></li></ul></div></div></div><div
+class="banner-exclusive-posts-wrapper"><div
+class="container-wrapper"><div
+class="exclusive-posts"><div
+class="exclusive-now primary-color"><div
+class="aft-ripple"><div></div><div></div></div>
+<span>Breaking News</span></div><div
+class="exclusive-slides" dir="ltr"><div
+class='marquee aft-flash-slide left' data-speed='80000'
+data-gap='0' data-duplicated='true' data-direction="left" >
+<a
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">
+<span
+class="circle-marq">
+<span
+class="trending-no">
+1                                            </span>
+<img
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="Come cambiare il nome di Alexa o il nome che Alexa ti chiama" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-150x150.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-150x150.jpg?w=150&quality=100&f=auto 150w,
+">
+</span>Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome                                    </a>
+<a
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">
+<span
+class="circle-marq">
+<span
+class="trending-no">
+2                                            </span>
+<img
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="Gassistant" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png?w=150&quality=100&f=auto 150w,
+">
+</span>Come cambiare la voce dell&#39;Assistente Google                                    </a>
+<a
+href="https://www.ilbloggatore.com/come-impostare-un-profilo-vocale-amazon-alexa/">
+<span
+class="circle-marq">
+<span
+class="trending-no">
+3                                            </span>
+<img
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="Alexa" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-150x150.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-150x150.png?w=150&quality=100&f=auto 150w,
+">
+</span>Come impostare un profilo vocale Amazon Alexa                                    </a>
+<a
+href="https://www.ilbloggatore.com/software-per-la-contabilita-semplificata-come-si-usano/">
+<span
+class="circle-marq">
+<span
+class="trending-no">
+4                                            </span>
+<img
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="software-per-la-contabilita-semplificata-come-si-usano" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-150x150.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-150x150.jpg?w=150&quality=100&f=auto 150w,
+">
+</span>Software per la contabilità semplificata: come si usano                                    </a>
+<a
+href="https://www.ilbloggatore.com/i-migliori-profumi-da-regalare-per-natale/">
+<span
+class="circle-marq">
+<span
+class="trending-no">
+5                                            </span>
+<img
+src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="
+alt="i-migliori-profumi-da-regalare-per-natale" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale-150x150.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale-150x150.jpg?w=150&quality=100&f=auto 150w,
+">
+</span>I migliori profumi da regalare per Natale                                    </a></div></div></div></div></div><section
+class="aft-blocks aft-main-banner-section banner-carousel-1-wrap bg-fixed  darknews-customizer aft-banner-layout-1 aft-banner-order-1"
+data-background=""><div
+class="container-wrapper"><div
+class="aft-main-banner-wrapper"><div
+class="aft-main-banner-part af-container-row-5 clearfix"><div
+class="aft-slider-part col-2 pad float-l aft-position-1"><div
+class="af-widget-carousel aft-carousel"><div
+class="slick-wrapper af-banner-carousel af-banner-carousel-1 common-carousel af-cat-widget-carousel af-carousel-default"
+data-slick='{"slidesToShow":1,"slidesToScroll":1,"centerMode":false,"centerPadding":"","responsive":[{"breakpoint":1025,"settings":{"slidesToShow":1,"slidesToScroll":1,"infinite":true,"centerPadding":""}},{"breakpoint":600,"settings":{"slidesToShow":1,"slidesToScroll":1,"infinite":true,"centerPadding":""}},{"breakpoint":480,"settings":{"slidesToShow":1,"slidesToScroll":1,"infinite":true,"centerPadding":""}}]}'><div
+class="slick-item"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-texts-over-image"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a>
+<noscript><img
+width="1200" height="630" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-slider-full size-darknews-slider-full no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama.jpg?quality=100&f=auto 1200w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-1024x538.jpg?quality=100&f=auto 1024w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-768x403.jpg?quality=100&f=auto 768w,
+"></noscript><img
+width="1200" height="630" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201200%20630%22%3E%3C%2Fsvg%3E" class="attachment-darknews-slider-full size-darknews-slider-full no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201200%20630%22%3E%3C%2Fsvg%3E 1200w" sizes="(max-width: 1200px) 100vw, 1200px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama.jpg 1200w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-1024x538.jpg 1024w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-768x403.jpg 768w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 24, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div><div
+class="slick-item"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-texts-over-image"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">Come cambiare la voce dell&#39;Assistente Google</a>
+<noscript><img
+width="512" height="512" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-slider-full size-darknews-slider-full no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 512px) 100vw, 512px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png?quality=100&f=auto 512w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-350x350.png?quality=100&f=auto 350w,
+"></noscript><img
+width="512" height="512" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3C%2Fsvg%3E" class="attachment-darknews-slider-full size-darknews-slider-full no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3C%2Fsvg%3E 512w" sizes="(max-width: 512px) 100vw, 512px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png 512w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png 150w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-350x350.png 350w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">4 min read</span></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">Come cambiare la voce dell&#39;Assistente Google</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 21, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div><div
+class="slick-item"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-texts-over-image"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/come-impostare-un-profilo-vocale-amazon-alexa/">Come impostare un profilo vocale Amazon Alexa</a>
+<noscript><img
+width="1200" height="630" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-slider-full size-darknews-slider-full no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 1200px) 100vw, 1200px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa.png?quality=100&f=auto 1200w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-300x158.png?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-1024x538.png?quality=100&f=auto 1024w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-768x403.png?quality=100&f=auto 768w,
+"></noscript><img
+width="1200" height="630" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201200%20630%22%3E%3C%2Fsvg%3E" class="attachment-darknews-slider-full size-darknews-slider-full no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201200%20630%22%3E%3C%2Fsvg%3E 1200w" sizes="(max-width: 1200px) 100vw, 1200px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa.png 1200w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-300x158.png 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-1024x538.png 1024w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-768x403.png 768w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa.png"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/come-impostare-un-profilo-vocale-amazon-alexa/">Come impostare un profilo vocale Amazon Alexa</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 20, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div><div
+class="slick-item"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-texts-over-image"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/software-per-la-contabilita-semplificata-come-si-usano/">Software per la contabilità semplificata: come si usano</a>
+<noscript><img
+width="1040" height="654" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-slider-full size-darknews-slider-full no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 1040px) 100vw, 1040px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano.jpg?quality=100&f=auto 1040w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-300x189.jpg?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-1024x644.jpg?quality=100&f=auto 1024w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-768x483.jpg?quality=100&f=auto 768w,
+"></noscript><img
+width="1040" height="654" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201040%20654%22%3E%3C%2Fsvg%3E" class="attachment-darknews-slider-full size-darknews-slider-full no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201040%20654%22%3E%3C%2Fsvg%3E 1040w" sizes="(max-width: 1040px) 100vw, 1040px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano.jpg 1040w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-300x189.jpg 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-1024x644.jpg 1024w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-768x483.jpg 768w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">2 min read</span></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/attualita/">
+Attualità
+</a></li></ul></div><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/software-per-la-contabilita-semplificata-come-si-usano/">Software per la contabilità semplificata: come si usano</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 19, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div><div
+class="slick-item"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-texts-over-image"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/i-migliori-profumi-da-regalare-per-natale/">I migliori profumi da regalare per Natale</a>
+<noscript><img
+width="690" height="400" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-slider-full size-darknews-slider-full no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 690px) 100vw, 690px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale.jpg?quality=100&f=auto 690w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale-300x174.jpg?quality=100&f=auto 300w,
+"></noscript><img
+width="690" height="400" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20690%20400%22%3E%3C%2Fsvg%3E" class="attachment-darknews-slider-full size-darknews-slider-full no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20690%20400%22%3E%3C%2Fsvg%3E 690w" sizes="(max-width: 690px) 100vw, 690px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale.jpg 690w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale-300x174.jpg 300w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/life-style/">
+Life Style
+</a></li></ul></div><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/i-migliori-profumi-da-regalare-per-natale/">I migliori profumi da regalare per Natale</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 19, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div></div></div></div><div
+class="aft-trending-part col-4 pad float-l aft-position-3"><div
+class="af-main-banner-tabbed-posts aft-posts-tabs-panel"><div
+class="section-wrapper"><div
+class="small-grid-style clearfix"><div
+class="tabbed-container"><div
+class="tabbed-head"><ul
+class="nav nav-tabs af-tabs tab-warpper" role="tablist"><li
+class="tab tab-recent">
+<a
+href="#aft-main-banner-latest-trending-popular-recent"
+aria-label="Recent" role="tab"
+data-toggle="tab" class="font-family-1 active">
+Latest                        </a></li><li
+role="presentation" class="tab tab-popular">
+<a
+href="#aft-main-banner-latest-trending-popular-popular"
+aria-label="Popular" role="tab"
+data-toggle="tab" class="font-family-1">
+Popular                        </a></li></ul></div><div
+class="tab-content af-widget-body"><div
+id="aft-main-banner-latest-trending-popular-recent" role="tabpanel" class="tab-pane active"><ul
+class="article-item article-list-item article-tabbed-list article-item-left"><li
+class="aft-trending-posts list-part af-sec-post"><div
+class="aft-trending-posts list-part af-sec-post"><div
+class="af-double-column list-style clearfix aft-list-show-image"><div
+class="read-single color-pad"><div
+class="col-3 float-l pos-rel read-img read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a>
+<noscript><img
+width="150" height="150" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-150x150.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-150x150.jpg?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-350x350.jpg?quality=100&f=auto 350w,
+"></noscript><img
+width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E 150w" sizes="(max-width: 150px) 100vw, 150px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-150x150.jpg 150w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-350x350.jpg 350w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-150x150.jpg"></div><div
+class="col-66 float-l pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 24, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div></div></li><li
+class="aft-trending-posts list-part af-sec-post"><div
+class="aft-trending-posts list-part af-sec-post"><div
+class="af-double-column list-style clearfix aft-list-show-image"><div
+class="read-single color-pad"><div
+class="col-3 float-l pos-rel read-img read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">Come cambiare la voce dell&#39;Assistente Google</a>
+<noscript><img
+width="150" height="150" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-350x350.png?quality=100&f=auto 350w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png?quality=100&f=auto 512w,
+"></noscript><img
+width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E 150w" sizes="(max-width: 150px) 100vw, 150px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png 150w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-350x350.png 350w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png 512w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png"></div><div
+class="col-66 float-l pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">Come cambiare la voce dell&#39;Assistente Google</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 21, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div></div></li><li
+class="aft-trending-posts list-part af-sec-post"><div
+class="aft-trending-posts list-part af-sec-post"><div
+class="af-double-column list-style clearfix aft-list-show-image"><div
+class="read-single color-pad"><div
+class="col-3 float-l pos-rel read-img read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/come-impostare-un-profilo-vocale-amazon-alexa/">Come impostare un profilo vocale Amazon Alexa</a>
+<noscript><img
+width="150" height="150" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-150x150.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-150x150.png?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-350x350.png?quality=100&f=auto 350w,
+"></noscript><img
+width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E 150w" sizes="(max-width: 150px) 100vw, 150px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-150x150.png 150w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-350x350.png 350w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-150x150.png"></div><div
+class="col-66 float-l pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/come-impostare-un-profilo-vocale-amazon-alexa/">Come impostare un profilo vocale Amazon Alexa</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 20, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div></div></li><li
+class="aft-trending-posts list-part af-sec-post"><div
+class="aft-trending-posts list-part af-sec-post"><div
+class="af-double-column list-style clearfix aft-list-show-image"><div
+class="read-single color-pad"><div
+class="col-3 float-l pos-rel read-img read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/software-per-la-contabilita-semplificata-come-si-usano/">Software per la contabilità semplificata: come si usano</a>
+<noscript><img
+width="150" height="150" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-150x150.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-150x150.jpg?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-350x350.jpg?quality=100&f=auto 350w,
+"></noscript><img
+width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E 150w" sizes="(max-width: 150px) 100vw, 150px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-150x150.jpg 150w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-350x350.jpg 350w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-150x150.jpg"></div><div
+class="col-66 float-l pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/software-per-la-contabilita-semplificata-come-si-usano/">Software per la contabilità semplificata: come si usano</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 19, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div></div></li></ul></div><div
+id="aft-main-banner-latest-trending-popular-popular" role="tabpanel" class="tab-pane"><ul
+class="article-item article-list-item article-tabbed-list article-item-left"><li
+class="aft-trending-posts list-part af-sec-post"><div
+class="aft-trending-posts list-part af-sec-post"><div
+class="af-double-column list-style clearfix aft-list-show-image"><div
+class="read-single color-pad"><div
+class="col-3 float-l pos-rel read-img read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a>
+<noscript><img
+width="150" height="150" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-150x150.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-150x150.jpg?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-350x350.jpg?quality=100&f=auto 350w,
+"></noscript><img
+width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E 150w" sizes="(max-width: 150px) 100vw, 150px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-150x150.jpg 150w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-350x350.jpg 350w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-150x150.jpg"></div><div
+class="col-66 float-l pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 24, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div></div></li><li
+class="aft-trending-posts list-part af-sec-post"><div
+class="aft-trending-posts list-part af-sec-post"><div
+class="af-double-column list-style clearfix aft-list-show-image"><div
+class="read-single color-pad"><div
+class="col-3 float-l pos-rel read-img read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/free-up-space-and-earn-cash-by-recycling-your-old-samsung-phone-null/">Libera spazio e guadagna denaro riciclando il tuo vecchio telefono Samsung null</a>
+<noscript><img
+width="150" height="150" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2020/08/libera-spazio-e-guadagna-denaro-riciclando-il-tuo-vecchio-telefono-samsung-null-150x150.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2020/08/libera-spazio-e-guadagna-denaro-riciclando-il-tuo-vecchio-telefono-samsung-null-150x150.jpg?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2020/08/libera-spazio-e-guadagna-denaro-riciclando-il-tuo-vecchio-telefono-samsung-null-80x80.jpg?quality=100&f=auto 80w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2020/08/libera-spazio-e-guadagna-denaro-riciclando-il-tuo-vecchio-telefono-samsung-null-320x320.jpg?quality=100&f=auto 320w,
+"></noscript><img
+width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E 150w" sizes="(max-width: 150px) 100vw, 150px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2020/08/libera-spazio-e-guadagna-denaro-riciclando-il-tuo-vecchio-telefono-samsung-null-150x150.jpg 150w, https://www.ilbloggatore.com/wp-content/uploads/2020/08/libera-spazio-e-guadagna-denaro-riciclando-il-tuo-vecchio-telefono-samsung-null-80x80.jpg 80w, https://www.ilbloggatore.com/wp-content/uploads/2020/08/libera-spazio-e-guadagna-denaro-riciclando-il-tuo-vecchio-telefono-samsung-null-320x320.jpg 320w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2020/08/libera-spazio-e-guadagna-denaro-riciclando-il-tuo-vecchio-telefono-samsung-null-150x150.jpg"></div><div
+class="col-66 float-l pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/free-up-space-and-earn-cash-by-recycling-your-old-samsung-phone-null/">Libera spazio e guadagna denaro riciclando il tuo vecchio telefono Samsung null</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Settembre 25, 2017            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div></div></li><li
+class="aft-trending-posts list-part af-sec-post"><div
+class="aft-trending-posts list-part af-sec-post"><div
+class="af-double-column list-style clearfix aft-list-show-image"><div
+class="read-single color-pad"><div
+class="col-3 float-l pos-rel read-img read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/apple-pay-uae-everything-you-need-to-know-null/">Apple Pay UAE: tutto ciò che devi sapere null</a>
+<noscript><img
+width="150" height="150" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2020/08/apple-pay-uae-tutto-cio-che-devi-sapere-null-150x150.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2020/08/apple-pay-uae-tutto-cio-che-devi-sapere-null-150x150.jpg?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2020/08/apple-pay-uae-tutto-cio-che-devi-sapere-null-80x80.jpg?quality=100&f=auto 80w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2020/08/apple-pay-uae-tutto-cio-che-devi-sapere-null-320x320.jpg?quality=100&f=auto 320w,
+"></noscript><img
+width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E 150w" sizes="(max-width: 150px) 100vw, 150px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2020/08/apple-pay-uae-tutto-cio-che-devi-sapere-null-150x150.jpg 150w, https://www.ilbloggatore.com/wp-content/uploads/2020/08/apple-pay-uae-tutto-cio-che-devi-sapere-null-80x80.jpg 80w, https://www.ilbloggatore.com/wp-content/uploads/2020/08/apple-pay-uae-tutto-cio-che-devi-sapere-null-320x320.jpg 320w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2020/08/apple-pay-uae-tutto-cio-che-devi-sapere-null-150x150.jpg"></div><div
+class="col-66 float-l pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/apple-pay-uae-everything-you-need-to-know-null/">Apple Pay UAE: tutto ciò che devi sapere null</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Ottobre 24, 2017            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div></div></li><li
+class="aft-trending-posts list-part af-sec-post"><div
+class="aft-trending-posts list-part af-sec-post"><div
+class="af-double-column list-style clearfix aft-list-show-image"><div
+class="read-single color-pad"><div
+class="col-3 float-l pos-rel read-img read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/holiday-survival-guide-how-to-make-the-most-out-of-your-android-device-this-season/">Guida alla sopravvivenza durante le vacanze: come ottenere il massimo dal tuo dispositivo Android in questa stagione</a>
+<noscript><img
+width="150" height="150" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2021/11/guida-alla-sopravvivenza-durante-le-vacanze-come-ottenere-il-massimo-dal-tuo-dispositivo-android-in-questa-stagione-150x150.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2021/11/guida-alla-sopravvivenza-durante-le-vacanze-come-ottenere-il-massimo-dal-tuo-dispositivo-android-in-questa-stagione-150x150.jpg?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2021/11/guida-alla-sopravvivenza-durante-le-vacanze-come-ottenere-il-massimo-dal-tuo-dispositivo-android-in-questa-stagione-350x350.jpg?quality=100&f=auto 350w,
+"></noscript><img
+width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E" class="attachment-thumbnail size-thumbnail no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20150%20150%22%3E%3C%2Fsvg%3E 150w" sizes="(max-width: 150px) 100vw, 150px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2021/11/guida-alla-sopravvivenza-durante-le-vacanze-come-ottenere-il-massimo-dal-tuo-dispositivo-android-in-questa-stagione-150x150.jpg 150w, https://www.ilbloggatore.com/wp-content/uploads/2021/11/guida-alla-sopravvivenza-durante-le-vacanze-come-ottenere-il-massimo-dal-tuo-dispositivo-android-in-questa-stagione-350x350.jpg 350w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2021/11/guida-alla-sopravvivenza-durante-le-vacanze-come-ottenere-il-massimo-dal-tuo-dispositivo-android-in-questa-stagione-150x150.jpg"></div><div
+class="col-66 float-l pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/holiday-survival-guide-how-to-make-the-most-out-of-your-android-device-this-season/">Guida alla sopravvivenza durante le vacanze: come ottenere il massimo dal tuo dispositivo Android in questa stagione</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 20, 2017            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div></div></li></ul></div></div></div></div></div></div></div><div
+class="aft-thumb-part col-4 pad float-l aft-position-2"><div
+class="af-main-banner-thumb-posts"><div
+class="section-wrapper"><div
+class="small-grid-style clearfix"><div
+class="af-sec-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-texts-over-image"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a>
+<noscript><img
+width="300" height="158" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-medium size-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-1024x538.jpg?quality=100&f=auto 1024w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-768x403.jpg?quality=100&f=auto 768w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama.jpg?quality=100&f=auto 1200w,
+"></noscript><img
+width="300" height="158" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20158%22%3E%3C%2Fsvg%3E" class="attachment-medium size-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20158%22%3E%3C%2Fsvg%3E 300w" sizes="(max-width: 300px) 100vw, 300px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-1024x538.jpg 1024w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-768x403.jpg 768w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama.jpg 1200w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 24, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div><div
+class="af-sec-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-texts-over-image"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">Come cambiare la voce dell&#39;Assistente Google</a>
+<noscript><img
+width="300" height="300" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-medium size-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-350x350.png?quality=100&f=auto 350w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png?quality=100&f=auto 512w,
+"></noscript><img
+width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20300%22%3E%3C%2Fsvg%3E" class="attachment-medium size-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20300%22%3E%3C%2Fsvg%3E 300w" sizes="(max-width: 300px) 100vw, 300px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png 150w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-350x350.png 350w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png 512w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">4 min read</span></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">Come cambiare la voce dell&#39;Assistente Google</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 21, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div></div></div></div></div></div></div></div></section><div
+class="aft-frontpage-feature-section-wrapper"><section
+class="aft-blocks af-main-banner-featured-posts"><div
+class="container-wrapper"><div
+class="af-main-banner-featured-posts featured-posts darknews-customizer"><div
+class="af-title-subtitle-wrap"><div
+class="af-title-subtitle-wrap"><h4 class="widget-title header-after1">
+<span
+class="heading-line-before"></span>
+<span
+class="heading-line">Featured Posts</span>
+<span
+class="heading-line-after"></span></h4></div></div><div
+class="section-wrapper af-widget-body"><div
+class="af-container-row clearfix"><div
+class="af-sec-post col-4 pad float-l"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-texts-over-image"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a>
+<noscript><img
+width="300" height="158" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-medium size-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-1024x538.jpg?quality=100&f=auto 1024w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-768x403.jpg?quality=100&f=auto 768w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama.jpg?quality=100&f=auto 1200w,
+"></noscript><img
+width="300" height="158" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20158%22%3E%3C%2Fsvg%3E" class="attachment-medium size-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20158%22%3E%3C%2Fsvg%3E 300w" sizes="(max-width: 300px) 100vw, 300px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-1024x538.jpg 1024w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-768x403.jpg 768w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama.jpg 1200w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 24, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div><div
+class="af-sec-post col-4 pad float-l"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-texts-over-image"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">Come cambiare la voce dell&#39;Assistente Google</a>
+<noscript><img
+width="300" height="300" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-medium size-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-350x350.png?quality=100&f=auto 350w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png?quality=100&f=auto 512w,
+"></noscript><img
+width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20300%22%3E%3C%2Fsvg%3E" class="attachment-medium size-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20300%22%3E%3C%2Fsvg%3E 300w" sizes="(max-width: 300px) 100vw, 300px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png 150w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-350x350.png 350w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png 512w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">4 min read</span></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">Come cambiare la voce dell&#39;Assistente Google</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 21, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div><div
+class="af-sec-post col-4 pad float-l"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-texts-over-image"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/come-impostare-un-profilo-vocale-amazon-alexa/">Come impostare un profilo vocale Amazon Alexa</a>
+<noscript><img
+width="300" height="158" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-medium size-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-300x158.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-300x158.png?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-1024x538.png?quality=100&f=auto 1024w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-768x403.png?quality=100&f=auto 768w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa.png?quality=100&f=auto 1200w,
+"></noscript><img
+width="300" height="158" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20158%22%3E%3C%2Fsvg%3E" class="attachment-medium size-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20158%22%3E%3C%2Fsvg%3E 300w" sizes="(max-width: 300px) 100vw, 300px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-300x158.png 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-1024x538.png 1024w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-768x403.png 768w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa.png 1200w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-300x158.png"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/come-impostare-un-profilo-vocale-amazon-alexa/">Come impostare un profilo vocale Amazon Alexa</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 20, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div><div
+class="af-sec-post col-4 pad float-l"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-texts-over-image"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/software-per-la-contabilita-semplificata-come-si-usano/">Software per la contabilità semplificata: come si usano</a>
+<noscript><img
+width="300" height="189" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-medium size-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-300x189.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-300x189.jpg?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-1024x644.jpg?quality=100&f=auto 1024w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-768x483.jpg?quality=100&f=auto 768w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano.jpg?quality=100&f=auto 1040w,
+"></noscript><img
+width="300" height="189" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20189%22%3E%3C%2Fsvg%3E" class="attachment-medium size-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20189%22%3E%3C%2Fsvg%3E 300w" sizes="(max-width: 300px) 100vw, 300px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-300x189.jpg 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-1024x644.jpg 1024w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-768x483.jpg 768w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano.jpg 1040w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-300x189.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">2 min read</span></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/attualita/">
+Attualità
+</a></li></ul></div><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/software-per-la-contabilita-semplificata-come-si-usano/">Software per la contabilità semplificata: come si usano</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 19, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div></div></div></div></div></section></div><div
+id="content" class="container-wrapper"><section
+class="section-block-upper"><div
+id="primary" class="content-area"><main
+id="main" class="site-main"><div
+class="af-container-row aft-archive-wrapper darknews-customizer clearfix archive-layout-grid three-col-masonry"><article
+id="post-30601" class="af-sec-post latest-posts-grid col-3 float-l pad archive-layout-grid archive-image-default post-30601 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-in-evidenza category-life-style"                 data-mh="archive-layout-grid"><div
+class="archive-grid-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/il-gioco-online-incontra-le-ultime-frontiere-dellai/">Il gioco online incontra le ultime frontiere dell’AI</a>
+<noscript><img
+width="720" height="405" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image" alt decoding="async" sizes="(max-width: 720px) 100vw, 720px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1.jpg?quality=100&f=auto 1920w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1-300x169.jpg?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1-1024x576.jpg?quality=100&f=auto 1024w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1-768x432.jpg?quality=100&f=auto 768w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1-1536x864.jpg?quality=100&f=auto 1536w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1-1280x720.jpg?quality=100&f=auto 1280w,
+"></noscript><img
+width="720" height="405" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20720%20405%22%3E%3C%2Fsvg%3E" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image lazyload" alt decoding="async" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20720%20405%22%3E%3C%2Fsvg%3E 720w" sizes="(max-width: 720px) 100vw, 720px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1.jpg 1920w, https://www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1-300x169.jpg 300w, https://www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1-1024x576.jpg 1024w, https://www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1-768x432.jpg 768w, https://www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1-1536x864.jpg 1536w, https://www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1-1280x720.jpg 1280w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2021/09/il-gioco-online-incontra-le-ultime-frontiere-dellai-1.jpg" loading="lazy"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/in-evidenza/">
+In evidenza
+</a></li><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/life-style/">
+Life Style
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/il-gioco-online-incontra-le-ultime-frontiere-dellai/">Il gioco online incontra le ultime frontiere dell’AI</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Settembre 13, 2021            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div><div
+class="post-description">
+Si parla sempre più spesso di&nbsp;intelligenza artificiale. L’argomento ormai non è più un tema da film o...<div
+class="aft-readmore-wrapper"><a
+href="https://www.ilbloggatore.com/il-gioco-online-incontra-le-ultime-frontiere-dellai/" class="aft-readmore">Read More</a></div></div></div></div></div></article><article
+id="post-31180" class="af-sec-post latest-posts-grid col-3 float-l pad archive-layout-grid archive-image-default post-31180 post type-post status-publish format-standard has-post-thumbnail hentry category-come-fare-per"                 data-mh="archive-layout-grid"><div
+class="archive-grid-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a>
+<noscript><img
+width="720" height="530" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 720px) 100vw, 720px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-720x530.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-720x530.jpg?w=150&quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-720x530.jpg?w=720&quality=100&f=auto 720w,
+"></noscript><img
+width="720" height="530" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20720%20530%22%3E%3C%2Fsvg%3E" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-720x530.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 24, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div><div
+class="post-description">
+Stanco di ascoltare Alexa quando non vuoi che lo faccia? Questa guida spiega come cambiare il...<div
+class="aft-readmore-wrapper"><a
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/" class="aft-readmore">Read More</a></div></div></div></div></div></article><article
+id="post-31186" class="af-sec-post latest-posts-grid col-3 float-l pad archive-layout-grid archive-image-default post-31186 post type-post status-publish format-standard has-post-thumbnail hentry category-come-fare-per"                 data-mh="archive-layout-grid"><div
+class="archive-grid-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">Come cambiare la voce dell&#39;Assistente Google</a>
+<noscript><img
+width="512" height="512" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 512px) 100vw, 512px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png?quality=100&f=auto 512w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-350x350.png?quality=100&f=auto 350w,
+"></noscript><img
+width="512" height="512" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3C%2Fsvg%3E" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%3E%3C%2Fsvg%3E 512w" sizes="(max-width: 512px) 100vw, 512px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png 512w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png 150w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-350x350.png 350w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">4 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">Come cambiare la voce dell&#39;Assistente Google</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 21, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div><div
+class="post-description">
+Stanco della voce dell'Assistente Google? Se possiedi un altoparlante Google Home, puoi modificare la voce predefinita...<div
+class="aft-readmore-wrapper"><a
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/" class="aft-readmore">Read More</a></div></div></div></div></div></article><article
+id="post-31189" class="af-sec-post latest-posts-grid col-3 float-l pad archive-layout-grid archive-image-default post-31189 post type-post status-publish format-standard has-post-thumbnail hentry category-come-fare-per"                 data-mh="archive-layout-grid"><div
+class="archive-grid-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/come-impostare-un-profilo-vocale-amazon-alexa/">Come impostare un profilo vocale Amazon Alexa</a>
+<noscript><img
+width="720" height="530" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 720px) 100vw, 720px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-720x530.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-720x530.png?w=150&quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-720x530.png?w=720&quality=100&f=auto 720w,
+"></noscript><img
+width="720" height="530" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20720%20530%22%3E%3C%2Fsvg%3E" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-720x530.png"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/come-impostare-un-profilo-vocale-amazon-alexa/">Come impostare un profilo vocale Amazon Alexa</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 20, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div><div
+class="post-description">
+I dispositivi Echo ora hanno la possibilità di impostare profili vocali univoci in modo che Alexa...<div
+class="aft-readmore-wrapper"><a
+href="https://www.ilbloggatore.com/come-impostare-un-profilo-vocale-amazon-alexa/" class="aft-readmore">Read More</a></div></div></div></div></div></article><article
+id="post-31099" class="af-sec-post latest-posts-grid col-3 float-l pad archive-layout-grid archive-image-default post-31099 post type-post status-publish format-standard has-post-thumbnail hentry category-attualita"                 data-mh="archive-layout-grid"><div
+class="archive-grid-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/software-per-la-contabilita-semplificata-come-si-usano/">Software per la contabilità semplificata: come si usano</a>
+<noscript><img
+width="720" height="530" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 720px) 100vw, 720px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-720x530.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-720x530.jpg?w=150&quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-720x530.jpg?w=720&quality=100&f=auto 720w,
+"></noscript><img
+width="720" height="530" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20720%20530%22%3E%3C%2Fsvg%3E" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-720x530.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">2 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/attualita/">
+Attualità
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/software-per-la-contabilita-semplificata-come-si-usano/">Software per la contabilità semplificata: come si usano</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 19, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div><div
+class="post-description">
+Le piccole imprese oggi possono contare su un regime contabile semplificato, che permette loro di avere a...<div
+class="aft-readmore-wrapper"><a
+href="https://www.ilbloggatore.com/software-per-la-contabilita-semplificata-come-si-usano/" class="aft-readmore">Read More</a></div></div></div></div></div></article><article
+id="post-31127" class="af-sec-post latest-posts-grid col-3 float-l pad archive-layout-grid archive-image-default post-31127 post type-post status-publish format-standard has-post-thumbnail hentry category-life-style"                 data-mh="archive-layout-grid"><div
+class="archive-grid-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/i-migliori-profumi-da-regalare-per-natale/">I migliori profumi da regalare per Natale</a>
+<noscript><img
+width="690" height="400" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 690px) 100vw, 690px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale.jpg?quality=100&f=auto 690w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale-300x174.jpg?quality=100&f=auto 300w,
+"></noscript><img
+width="690" height="400" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20690%20400%22%3E%3C%2Fsvg%3E" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20690%20400%22%3E%3C%2Fsvg%3E 690w" sizes="(max-width: 690px) 100vw, 690px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale.jpg 690w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale-300x174.jpg 300w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/i-migliori-profumi-da-regalare-per-natale.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/life-style/">
+Life Style
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/i-migliori-profumi-da-regalare-per-natale/">I migliori profumi da regalare per Natale</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 19, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div><div
+class="post-description">
+Regalare un profumo a Natale, può non essere semplice, ma un’essenza ben scelta può donare un sorriso...<div
+class="aft-readmore-wrapper"><a
+href="https://www.ilbloggatore.com/i-migliori-profumi-da-regalare-per-natale/" class="aft-readmore">Read More</a></div></div></div></div></div></article><article
+id="post-31108" class="af-sec-post latest-posts-grid col-3 float-l pad archive-layout-grid archive-image-default post-31108 post type-post status-publish format-standard has-post-thumbnail hentry category-come-fare-per"                 data-mh="archive-layout-grid"><div
+class="archive-grid-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-use-android-phone-without-power-or-volume-buttons/">Come utilizzare il telefono Android senza pulsanti di accensione o volume</a>
+<noscript><img
+width="720" height="530" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 720px) 100vw, 720px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-utilizzare-il-telefono-android-senza-pulsanti-di-accensione-o-volume-9-720x530.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-utilizzare-il-telefono-android-senza-pulsanti-di-accensione-o-volume-9-720x530.jpg?w=150&quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-utilizzare-il-telefono-android-senza-pulsanti-di-accensione-o-volume-9-720x530.jpg?w=720&quality=100&f=auto 720w,
+"></noscript><img
+width="720" height="530" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20720%20530%22%3E%3C%2Fsvg%3E" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-utilizzare-il-telefono-android-senza-pulsanti-di-accensione-o-volume-9-720x530.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">5 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-use-android-phone-without-power-or-volume-buttons/">Come utilizzare il telefono Android senza pulsanti di accensione o volume</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 16, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div><div
+class="post-description">
+Come altri componenti hardware, anche i pulsanti fisici del tuo telefono Android possono smettere di funzionare....<div
+class="aft-readmore-wrapper"><a
+href="https://www.ilbloggatore.com/how-to-use-android-phone-without-power-or-volume-buttons/" class="aft-readmore">Read More</a></div></div></div></div></div></article><article
+id="post-31102" class="af-sec-post latest-posts-grid col-3 float-l pad archive-layout-grid archive-image-default post-31102 post type-post status-publish format-standard has-post-thumbnail hentry category-come-fare-per"                 data-mh="archive-layout-grid"><div
+class="archive-grid-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/2-ways-to-use-mobile-data-in-flight-mode-on-android/">2 modi per utilizzare i dati mobili in modalità aereo su Android</a>
+<noscript><img
+width="720" height="530" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 720px) 100vw, 720px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/2-modi-per-utilizzare-i-dati-mobili-in-modalita-aereo-su-android-1-720x530.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/2-modi-per-utilizzare-i-dati-mobili-in-modalita-aereo-su-android-1-720x530.png?w=150&quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/2-modi-per-utilizzare-i-dati-mobili-in-modalita-aereo-su-android-1-720x530.png?w=720&quality=100&f=auto 720w,
+"></noscript><img
+width="720" height="530" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20720%20530%22%3E%3C%2Fsvg%3E" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/2-modi-per-utilizzare-i-dati-mobili-in-modalita-aereo-su-android-1-720x530.png"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/2-ways-to-use-mobile-data-in-flight-mode-on-android/">2 modi per utilizzare i dati mobili in modalità aereo su Android</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 16, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div><div
+class="post-description">
+Sono sicuro che sai già che la modalità aereo o la modalità aereo disabilita tutti i...<div
+class="aft-readmore-wrapper"><a
+href="https://www.ilbloggatore.com/2-ways-to-use-mobile-data-in-flight-mode-on-android/" class="aft-readmore">Read More</a></div></div></div></div></div></article><article
+id="post-31114" class="af-sec-post latest-posts-grid col-3 float-l pad archive-layout-grid archive-image-default post-31114 post type-post status-publish format-standard has-post-thumbnail hentry category-come-fare-per"                 data-mh="archive-layout-grid"><div
+class="archive-grid-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-play-youtube-in-the-background-on-iphone-and-android/">Come riprodurre YouTube in background su iPhone e Android</a>
+<noscript><img
+width="720" height="383" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 720px) 100vw, 720px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-riprodurre-youtube-in-background-su-iphone-e-android-720x383.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-riprodurre-youtube-in-background-su-iphone-e-android-720x383.jpg?w=150&quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-riprodurre-youtube-in-background-su-iphone-e-android-720x383.jpg?w=720&quality=100&f=auto 720w,
+"></noscript><img
+width="720" height="383" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20720%20383%22%3E%3C%2Fsvg%3E" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-riprodurre-youtube-in-background-su-iphone-e-android-720x383.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">4 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-play-youtube-in-the-background-on-iphone-and-android/">Come riprodurre YouTube in background su iPhone e Android</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 11, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div><div
+class="post-description">
+Mobile YouTube è ottimo per quando vuoi guardare cose mentre sei in movimento, ma potresti semplicemente...<div
+class="aft-readmore-wrapper"><a
+href="https://www.ilbloggatore.com/how-to-play-youtube-in-the-background-on-iphone-and-android/" class="aft-readmore">Read More</a></div></div></div></div></div></article><article
+id="post-31096" class="af-sec-post latest-posts-grid col-3 float-l pad archive-layout-grid archive-image-default post-31096 post type-post status-publish format-standard has-post-thumbnail hentry category-life-style"                 data-mh="archive-layout-grid"><div
+class="archive-grid-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/come-abbinare-il-whiskey-al-cibo/">Come abbinare il whiskey al cibo</a>
+<noscript><img
+width="720" height="530" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 720px) 100vw, 720px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/11/come-abbinare-il-whiskey-al-cibo-720x530.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/11/come-abbinare-il-whiskey-al-cibo-720x530.jpg?w=150&quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/11/come-abbinare-il-whiskey-al-cibo-720x530.jpg?w=720&quality=100&f=auto 720w,
+"></noscript><img
+width="720" height="530" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20720%20530%22%3E%3C%2Fsvg%3E" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/11/come-abbinare-il-whiskey-al-cibo-720x530.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/life-style/">
+Life Style
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/come-abbinare-il-whiskey-al-cibo/">Come abbinare il whiskey al cibo</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 6, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div><div
+class="post-description">
+In questo periodo storico è sempre più frequente sentir parlare di percorsi di degustazione, in tantissime forme...<div
+class="aft-readmore-wrapper"><a
+href="https://www.ilbloggatore.com/come-abbinare-il-whiskey-al-cibo/" class="aft-readmore">Read More</a></div></div></div></div></div></article><article
+id="post-31088" class="af-sec-post latest-posts-grid col-3 float-l pad archive-layout-grid archive-image-default post-31088 post type-post status-publish format-standard has-post-thumbnail hentry category-life-style"                 data-mh="archive-layout-grid"><div
+class="archive-grid-post"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/i-migliori-regali-per-natale-di-questanno/">I migliori regali per Natale di quest&#8217;anno</a>
+<noscript><img
+width="720" height="530" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 720px) 100vw, 720px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/11/wepik-photo-mode-20221029-183024-720x530.jpeg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/11/wepik-photo-mode-20221029-183024-720x530.jpeg?w=150&quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/11/wepik-photo-mode-20221029-183024-720x530.jpeg?w=720&quality=100&f=auto 720w,
+"></noscript><img
+width="720" height="530" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20720%20530%22%3E%3C%2Fsvg%3E" class="attachment-darknews-medium size-darknews-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/11/wepik-photo-mode-20221029-183024-720x530.jpeg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">2 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/life-style/">
+Life Style
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/i-migliori-regali-per-natale-di-questanno/">I migliori regali per Natale di quest&#8217;anno</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links">
+<span
+class="item-metadata posts-author byline">
+<a
+href="https://www.ilbloggatore.com/author/admin/">
+Redazione                </a>
+</span><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 2, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div><div
+class="post-description">
+Fare la scelta giusta quando si parla di regali di Natale non è mai semplice. Ecco allora...<div
+class="aft-readmore-wrapper"><a
+href="https://www.ilbloggatore.com/i-migliori-regali-per-natale-di-questanno/" class="aft-readmore">Read More</a></div></div></div></div></div></article><div
+class="sektion-wrapper nb-loc" data-sek-level="location" data-sek-id="loop_end" data-sek-is-global-location=\"false\"   ><div
+data-sek-level="section" data-sek-id="__nimble__d5f3b04b32fd"  class="sek-section sek-has-modules"    ><div
+class="sek-container-fluid"><div
+class="sek-row sek-sektion-inner"><div
+data-sek-level="column" data-sek-id="__nimble__3b68a1c58ed7" class="sek-column sek-col-base sek-col-100"     ><div
+class="sek-column-inner"><div
+data-sek-level="module" data-sek-id="__nimble__9155eabb685b" data-sek-module-type="czr_widget_area_module" class="sek-module" title=""     ><div
+class="sek-module-inner"></div></div></div></div></div></div></div></div></div></main><div
+class="col col-ten"><div
+class="darknews-pagination"><nav
+class="navigation pagination" aria-label="Articoli"><h2 class="screen-reader-text">Navigazione articoli</h2><div
+class="nav-links"><span
+aria-current="page" class="page-numbers current">1</span>
+<a
+class="page-numbers" href="https://www.ilbloggatore.com/page/2/">2</a>
+<a
+class="page-numbers" href="https://www.ilbloggatore.com/page/3/">3</a>
+<a
+class="page-numbers" href="https://www.ilbloggatore.com/page/4/">4</a>
+<span
+class="page-numbers dots">&hellip;</span>
+<a
+class="page-numbers" href="https://www.ilbloggatore.com/page/130/">130</a>
+<a
+class="next page-numbers" href="https://www.ilbloggatore.com/page/2/">Next</a></div></nav></div></div></div></section></div><section
+class="aft-blocks above-footer-widget-section"><div
+class="af-main-banner-latest-posts grid-layout darknews-customizer"><div
+class="container-wrapper"><div
+class="widget-title-section"><div
+class="af-title-subtitle-wrap"><h4 class="widget-title header-after1">
+<span
+class="heading-line-before"></span>
+<span
+class="heading-line">potrebbe anche interessarti</span>
+<span
+class="heading-line-after"></span></h4></div></div><div
+class="af-container-row clearfix"><div
+class="col-4 pad float-l"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a>
+<noscript><img
+width="300" height="158" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-medium size-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-1024x538.jpg?quality=100&f=auto 1024w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-768x403.jpg?quality=100&f=auto 768w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama.jpg?quality=100&f=auto 1200w,
+"></noscript><img
+width="300" height="158" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20158%22%3E%3C%2Fsvg%3E" class="attachment-medium size-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20158%22%3E%3C%2Fsvg%3E 300w" sizes="(max-width: 300px) 100vw, 300px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-1024x538.jpg 1024w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-768x403.jpg 768w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama.jpg 1200w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/come-cambiare-il-nome-di-alexa-o-il-nome-che-alexa-ti-chiama-300x158.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-alexas-name-or-the-name-alexa-calls-you/">Come cambiare il nome di Alexa, o come fare in modo che Alexa ti possa chiamare con un altro nome</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 24, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div><div
+class="col-4 pad float-l"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">Come cambiare la voce dell&#39;Assistente Google</a>
+<noscript><img
+width="300" height="300" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-medium size-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png?quality=100&f=auto 150w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-350x350.png?quality=100&f=auto 350w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png?quality=100&f=auto 512w,
+"></noscript><img
+width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20300%22%3E%3C%2Fsvg%3E" class="attachment-medium size-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20300%22%3E%3C%2Fsvg%3E 300w" sizes="(max-width: 300px) 100vw, 300px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-150x150.png 150w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-350x350.png 350w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant.png 512w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Gassistant-300x300.png"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">4 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/how-to-change-google-assistants-voice/">Come cambiare la voce dell&#39;Assistente Google</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 21, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div><div
+class="col-4 pad float-l"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/come-impostare-un-profilo-vocale-amazon-alexa/">Come impostare un profilo vocale Amazon Alexa</a>
+<noscript><img
+width="300" height="158" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-medium size-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-300x158.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-300x158.png?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-1024x538.png?quality=100&f=auto 1024w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-768x403.png?quality=100&f=auto 768w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa.png?quality=100&f=auto 1200w,
+"></noscript><img
+width="300" height="158" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20158%22%3E%3C%2Fsvg%3E" class="attachment-medium size-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20158%22%3E%3C%2Fsvg%3E 300w" sizes="(max-width: 300px) 100vw, 300px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-300x158.png 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-1024x538.png 1024w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-768x403.png 768w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa.png 1200w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/Alexa-300x158.png"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">3 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/come-fare-per/">
+Come fare per...
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/come-impostare-un-profilo-vocale-amazon-alexa/">Come impostare un profilo vocale Amazon Alexa</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 20, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div><div
+class="col-4 pad float-l"><div
+class="pos-rel read-single color-pad clearfix af-cat-widget-carousel grid-design-default"><div
+class="read-img pos-rel read-bg-img">
+<a
+class="aft-post-image-link"
+href="https://www.ilbloggatore.com/software-per-la-contabilita-semplificata-come-si-usano/">Software per la contabilità semplificata: come si usano</a>
+<noscript><img
+width="300" height="189" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" class="attachment-medium size-medium no-lazy wp-post-image" alt decoding="async" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" data-loading="lazy" data-src="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-300x189.jpg?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-300x189.jpg?quality=100&f=auto 300w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-1024x644.jpg?quality=100&f=auto 1024w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-768x483.jpg?quality=100&f=auto 768w,
+https://cdn.statically.io/img/www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano.jpg?quality=100&f=auto 1040w,
+"></noscript><img
+width="300" height="189" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20189%22%3E%3C%2Fsvg%3E" class="attachment-medium size-medium no-lazy wp-post-image lazyload" alt decoding="async" loading="lazy" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20189%22%3E%3C%2Fsvg%3E 300w" sizes="(max-width: 300px) 100vw, 300px" data-srcset="https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-300x189.jpg 300w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-1024x644.jpg 1024w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-768x483.jpg 768w, https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano.jpg 1040w" data-src="https://www.ilbloggatore.com/wp-content/uploads/2022/12/software-per-la-contabilita-semplificata-come-si-usano-300x189.jpg"><div
+class="post-format-and-min-read-wrap">
+<span
+class="min-read">2 min read</span></div><div
+class="category-min-read-wrap"><div
+class="read-categories"><ul
+class="cat-links"><li
+class="meta-category">
+<a
+class="darknews-categories category-color-1" href="https://www.ilbloggatore.com/category/attualita/">
+Attualità
+</a></li></ul></div></div></div><div
+class="pad read-details color-tp-pad"><div
+class="read-title"><h4>
+<a
+href="https://www.ilbloggatore.com/software-per-la-contabilita-semplificata-come-si-usano/">Software per la contabilità semplificata: come si usano</a></h4></div><div
+class="post-item-metadata entry-meta"><span
+class="author-links"><span
+class="item-metadata posts-date">
+<i
+class="far fa-clock" aria-hidden="true"></i>
+Dicembre 19, 2022            </span>
+</span>
+<span
+class="aft-comment-view-share">
+</span></div></div></div></div></div></div></div></section><footer
+class="site-footer aft-footer-sidebar-col-3" data-background=""><div
+class="primary-footer"><div
+class="container-wrapper"><div
+class="af-container-row"><div
+class="primary-footer-area footer-first-widgets-section col-3 float-l pad"><section
+class="widget-area color-pad"><div
+id="custom_html-8" class="widget_text widget darknews-widget widget_custom_html"><h2 class="widget-title widget-title-1"><span
+class="heading-line-before"></span><span
+class="heading-line">I nostri servizi:</span><span
+class="heading-line-after"></span></h2><div
+class="textwidget custom-html-widget">
+<a
+href="https://www.ilbloggatore.com/chi-siamo/">Chi siamo</a></div></div><div
+id="block-3" class="widget darknews-widget widget_block"><h2 class="has-small-font-size"></h2></div></section></div><div
+class="primary-footer-area footer-second-widgets-section  col-3 float-l pad"><section
+class="widget-area color-pad"><div
+id="custom_html-9" class="widget_text widget darknews-widget widget_custom_html"><h2 class="widget-title widget-title-1"><span
+class="heading-line-before"></span><span
+class="heading-line">I nostri partners:</span><span
+class="heading-line-after"></span></h2><div
+class="textwidget custom-html-widget">
+<a
+href="https://www.adeguamentiprivacy.it">Adeguamentiprivacy</a>
+<br>
+<a
+href="https://www.bugfixing.it">BugFixing</a><br>
+<a
+href="https://www.itsdigital.it">It's Digital</a></div></div></section></div><div
+class="primary-footer-area footer-third-widgets-section  col-3 float-l pad"><section
+class="widget-area color-pad"><div
+id="custom_html-10" class="widget_text widget darknews-widget widget_custom_html"><h2 class="widget-title widget-title-1"><span
+class="heading-line-before"></span><span
+class="heading-line">Scrivici:</span><span
+class="heading-line-after"></span></h2><div
+class="textwidget custom-html-widget"> <a
+href="https://www.ilbloggatore.com/chi-siamo/?id=95">Chi siamo</a></div></div></section></div></div></div></div><div
+class="site-info"><div
+class="container-wrapper"><div
+class="af-container-row"><div
+class="col-1 color-pad">
+Copyright &copy; All rights reserved.                                                                                    <span
+class="sep"> | </span>
+<a
+href="https://afthemes.com/products/darknews/" target="_blank">DarkNews</a> by AF themes.</div></div></div></div></footer></div><a
+id="scroll-up" class="secondary-color right">
+</a><noscript><p><img
+alt="Clicky" width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-loading="lazy" data-src="https://cdn.statically.io/img/in.getclicky.com/100669114ns.gif?quality=100&f=auto" /></p></noscript><div
+id="cookie-law-info-bar" data-nosnippet="true"><span>Questo sito fa utilizzo di cookies, leggi l'informativa per saperne di più <a
+role='button' class="cli_settings_button" style="margin:5px 20px 5px 20px">Cookie settings</a><a
+role='button' data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn" style="display:inline-block;margin:5px">ACCETTO</a></span></div><div
+id="cookie-law-info-again" style="display:none" data-nosnippet="true"><span
+id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div
+class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true"><div
+class="cli-modal-dialog" role="document"><div
+class="cli-modal-content cli-bar-popup">
+<button
+type="button" class="cli-modal-close" id="cliModalClose">
+<svg
+class="" viewbox="0 0 24 24"><path
+d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path
+d="M0 0h24v24h-24z" fill="none"></path></svg>
+<span
+class="wt-cli-sr-only">Chiudi</span>
+</button><div
+class="cli-modal-body"><div
+class="cli-container-fluid cli-tab-container"><div
+class="cli-row"><div
+class="cli-col-12 cli-align-items-stretch cli-px-0"><div
+class="cli-privacy-overview"><h4>Privacy Overview</h4><div
+class="cli-privacy-content"><div
+class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</div></div>
+<a
+class="cli-privacy-readmore" aria-label="Mostra altro" role="button" data-readmore-text="Mostra altro" data-readless-text="Mostra meno"></a></div></div><div
+class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container"><div
+class="cli-tab-section"><div
+class="cli-tab-header">
+<a
+role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+Necessary							</a><div
+class="wt-cli-necessary-checkbox">
+<input
+type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+<label
+class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label></div>
+<span
+class="cli-necessary-caption">Sempre abilitato</span></div><div
+class="cli-tab-content"><div
+class="cli-tab-pane cli-fade" data-id="necessary"><div
+class="wt-cli-cookie-description">
+Nessun cookie è necessario</div></div></div></div></div></div></div></div><div
+class="cli-modal-footer"><div
+class="wt-cli-element cli-container-fluid cli-tab-container"><div
+class="cli-row"><div
+class="cli-col-12 cli-align-items-stretch cli-px-0"><div
+class="cli-tab-footer wt-cli-privacy-overview-actions">
+<a
+id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">ACCETTA E SALVA</a></div></div></div></div></div></div></div></div><div
+class="cli-modal-backdrop cli-fade cli-settings-overlay"></div><div
+class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<script defer src="data:text/javascript;base64,ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKaWYgKGRvY3VtZW50LnJlYWR5U3RhdGUgIT09ICdsb2FkaW5nJykgewogICAgd3RzX2NvdW50X2luaXQoKTsKfSAKZWxzZSB7CiAgIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ0RPTUNvbnRlbnRMb2FkZWQnLCBmdW5jdGlvbiAoKSB7CiAgICAgIHd0c19jb3VudF9pbml0KCk7CiAgIH0pOwp9CnZhciB3dHM3ID0ge307Cnd0czcudXNlcl9pZCA9ICd7ImlkIjowLCJuYW1lIjpmYWxzZSwiZW1haWwiOmZhbHNlLCJkYXRlX3JlZ2lzdGVyZWQiOmZhbHNlLCJwaWMiOiJodHRwczpcL1wvc2VjdXJlLmdyYXZhdGFyLmNvbVwvYXZhdGFyXC8/cz05NiZkPW1tJnI9ZyJ9JzsKd3RzNy5wYXJhbXMgPSAnd29yZFByZXNzJzsKZnVuY3Rpb24gd3RzX2NvdW50X2luaXQoKXsgCiAgIHZhciB1cmwgPSAiaHR0cHM6Ly9hcHAuYXJkYWxpby5jb20vYWpheC5odG0/YWN0aW9uPWxvb2t1cF9XUF9hY2NvdW50JnBhcmFtcz1mSGQzZHk1cGJHSnNiMmRuWVhSdmNtVXVZMjl0ZkRWbE56VTFPREZsTnpBM05qVTFMalkzTnpBMk16Z3pmREI4ZkdGdVpISmxZVUJqYVdGd2NHVnpiMjVwTG1sMGZHbDBMVWxVZkRFdU5DNDMiOwogICBmZXRjaCh1cmwpLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICByZXR1cm4gcmVzcG9uc2UudGV4dCgpOwogICB9KS50aGVuKGZ1bmN0aW9uKHd0c19yZXNwb25zZSkgewogICAgdmFyIHd0c19yZXNwb25zZSA9ICB3dHNfcmVzcG9uc2Uuc3BsaXQoIjoiKTsKICAgIGlmICh3dHNfcmVzcG9uc2VbMF0gPT0gIkFjY291bnQgRm91bmQiKXsKICAgICAgdmFyIHd0c19kaXYgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdkaXYnKTsKICAgICAgd3RzX2Rpdi5zZXRBdHRyaWJ1dGUoJ2lkJywgJ3d0cycrd3RzX3Jlc3BvbnNlWzFdKTsKICAgICAgd3RzX2Rpdi5zdHlsZS50ZXh0QWxpZ249J2NlbnRlcic7CiAgICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQod3RzX2Rpdik7ICAgICAgICAKICAgICAgd3RzbG9nNyh3dHNfcmVzcG9uc2VbMV0sd3RzX3Jlc3BvbnNlWzJdKTsKICAgIH0KICAgfSkuY2F0Y2goZnVuY3Rpb24oZSkgewogICAgIGNvbnNvbGUubG9nKCJlcnJvciAzIC8gcmVzcG9uc2U6ICIrd3RzX3Jlc3BvbnNlKyIgLyBlcnJvcjogIitlKTsKICAgfSk7Cn0gIAo="></script> <style>.wp-block-gallery.wp-block-gallery-1{ --wp--style--unstable-gallery-gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) ); gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) )}</style>                             <script type='text/javascript' id='wpuf-form-js-extra'>/*  */
+var wpuf_frontend = {"ajaxurl":"https:\/\/www.ilbloggatore.com\/wp-admin\/admin-ajax.php","error_message":"Please fix the errors to proceed","nonce":"b7b7236574","word_limit":"Word limit reached"};
+var error_str_obj = {"required":"is required","mismatch":"does not match","validation":"is not valid","duplicate":"requires a unique entry and this value has already been used"};
+var wpuf_frontend_upload = {"confirmMsg":"Are you sure?","delete_it":"Yes, delete it","cancel_it":"No, cancel it","nonce":"b7b7236574","ajaxurl":"https:\/\/www.ilbloggatore.com\/wp-admin\/admin-ajax.php","plupload":{"url":"https:\/\/www.ilbloggatore.com\/wp-admin\/admin-ajax.php?nonce=3605ab4a11","flash_swf_url":"https:\/\/www.ilbloggatore.com\/wp-includes\/js\/plupload\/plupload.flash.swf","filters":[{"title":"Allowed Files","extensions":"*"}],"multipart":true,"urlstream_upload":true,"warning":"Maximum number of files reached!","size_error":"The file you have uploaded exceeds the file size limit. Please try again.","type_error":"You have uploaded an incorrect file type. Please try again."}};
+var wpuf_frontend = {"ajaxurl":"https:\/\/www.ilbloggatore.com\/wp-admin\/admin-ajax.php","error_message":"Please fix the errors to proceed","nonce":"b7b7236574","cancelSubMsg":"Are you sure you want to cancel your current subscription ?","delete_it":"Yes","cancel_it":"No","char_max":"Character limit reached","char_min":"Minimum character required ","word_max":"Word limit reached","word_min":"Minimum word required "};
+/*  */</script>    <script defer src="data:text/javascript;base64,CiAgICAgICAgICAgIG5iXy5saXN0ZW5UbygnbmItZG9jcmVhZHknLCBmdW5jdGlvbigpIHsNCiAgICAgICAgICAgICAgICBuYl8ucHJlbG9hZE9yRGVmZXJBc3NldCggew0KICAgICAgICAgICAgICAgICAgaWQgOiAnbmItbWFpbi1qcycsDQogICAgICAgICAgICAgICAgICBhcyA6ICdzY3JpcHQnLA0KICAgICAgICAgICAgICAgICAgaHJlZiA6ICJodHRwczovL3d3dy5pbGJsb2dnYXRvcmUuY29tL3dwLWNvbnRlbnQvcGx1Z2lucy9uaW1ibGUtYnVpbGRlci9hc3NldHMvZnJvbnQvanMvY2NhdC1uaW1ibGUtZnJvbnQuanM/dj0xNjcyNjc5MTEyIiwNCiAgICAgICAgICAgICAgICAgIHNjcmlwdEVsIDogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ25iLWxvYWQtbWFpbi1zY3JpcHQnKQ0KICAgICAgICAgICAgICAgIH0pOw0KICAgICAgICAgICAgfSk7DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmJfLmxpc3RlblRvKCduYi1uZWVkcy1zd2lwZXInLCBmdW5jdGlvbigpIHsNCiAgICAgICAgICAgICAgICAgICAgbmJfLnByZWxvYWRPckRlZmVyQXNzZXQoIHsNCiAgICAgICAgICAgICAgICAgICAgICBpZCA6ICJzbGlkZXItbW9kdWxlIiwNCiAgICAgICAgICAgICAgICAgICAgICBhcyA6ICdzY3JpcHQnLA0KICAgICAgICAgICAgICAgICAgICAgIGhyZWYgOiAiaHR0cHM6Ly93d3cuaWxibG9nZ2F0b3JlLmNvbS93cC1jb250ZW50L3BsdWdpbnMvbmltYmxlLWJ1aWxkZXIvYXNzZXRzL2Zyb250L2pzL3BhcnRpYWxzL3NsaWRlci1tb2R1bGUuanM/dj0xNjcyNjc5MTEyIiwNCiAgICAgICAgICAgICAgICAgICAgICBzY3JpcHRFbCA6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCduYi1sb2FkLXNjcmlwdC1zbGlkZXItbW9kdWxlJykNCiAgICAgICAgICAgICAgICAgICAgfSk7DQogICAgICAgICAgICAgICAgfSk7DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5iXy5saXN0ZW5UbygnbmItbmVlZHMtbWVudS1qcycsIGZ1bmN0aW9uKCkgew0KICAgICAgICAgICAgICAgICAgICBuYl8ucHJlbG9hZE9yRGVmZXJBc3NldCggew0KICAgICAgICAgICAgICAgICAgICAgIGlkIDogIm1lbnUtbW9kdWxlIiwNCiAgICAgICAgICAgICAgICAgICAgICBhcyA6ICdzY3JpcHQnLA0KICAgICAgICAgICAgICAgICAgICAgIGhyZWYgOiAiaHR0cHM6Ly93d3cuaWxibG9nZ2F0b3JlLmNvbS93cC1jb250ZW50L3BsdWdpbnMvbmltYmxlLWJ1aWxkZXIvYXNzZXRzL2Zyb250L2pzL3BhcnRpYWxzL21lbnUtbW9kdWxlLmpzP3Y9MTY3MjY3OTExMiIsDQogICAgICAgICAgICAgICAgICAgICAgc2NyaXB0RWwgOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbmItbG9hZC1zY3JpcHQtbWVudS1tb2R1bGUnKQ0KICAgICAgICAgICAgICAgICAgICB9KTsNCiAgICAgICAgICAgICAgICB9KTsNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmJfLmxpc3RlblRvKCduYi1uZWVkcy1wYXJhbGxheCcsIGZ1bmN0aW9uKCkgew0KICAgICAgICAgICAgICAgICAgICBuYl8ucHJlbG9hZE9yRGVmZXJBc3NldCggew0KICAgICAgICAgICAgICAgICAgICAgIGlkIDogImZyb250LXBhcmFsbGF4IiwNCiAgICAgICAgICAgICAgICAgICAgICBhcyA6ICdzY3JpcHQnLA0KICAgICAgICAgICAgICAgICAgICAgIGhyZWYgOiAiaHR0cHM6Ly93d3cuaWxibG9nZ2F0b3JlLmNvbS93cC1jb250ZW50L3BsdWdpbnMvbmltYmxlLWJ1aWxkZXIvYXNzZXRzL2Zyb250L2pzL3BhcnRpYWxzL2Zyb250LXBhcmFsbGF4LmpzP3Y9MTY3MjY3OTExMiIsDQogICAgICAgICAgICAgICAgICAgICAgc2NyaXB0RWwgOiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbmItbG9hZC1zY3JpcHQtZnJvbnQtcGFyYWxsYXgnKQ0KICAgICAgICAgICAgICAgICAgICB9KTsNCiAgICAgICAgICAgICAgICB9KTsNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmJfLmxpc3RlblRvKCduYi1uZWVkcy1hY2NvcmRpb24nLCBmdW5jdGlvbigpIHsNCiAgICAgICAgICAgICAgICAgICAgbmJfLnByZWxvYWRPckRlZmVyQXNzZXQoIHsNCiAgICAgICAgICAgICAgICAgICAgICBpZCA6ICJhY2NvcmRpb24tbW9kdWxlIiwNCiAgICAgICAgICAgICAgICAgICAgICBhcyA6ICdzY3JpcHQnLA0KICAgICAgICAgICAgICAgICAgICAgIGhyZWYgOiAiaHR0cHM6Ly93d3cuaWxibG9nZ2F0b3JlLmNvbS93cC1jb250ZW50L3BsdWdpbnMvbmltYmxlLWJ1aWxkZXIvYXNzZXRzL2Zyb250L2pzL3BhcnRpYWxzL2FjY29yZGlvbi1tb2R1bGUuanM/dj0xNjcyNjc5MTEyIiwNCiAgICAgICAgICAgICAgICAgICAgICBzY3JpcHRFbCA6IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCduYi1sb2FkLXNjcmlwdC1hY2NvcmRpb24tbW9kdWxlJykNCiAgICAgICAgICAgICAgICAgICAgfSk7DQogICAgICAgICAgICAgICAgfSk7DQogICAgICAgICAgICAgICAgCg==" type='text/javascript' id='nb_main_front_js_preloading-js-after'></script> <script defer src="data:text/javascript;base64,CiAgICAgICAgICAgIG5iXy5saXN0ZW5UbygnbmItbmVlZHMtc3dpcGVib3gnLCBmdW5jdGlvbigpIHsNCiAgICAgICAgICAgICAgICBuYl8ucHJlbG9hZE9yRGVmZXJBc3NldCggew0KICAgICAgICAgICAgICAgICAgICBpZCA6ICduYi1zd2lwZWJveCcsDQogICAgICAgICAgICAgICAgICAgIGFzIDogJ3NjcmlwdCcsDQogICAgICAgICAgICAgICAgICAgIGhyZWYgOiAiaHR0cHM6Ly93d3cuaWxibG9nZ2F0b3JlLmNvbS93cC1jb250ZW50L3BsdWdpbnMvbmltYmxlLWJ1aWxkZXIvYXNzZXRzL2Zyb250L2pzL2xpYnMvanF1ZXJ5LXN3aXBlYm94LmpzPzE2NzI2NzkxMTIiLA0KICAgICAgICAgICAgICAgICAgICBvbkV2ZW50IDogJ25iLWRvY3JlYWR5JywNCiAgICAgICAgICAgICAgICAgICAgLy8gc2NyaXB0RWwgOiBkb2N1bWVudC5jdXJyZW50U2NyaXB0DQogICAgICAgICAgICAgICAgfSk7DQogICAgICAgICAgICAgICAgbmJfLnByZWxvYWRPckRlZmVyQXNzZXQoIHsNCiAgICAgICAgICAgICAgICAgIGlkIDogJ25iLXN3aXBlYm94LXN0eWxlJywNCiAgICAgICAgICAgICAgICAgIGFzIDogJ3N0eWxlJywNCiAgICAgICAgICAgICAgICAgIGhyZWYgOiAiaHR0cHM6Ly93d3cuaWxibG9nZ2F0b3JlLmNvbS93cC1jb250ZW50L3BsdWdpbnMvbmltYmxlLWJ1aWxkZXIvYXNzZXRzL2Zyb250L2Nzcy9saWJzL3N3aXBlYm94Lm1pbi5jc3M/MTY3MjY3OTExMiIsDQogICAgICAgICAgICAgICAgICBvbkV2ZW50IDogJ25iLWRvY3JlYWR5JywNCiAgICAgICAgICAgICAgICAgIC8vIHNjcmlwdEVsIDogZG9jdW1lbnQuY3VycmVudFNjcmlwdA0KICAgICAgICAgICAgICAgIH0pOw0KICAgICAgICAgICAgfSk7DQoNCiAgICAgICAgICAgIG5iXy5saXN0ZW5UbygnbmItbmVlZHMtc3dpcGVyJywgZnVuY3Rpb24oKSB7DQogICAgICAgICAgICAgICAgbmJfLnByZWxvYWRPckRlZmVyQXNzZXQoIHsNCiAgICAgICAgICAgICAgICAgICAgaWQgOiAnbmItc3dpcGVyJywNCiAgICAgICAgICAgICAgICAgICAgYXMgOiAnc2NyaXB0JywNCiAgICAgICAgICAgICAgICAgICAgaHJlZiA6ICJodHRwczovL3d3dy5pbGJsb2dnYXRvcmUuY29tL3dwLWNvbnRlbnQvcGx1Z2lucy9uaW1ibGUtYnVpbGRlci9hc3NldHMvZnJvbnQvanMvbGlicy9zd2lwZXItYnVuZGxlLmpzPzE2NzI2NzkxMTIiLA0KICAgICAgICAgICAgICAgICAgICBvbkV2ZW50IDogJ25iLWRvY3JlYWR5JywNCiAgICAgICAgICAgICAgICAgICAgLy8gc2NyaXB0RWwgOiBkb2N1bWVudC5jdXJyZW50U2NyaXB0DQogICAgICAgICAgICAgICAgfSk7DQogICAgICAgICAgICB9KTsNCiAgICAgICAgICAgIG5iXy5saXN0ZW5UbygnbmItbmVlZHMtdmlkZW9iZy1qcycsIGZ1bmN0aW9uKCkgew0KICAgICAgICAgICAgICAgIG5iXy5wcmVsb2FkT3JEZWZlckFzc2V0KCB7DQogICAgICAgICAgICAgICAgICAgIGlkIDogJ25iLXZpZGVvLWJnLXBsdWdpbicsDQogICAgICAgICAgICAgICAgICAgIGFzIDogJ3NjcmlwdCcsDQogICAgICAgICAgICAgICAgICAgIGhyZWYgOiAiaHR0cHM6Ly93d3cuaWxibG9nZ2F0b3JlLmNvbS93cC1jb250ZW50L3BsdWdpbnMvbmltYmxlLWJ1aWxkZXIvYXNzZXRzL2Zyb250L2pzL2xpYnMvbmltYmxlLXZpZGVvLWJnLmpzPzE2NzI2NzkxMTIiLA0KICAgICAgICAgICAgICAgICAgICBvbkV2ZW50IDogJ25iLWRvY3JlYWR5JywNCiAgICAgICAgICAgICAgICAgICAgLy8gc2NyaXB0RWwgOiBkb2N1bWVudC5jdXJyZW50U2NyaXB0DQogICAgICAgICAgICAgICAgfSk7DQogICAgICAgICAgICB9KTsNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmJfLmxpc3RlblRvKCduYi1uZWVkcy1mYScsIGZ1bmN0aW9uKCkgew0KICAgICAgICAgICAgICAgICAgICBuYl8ucHJlbG9hZE9yRGVmZXJBc3NldCggew0KICAgICAgICAgICAgICAgICAgICAgIGlkIDogJ25iLWZvbnQtYXdlc29tZScsDQogICAgICAgICAgICAgICAgICAgICAgYXMgOiAnc3R5bGUnLA0KICAgICAgICAgICAgICAgICAgICAgIGhyZWYgOiAiaHR0cHM6Ly93d3cuaWxibG9nZ2F0b3JlLmNvbS93cC1jb250ZW50L3BsdWdpbnMvbmltYmxlLWJ1aWxkZXIvYXNzZXRzL2Zyb250L2ZvbnRzL2Nzcy9mb250YXdlc29tZS1hbGwubWluLmNzcz8xNjcyNjc5MTEyIiwNCiAgICAgICAgICAgICAgICAgICAgICBvbkV2ZW50IDogJ25iLWRvY3JlYWR5JywNCiAgICAgICAgICAgICAgICAgICAgICBzY3JpcHRFbCA6IGRvY3VtZW50LmN1cnJlbnRTY3JpcHQNCiAgICAgICAgICAgICAgICAgICAgfSk7DQogICAgICAgICAgICAgICAgfSk7DQogICAgICAgICAgICAgICAgCg==" type='text/javascript' id='nb_preload_front_assets-js-after'></script>  <script defer src="data:text/javascript;base64,InVzZSBzdHJpY3QiO3dpbmRvdy5GSUNvbmZpZz17bGF6eU1ldGhvZDoiamF2YXNjcmlwdCIsbGF6eU1hcmdpbjo1MDB9O3ZhciBmbHlpbmdJbWFnZXM9ZnVuY3Rpb24oKXt2YXIgYT1kb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCJbZGF0YS1sb2FkaW5nPVwibGF6eVwiXSIpO2lmKHdpbmRvdy5GSUNvbmZpZy5sYXp5TWV0aG9kLmluY2x1ZGVzKCJuYXRpdmUiKSYmImxvYWRpbmciaW4gSFRNTEltYWdlRWxlbWVudC5wcm90b3R5cGUpYS5mb3JFYWNoKGZ1bmN0aW9uKGEpe2EucmVtb3ZlQXR0cmlidXRlKCJkYXRhLWxvYWRpbmciKSxhLnNldEF0dHJpYnV0ZSgibG9hZGluZyIsImxhenkiKSxhLmRhdGFzZXQuc3Jjc2V0JiYoYS5zcmNzZXQ9YS5kYXRhc2V0LnNyY3NldCksYS5zcmM9YS5kYXRhc2V0LnNyY30pO2Vsc2UgaWYod2luZG93LkludGVyc2VjdGlvbk9ic2VydmVyKXt2YXIgYj1uZXcgSW50ZXJzZWN0aW9uT2JzZXJ2ZXIoZnVuY3Rpb24oYSl7YS5mb3JFYWNoKGZ1bmN0aW9uKGEpe2EuaXNJbnRlcnNlY3RpbmcmJihiLnVub2JzZXJ2ZShhLnRhcmdldCksYS50YXJnZXQuZGF0YXNldC5zcmNzZXQmJihhLnRhcmdldC5zcmNzZXQ9YS50YXJnZXQuZGF0YXNldC5zcmNzZXQpLGEudGFyZ2V0LnNyYz1hLnRhcmdldC5kYXRhc2V0LnNyYyxhLnRhcmdldC5jbGFzc0xpc3QuYWRkKCJsYXp5bG9hZGVkIiksYS50YXJnZXQucmVtb3ZlQXR0cmlidXRlKCJkYXRhLWxvYWRpbmciKSl9KX0se3Jvb3RNYXJnaW46d2luZG93LkZJQ29uZmlnLmxhenlNYXJnaW4rInB4In0pO2EuZm9yRWFjaChmdW5jdGlvbihhKXtiLm9ic2VydmUoYSl9KX1lbHNlIGZvcih2YXIgYz0wO2M8YS5sZW5ndGg7YysrKWFbY10uZGF0YXNldC5zcmNzZXQmJihhW2NdLnNyY3NldD1hW2NdLmRhdGFzZXQuc3Jjc2V0KSxhW2NdLnNyYz1hW2NdLmRhdGFzZXQuc3JjfTtmbHlpbmdJbWFnZXMoKTtmdW5jdGlvbiB0aHJvdHRsZShhLGIpe3ZhciBjPSExO3JldHVybiBmdW5jdGlvbigpe2N8fChhLmFwcGx5KG51bGwsYXJndW1lbnRzKSxjPSEwLHNldFRpbWVvdXQoZnVuY3Rpb24oKXtjPSExfSxiKSl9fXZhciBkeW5hbWljQ29udGVudE9ic2VydmVyPW5ldyBNdXRhdGlvbk9ic2VydmVyKHRocm90dGxlKGZseWluZ0ltYWdlcywxMjUpKTtkeW5hbWljQ29udGVudE9ic2VydmVyLm9ic2VydmUoZG9jdW1lbnQuYm9keSx7YXR0cmlidXRlczohMCxjaGlsZExpc3Q6ITAsc3VidHJlZTohMH0pLGZ1bmN0aW9uKCl7dmFyIGE9ZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiW2RhdGEtbG9hZGluZz1cImxhenktYmFja2dyb3VuZFwiXSIpO2lmKHdpbmRvdy5JbnRlcnNlY3Rpb25PYnNlcnZlcil7dmFyIGQ9bmV3IEludGVyc2VjdGlvbk9ic2VydmVyKGZ1bmN0aW9uKGEpe2EuZm9yRWFjaChmdW5jdGlvbihhKXtpZihhLmlzSW50ZXJzZWN0aW5nKXtkLnVub2JzZXJ2ZShhLnRhcmdldCk7dmFyIGI9YS50YXJnZXQuZ2V0QXR0cmlidXRlKCJzdHlsZSIpLGM9Yi5yZXBsYWNlKCJiYWNrZ3JvdW5kOm5vbmU7IiwiIik7YS50YXJnZXQuc2V0QXR0cmlidXRlKCJzdHlsZSIsYyksYS50YXJnZXQucmVtb3ZlQXR0cmlidXRlKCJkYXRhLWxvYWRpbmciKX19KX0se3Jvb3RNYXJnaW46d2luZG93LkZJQ29uZmlnLmxhenlNYXJnaW4rInB4In0pO2EuZm9yRWFjaChmdW5jdGlvbihhKXtkLm9ic2VydmUoYSl9KX1lbHNlIGZvcih2YXIgZT0wO2U8YS5sZW5ndGg7ZSsrKXt2YXIgYj1hW2VdLnRhcmdldC5nZXRBdHRyaWJ1dGUoInN0eWxlIiksYz1iLnJlcGxhY2UoImJhY2tncm91bmQ6bm9uZTsiLCIiKTthW2VdLnRhcmdldC5zZXRBdHRyaWJ1dGUoInN0eWxlIixjKSxhW2VdLnRhcmdldC5yZW1vdmVBdHRyaWJ1dGUoImRhdGEtbG9hZGluZyIpfX0oKTs=" type="text/javascript" id="flying-images"></script> <script defer src="data:text/javascript;base64,IWZ1bmN0aW9uKCl7d2luZG93LmFkdmFuY2VkX2Fkc19yZWFkeV9xdWV1ZT13aW5kb3cuYWR2YW5jZWRfYWRzX3JlYWR5X3F1ZXVlfHxbXSxhZHZhbmNlZF9hZHNfcmVhZHlfcXVldWUucHVzaD13aW5kb3cuYWR2YW5jZWRfYWRzX3JlYWR5O2Zvcih2YXIgZD0wLGE9YWR2YW5jZWRfYWRzX3JlYWR5X3F1ZXVlLmxlbmd0aDtkPGE7ZCsrKWFkdmFuY2VkX2Fkc19yZWFkeShhZHZhbmNlZF9hZHNfcmVhZHlfcXVldWVbZF0pfSgpOw=="></script> <script defer src="https://www.ilbloggatore.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-d03307d50c2cc999f9b9911467b2af64.js"></script></body></html>
+<!-- Optimized by Speed Booster Pack v4.5.5 -->

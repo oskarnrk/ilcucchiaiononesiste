@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html class="no-js" lang="it-IT">
+<head itemscope itemtype="http://schema.org/WebSite">
+	<meta charset="UTF-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<!--iOS/android/handheld specific -->
+<link rel="apple-touch-icon" href="http://www.dgtvi.it/wp-content/themes/schema/apple-touch-icon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta itemprop="name" content="DGTVI" />
+    <meta itemprop="url" content="http://www.dgtvi.it" />
+    	<link rel="pingback" href="http://www.dgtvi.it/xmlrpc.php" />
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script>
+	<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>DGTVI - il sito delle notizie più importanti di oggi</title>
+	<meta name="description" content="il sito delle notizie più importanti di oggi" />
+	<link rel="canonical" href="http://www.dgtvi.it/" />
+	<meta property="og:locale" content="it_IT" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="DGTVI" />
+	<meta property="og:description" content="il sito delle notizie più importanti di oggi" />
+	<meta property="og:url" content="http://www.dgtvi.it/" />
+	<meta property="og:site_name" content="DGTVI" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://www.dgtvi.it/#website","url":"http://www.dgtvi.it/","name":"DGTVI","description":"il sito delle notizie più importanti di oggi","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://www.dgtvi.it/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"it-IT"},{"@type":"CollectionPage","@id":"http://www.dgtvi.it/#webpage","url":"http://www.dgtvi.it/","name":"DGTVI - il sito delle notizie più importanti di oggi","isPartOf":{"@id":"http://www.dgtvi.it/#website"},"description":"il sito delle notizie più importanti di oggi","breadcrumb":{"@id":"http://www.dgtvi.it/#breadcrumb"},"inLanguage":"it-IT","potentialAction":[{"@type":"ReadAction","target":["http://www.dgtvi.it/"]}]},{"@type":"BreadcrumbList","@id":"http://www.dgtvi.it/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="DGTVI &raquo; Feed" href="http://www.dgtvi.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="DGTVI &raquo; Feed dei commenti" href="http://www.dgtvi.it/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.dgtvi.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.5"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://www.dgtvi.it/wp-includes/css/dist/block-library/style.min.css?ver=5.9.5' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='link-juice-keeper-css'  href='http://www.dgtvi.it/wp-content/plugins/link-juice-keeper/public/css/link-juice-keeper-public.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='http://www.dgtvi.it/wp-content/themes/schema/style.css?ver=5.9.5' type='text/css' media='all' />
+<style id='stylesheet-inline-css' type='text/css'>
+
+		body {background-color:#F5F5F5; }
+		body {background-image: url( http://www.dgtvi.it/wp-content/themes/schema/images/nobg.png );}
+		.pace .pace-progress, #mobile-menu-wrapper ul li a:hover { background: #555555; }
+		.postauthor h5, .copyrights a, .single_post a, .textwidget a, .pnavigation2 a, .sidebar.c-4-12 a:hover, .copyrights a:hover, footer .widget li a:hover, .sidebar.c-4-12 a:hover, .related-posts a:hover .title, .reply a, .title a:hover, .post-info a:hover, .comm, #tabber .inside li a:hover, .readMore a:hover, .fn a, a, a:hover, .secondary-navigation #navigation ul li a:hover, .readMore a, .primary-navigation a:hover, .secondary-navigation #navigation ul .current-menu-item a, .widget .wp_review_tab_widget_content a, .sidebar .wpt_widget_content a { color:#555555; }	
+			nav li.pull a#pull, #commentform input#submit, .contactform #submit, .mts-subscribe input[type='submit'], #move-to-top:hover, .currenttext, .pagination a:hover, .pagination .nav-previous a:hover, .pagination .nav-next a:hover, #load-posts a:hover, .single .pagination a:hover .currenttext, #tabber ul.tabs li a.selected, .tagcloud a, #navigation ul .sfHover a, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce .bypostauthor:after, #searchsubmit, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .latestPost-review-wrapper, .sbutton, #searchsubmit, .widget .wpt_widget_content #tags-tab-content ul li a, .widget .review-total-only.large-thumb { background-color:#555555; color: #fff!important; }
+		footer {background-color:#222222; }
+		footer {background-image: url( http://www.dgtvi.it/wp-content/themes/schema/images/nobg.png );}
+		.copyrights { background-color: #ffffff; }
+		.flex-control-thumbs .flex-active{ border-top:3px solid #555555;}
+		
+		.shareit { top: 285px; left: auto; z-index: 0; margin: 0 0 0 -155px; width: 90px; position: fixed; overflow: hidden; padding: 5px; border:none; border-right: 0; background: #fff; -webkit-box-shadow: 0px 0px 1px 0px rgba(50, 50, 50, 0.1); -moz-box-shadow: 0px 0px 1px 0px rgba(50, 50, 50, 0.1); box-shadow: 0px 0px 1px 0px rgba(50, 50, 50, 0.1);}
+		.share-item {margin: 2px;}
+		
+		.bypostauthor {padding: 3%!important;background: #222;width: 94%!important;color: #AAA;}
+        .bypostauthor .fn {color: #fff;}
+		.bypostauthor:after { content: "\f044";position: absolute;font-family: fontawesome;right: 0;top: 0;padding: 1px 10px;color: #535353;font-size: 32px; }
+		
+		
+			
+</style>
+<script type='text/javascript' src='http://www.dgtvi.it/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://www.dgtvi.it/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://www.dgtvi.it/wp-content/plugins/link-juice-keeper/public/js/link-juice-keeper-public.js?ver=2.0.1' id='link-juice-keeper-js'></script>
+<script type='text/javascript' id='customscript-js-extra'>
+/* <![CDATA[ */
+var mts_customscript = {"responsive":"1","nav_menu":"primary"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.dgtvi.it/wp-content/themes/schema/js/customscript.js?ver=5.9.5' id='customscript-js'></script>
+<link rel="https://api.w.org/" href="http://www.dgtvi.it/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.dgtvi.it/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.dgtvi.it/wp-includes/wlwmanifest.xml" /> 
+<!--Theme by MyThemeShop.com-->
+<link href="//fonts.googleapis.com/css?family=Roboto+Slab:normal|Raleway:500|Raleway:700|Roboto+Slab:300&amp;subset=latin" rel="stylesheet" type="text/css">
+<style type="text/css">
+#logo a { font-family: 'Roboto Slab'; font-weight: normal; font-size: 32px; color: #222;text-transform: uppercase; }
+.primary-navigation a { font-family: 'Raleway'; font-weight: 500; font-size: 13px; color: #777; }
+.secondary-navigation a { font-family: 'Raleway'; font-weight: 700; font-size: 16px; color: #fff;text-transform: uppercase; }
+.latestPost .title a { font-family: 'Roboto Slab'; font-weight: 300; font-size: 38px; color: #555555; }
+.single-title { font-family: 'Roboto Slab'; font-weight: 300; font-size: 38px; color: #222; }
+body { font-family: 'Raleway'; font-weight: 500; font-size: 16px; color: #444444; }
+#sidebars .widget h3 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 20px; color: #222222;text-transform: uppercase; }
+#sidebars .widget { font-family: 'Raleway'; font-weight: 500; font-size: 16px; color: #444444; }
+.footer-widgets h3 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 18px; color: #ffffff;text-transform: uppercase; }
+.f-widget a, footer .wpt_widget_content a, footer .wp_review_tab_widget_content a, footer .wpt_tab_widget_content a, footer .widget .wp_review_tab_widget_content a { font-family: 'Raleway'; font-weight: 500; font-size: 16px; color: #999999; }
+.footer-widgets, .f-widget .top-posts .comment_num, footer .meta, footer .twitter_time, footer .widget .wpt_widget_content .wpt-postmeta, footer .widget .wpt_comment_content, footer .widget .wpt_excerpt, footer .wp_review_tab_widget_content .wp-review-tab-postmeta, footer .advanced-recent-posts p, footer .popular-posts p, footer .category-posts p { font-family: 'Raleway'; font-weight: 500; font-size: 16px; color: #777777; }
+#copyright-note, #copyright-note a { font-family: 'Raleway'; font-weight: 500; font-size: 14px; color: #7e7d7d; }
+h1 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 28px; color: #222222; }
+h2 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 24px; color: #222222; }
+h3 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 22px; color: #222222; }
+h4 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 20px; color: #222222; }
+h5 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 18px; color: #222222; }
+h6 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 16px; color: #222222; }
+</style>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+<body id ="blog" class="home blog main" itemscope itemtype="http://schema.org/WebPage">
+	<div class="main-container-wrap">
+		<header id="site-header" class="main-header regular_header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+
+		    			    <div id="regular-header">
+			    	<div class="container">
+						<div class="logo-wrap">
+																									<h1 id="logo" class="text-logo" itemprop="headline">
+											<a href="http://www.dgtvi.it">DGTVI</a>
+										</h1><!-- END #logo -->
+																					</div>
+											</div>
+				</div>
+										<div id="header">
+							<div class="container">
+										<div class="secondary-navigation">
+						<nav id="navigation" class="clearfix" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+															<ul class="menu clearfix">
+									<li class="menu-item pull"><a href="#" id="pull" class="toggle-mobile-menu">Menu</a></li>
+										<li class="cat-item cat-item-7"><a href="http://www.dgtvi.it/politica/">Politica</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.dgtvi.it/salud/">Salud</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.dgtvi.it/sport/">Sport</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.dgtvi.it/tv/">TV</a>
+</li>
+								</ul>
+													</nav>
+					</div>              
+				</div><!--#header-->
+			</div>
+		</header>
+		<div class="main-container"><div id="page">
+	<div class="article">
+		<div id="content_box">
+										            
+                                    
+            				<article class="latestPost excerpt  " itemscope itemtype="http://schema.org/BlogPosting">
+					<header>
+						<h2 class="title front-view-title" itemprop="headline"><a href="http://www.dgtvi.it/la-nascita-dellassociazione/" title="La nascita dell&#8217;associazione">La nascita dell&#8217;associazione</a></h2>
+									<div class="post-info">
+													<span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">Ottobre 8, 2021</span></span>
+													<span class="thecategory"><i class="fa fa-tags"></i> <a href="http://www.dgtvi.it/politica/" title="View all posts in Politica"  itemprop="articleSection">Politica</a></span>
+													<span class="thecomment"><i class="fa fa-comments"></i> <a rel="nofollow" href="http://www.dgtvi.it/la-nascita-dellassociazione/#respond" itemprop="interactionCount">Nessun commento</a></span>
+							</div>
+							</header>
+                                        
+                                            <div class="front-view-content full-post">
+                            <div id="attachment_53" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-53" class="size-full wp-image-53" src="http://www.dgtvi.it/wp-content/uploads/2016/12/La-nascita-dellassociazione.jpg" alt=" La nascita dell'associazione" width="800" height="600" srcset="http://www.dgtvi.it/wp-content/uploads/2016/12/La-nascita-dellassociazione.jpg 800w, http://www.dgtvi.it/wp-content/uploads/2016/12/La-nascita-dellassociazione-300x225.jpg 300w, http://www.dgtvi.it/wp-content/uploads/2016/12/La-nascita-dellassociazione-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-53" class="wp-caption-text">La nascita dell&#8217;associazione</p></div>
+<p style="text-align: justify;">L&#8217;Associazione dei Commercianti della provincia di Padova nasce ufficialmente il 9 novembre 1945, quando, nello studio del notaio Dott. Giuseppe Salce, si riunisce un gruppo di operatori commerciali, tra i quali figurano nomi che getteranno le basi del nuovo terziario padovano, richiamandosi ad una gloriosa tradizione e ad una antica vocazione mercantile: Mazzuccato, Gribaldo, Leonardi, Menato, Prosdocimi, Zanibon, Felletti-Spadazzi, Contarello, Dalla Barba, Randi, Garola, Corradini, Morassutti, Testi, per citare soltanto i più noti. Le ferite del secondo conflitto mondiale sono ancora dolorosamente aperte in città e provincia. Padova soprattutto appare martoriata anche in alcuni dei soui storici monumenti. Ma gli spiriti non sono sopiti. La riconquistata libertà risveglia aneliti e slanci di ricostruzione e di rinascita: urbanistica, economica, morale e civile. E i commercianti sono tra i primi a rimboccarsi le maniche, ad assumere impegni associativi che si tradurranno in incisi interventi, a richiamare quello spirito di servizio che, anche in antico, li aveva resi benemeriti dell&#8217;immagine operosa del capoluogo e di tanti centri della provincia. Nella prima sede dell&#8217;Associazione, al civico numero 12 in via Umberto I°, comincia a dipanarsi così il nuovo discorso del terziario padovano che abbraccerà più tardi i settori del turismo e dei servizi. Accanto a quelli che si definiscono oggi i compiti di istituto. La tutela degli interessi della categoria nelle sue varie realtà ed espressioni, nel campo economico, sindacale e tributario; il coordinamento dell&#8217;attività dei diversi settori commerciali; la rappresentanza e l&#8217;assistenza ai propri associati nei confronti di autorità, Enti ed uffici pubblici in tutte le questioni e i problemi di carattere mercantile. L&#8217;Associazione, fin dalla sua costituzione, non ignora i problemi del territorio e della collettività, ma bisognerà attendere qualche anno perchè le sua istanze e le sue proposte possano trovare udienza presso i reggitori della cosa pubblica.</p>
+<p style="text-align: justify;">La crescita in questi decenni</p>
+<p style="text-align: justify;">Sono passati cinquant&#8217;anni da quel 9 novembre 1945 nel quale venne ufficialmente sancita la costituzione dell&#8217;Associazione dei Commercianti della provincia di Padova. Mezzo secolo scandito da significativi momenti di attività associativa, da marcati traguardi sindacali, da un forte impegno civile e da una diffusa vocazione ad affrontare i problemi del territorio, delle aree urbane e delle collettività. Perchè non è da oggi che gli operatori commerciali di Padova e della sua provincia si sono calati nelle realtà locali con autentico con autentico spirito di servizio, fornendo contributi ispirati da un forte senso civico. Con la crescita associazionistica e un razionale decentramento organizzativo sono aumentati, al di là dei compiti istituzionali originari, gli impegni anche in direzione di altri settori e realtà. E così il Turismo e i Servizi si sono aggiunti, anche nella denominazione associativa, al commercio, creando di fatto un organismo operativo che ha pochi eguali e che configura la forza rimarchevole di una categoria che, nel corso di 50 anni, ha assunto il ruolo di protagonista nella quotidiana vicenda di ogni centro padovano.</p>
+                        </div>
+                                                            </article><!--.post excerpt-->
+							<article class="latestPost excerpt  " itemscope itemtype="http://schema.org/BlogPosting">
+					<header>
+						<h2 class="title front-view-title" itemprop="headline"><a href="http://www.dgtvi.it/openig-ceremony-closing-ceremony-medal-ceremony/" title="Openig Ceremony, Closing Ceremony, Medal Ceremony.">Openig Ceremony, Closing Ceremony, Medal Ceremony.</a></h2>
+									<div class="post-info">
+													<span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">Agosto 19, 2020</span></span>
+													<span class="thecategory"><i class="fa fa-tags"></i> <a href="http://www.dgtvi.it/tv/" title="View all posts in TV"  itemprop="articleSection">TV</a></span>
+													<span class="thecomment"><i class="fa fa-comments"></i> <a rel="nofollow" href="http://www.dgtvi.it/openig-ceremony-closing-ceremony-medal-ceremony/#respond" itemprop="interactionCount">Nessun commento</a></span>
+							</div>
+							</header>
+                        					<a href="http://www.dgtvi.it/openig-ceremony-closing-ceremony-medal-ceremony/" title="Openig Ceremony, Closing Ceremony, Medal Ceremony." rel="nofollow" id="featured-thumbnail" class="featured">
+    					    <div class="featured-thumbnail"><img width="680" height="350" src="http://www.dgtvi.it/wp-content/uploads/2016/11/la-sp-us-new-zealand-soccer-20160803-311-680x350.jpg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy" title="" itemprop="image" /></div>                                                        
+    					</a>
+                                        
+                                            <div class="front-view-content full-post">
+                            <p>Partecipare , il giorno 3 Giugno, alla cerimonia d’apertura della 20^ edizione dei ECSG  sarà un piacere ma deve essere sentito anche come un <strong>dovere</strong>.</p>
+<p>La città di Riccione si è messa a disposizione perché per tutti noi e voi  si creassero  le giuste condizioni ambientali e tecniche per una serie di <a href="https://www.pornochacha.com">porno gratis</a> giornate da ricordare  non solo sui campi di gara.</p>
+<p>Partecipare alla cerimonia d’apertura e di chiusura , partecipare alle Medal Ceremony in Piazzale Roma  deve essere sentito come un <strong>dovere</strong> perché ciascuno di noi rappresenta la <strong>grande famiglia EFCS</strong>.</p>
+<p>Sarà il nostro modo più simpatico per dire <strong>Grazie</strong>.</p>
+<p>Partecipare con entusiasmo a tutte le serate spettacolo che abbiamo organizzato sul grande palco di Piazzale Roma, in riva al mare, deve essere il momento in cui facciamo vedere a tutta la città e a quanti ci osserveranno, quanto grande sia il nostro numero  e quando sia straordinario il nostro entusiasmo, la nostra capacità di aggregazione, di convivenza, di amicizia.</p>
+<p><strong>Voi siete i protagonisti dei vostri Giochi, dimostratelo in ogni momento</strong>.</p>
+<p>Cari amici atleti e staff, grazie.</p>
+<p>Sono molto felice e orgoglioso della vostra decisione di <a href="https://www.pornochacha.com/incesto/">incestos</a> partecipare a questi ECSGRiccione2015.</p>
+<p>La mia avventura di atleta olimpico nasce da una storia come la vostra, quando gareggiavo per una Steel Company, il nome era ITALSIDER.</p>
+<p>Quindi consideratemi a tutti gli effetti uno di voi, uno della vostra famiglia, della famiglia EFCS.</p>
+<p>Lo spirito che ha guidato la mia organizzazione è stata quella di dare credibilità tecnica ad ogni gara ed a ogni torneo. Per fare questo mi sono affidato ai suggerimenti e all’esperienza di persone che hanno organizzato Campionati del Mondo, Campionati Europei, Open di Golf e hanno fatto parte di staff tecnici di Giochi Olimpici.</p>
+<p>Di certo è che abbiamo cercato di accontentare il maggior numero delle vostre richieste, dei vostri desideri.</p>
+<p>Lo dimostrano centinaia e centinaia di email che abbiamo ricevuto e alle quali abbiamo risposto, magari correggendo alcuni errori nelle iscrizioni, cercando di identificare pagamenti fee misteriosi, e tanto altro.</p>
+<p>Molte email le stiamo ricevendo anche in questo momento, con i Giochi ormai imminenti.</p>
+<p>Per soddisfare l’entusiasmo di tutti i partecipanti, in qualche sport si useranno formule di gioco non tradizionali, ma certamente per tutti voi sarà sempre valido il principio di una partecipazione di quantità e di qualità, che dia soddisfazione senza mettere in discussione il valore tecnico della competizione.</p>
+<p>Le regole dello sport non sono immutabili.  A volte le novità fanno del bene.</p>
+<p>Questo non toglie che, come <a href="https://www.pornochacha.com/cornudos/">morbocornudos</a> accade in organizzazioni così complesse, ci possa essere qualche sfasatura.</p>
+<p>Per queste siamo sicuri di ricevere la vostra comprensione.</p>
+<p>Non ci siamo poi dimenticati dello spirito dei nostri Giochi EFCS.</p>
+<p>Ovvero quello di essere una manifestazione di socializzazione, di piacevole conoscenza reciproca, di festa.</p>
+<p>E così abbiamo organizzato una cerimonia di apertura importante ( 3 Giugno, ore 20,30) così come lo sarà quella di chiusura( 6 Giugno ore 20,30). Di queste voi dovrete essere i protagonisti. In queste serate ci sarà spazio per il divertimento, per la musica ed ancor più il divertimento sarà protagonista nelle serate del 4 e 5 Giugno.</p>
+<p>Noi e la Città di Riccione siamo pronti ad abbracciarvi e lo faremo con entusiasmo già nel momento in cui verrete a ritirare il vostro accredito nel Palazzo del Turismo, la vostra casa per tutta la durata dei Giochi.</p>
+<p>Che il sole ed il sorriso siano i vostri compagni d’avventura. Sempre.</p>
+<p>Giacomo Crosa</p>
+<p>Giacomo Crosa</p>
+                        </div>
+                                                            </article><!--.post excerpt-->
+							<article class="latestPost excerpt  last" itemscope itemtype="http://schema.org/BlogPosting">
+					<header>
+						<h2 class="title front-view-title" itemprop="headline"><a href="http://www.dgtvi.it/il-progetto-teatri-abitati/" title="Il Progetto Teatri Abitati">Il Progetto Teatri Abitati</a></h2>
+									<div class="post-info">
+													<span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">Agosto 19, 2020</span></span>
+													<span class="thecategory"><i class="fa fa-tags"></i> <a href="http://www.dgtvi.it/sport/" title="View all posts in Sport"  itemprop="articleSection">Sport</a></span>
+													<span class="thecomment"><i class="fa fa-comments"></i> <a rel="nofollow" href="http://www.dgtvi.it/il-progetto-teatri-abitati/#respond" itemprop="interactionCount">Nessun commento</a></span>
+							</div>
+							</header>
+                        					<a href="http://www.dgtvi.it/il-progetto-teatri-abitati/" title="Il Progetto Teatri Abitati" rel="nofollow" id="featured-thumbnail" class="featured">
+    					    <div class="featured-thumbnail"><img width="616" height="300" src="http://www.dgtvi.it/wp-content/uploads/2016/11/teatri-umbria.jpg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy" title="" itemprop="image" srcset="http://www.dgtvi.it/wp-content/uploads/2016/11/teatri-umbria.jpg 616w, http://www.dgtvi.it/wp-content/uploads/2016/11/teatri-umbria-300x146.jpg 300w" sizes="(max-width: 616px) 100vw, 616px" /></div>                                                        
+    					</a>
+                                        
+                                            <div class="front-view-content full-post">
+                            <div class="top-30 bottom-50">
+<p style="text-align: justify;"><strong>Teatri Abitati</strong> è la consolidata modalità di gestione pubblico/privata dei luoghi di spettacolo dal vivo in Puglia, finanziata dal FESR (Fondo Europeo di Sviluppo Regionale) dell&#8217;Asse IV, Linea di intervento 4.3.2, realizzata dalla Regione Puglia in collaborazione col Teatro Pubblico Pugliese.</p>
+<p style="text-align: justify;">Un modello di residenza teatrale avviato nel 2008 dalla volontà politica regionale orientata all&#8217;investimento delle risorse europee in cultura per lo sviluppo civile ed economico della Puglia.</p>
+<p style="text-align: justify;">Si tratta di un&#8217;azione strutturata che mette a sistema<strong> enti pubblici</strong>, dotati di spazi teatrali e <strong>compagnie regionali di teatro o di danza </strong>che <a href="https://ciaoporno.it/free-porn">porn</a> in questi luoghi si <strong>stabilizzano per gestirli e proporre cultura</strong>.</p>
+<p style="text-align: justify;">Un&#8217;iniziativa programmata nell&#8217;ampio panorama delle proposte regionali a sostegno dell&#8217;industria creativa orientata verso una strategia di rete per lo sviluppo dell&#8217;economia della conoscenza che ha garantito una capillare promozione culturale nei luoghi delle Residenze teatrali pugliesi distribuite per tutte le province della Puglia.</p>
+<p style="text-align: justify;">Teatri Abitati è un progetto che offre a <strong>13 Compagnie Teatrali </strong>regionali la possibilità di mettere in campo competenze artistiche e organizzative per <strong>programmazioni di <a href="https://ciaoporno.it/xnxx">xnxx</a> rassegne, promozione e formazione del pubblico, produzione di spettacoli, animazione culturale del territorio, gestione tecnica e amministrativa dei luoghi di spettacolo</strong> con azioni estese oltre i confini municipali nonché un&#8217;ospitalità rivolta, in partenariato, ad altre compagnie teatrali regionali senza fissa dimora.</p>
+<p style="text-align: justify;">Una serie di attività d&#8217;investimento nell&#8217;economia delle arti che ha favorito fermenti innovativi nel sistema teatrale regionale riscontrabili nei risultati artistici, nei prestigiosi riconoscimenti qualitativi delle produzioni, nella crescita occupazionale, nel benessere immateriale delle comunità e nella riuscita contaminazione tra attività culturale e turistica determinata dalla maggiore attrattività dei luoghi.</p>
+<p style="text-align: justify;">Teatri Abitati s&#8217;impone nella scena nazionale ed internazionale e cattura l&#8217;attenzione di operatori e critici fino a conquistare importanti riconoscimenti: <strong>l&#8217;Eolo Awards nel 2011</strong>, il <a href="https://ciaoporno.it/amatoriale">porno amatoriale</a> <strong>Premio Hystrio Altre Muse nel 2012</strong>, il <strong>Premio dell&#8217;Associazione Nazionale dei Critici di Teatro nel 2013</strong>.</p>
+</div>
+                        </div>
+                                                            </article><!--.post excerpt-->
+							<article class="latestPost excerpt  " itemscope itemtype="http://schema.org/BlogPosting">
+					<header>
+						<h2 class="title front-view-title" itemprop="headline"><a href="http://www.dgtvi.it/salon-international-du-livre-e-de-la-presse-et-du-multimedia/" title="Salon International du Livre e de la Presse et du Multimedia">Salon International du Livre e de la Presse et du Multimedia</a></h2>
+									<div class="post-info">
+													<span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">Ottobre 27, 2018</span></span>
+													<span class="thecategory"><i class="fa fa-tags"></i> <a href="http://www.dgtvi.it/tv/" title="View all posts in TV"  itemprop="articleSection">TV</a></span>
+													<span class="thecomment"><i class="fa fa-comments"></i> <a rel="nofollow" href="http://www.dgtvi.it/salon-international-du-livre-e-de-la-presse-et-du-multimedia/#respond" itemprop="interactionCount">Nessun commento</a></span>
+							</div>
+							</header>
+                        					<a href="http://www.dgtvi.it/salon-international-du-livre-e-de-la-presse-et-du-multimedia/" title="Salon International du Livre e de la Presse et du Multimedia" rel="nofollow" id="featured-thumbnail" class="featured">
+    					    <div class="featured-thumbnail"><img width="627" height="331" src="http://www.dgtvi.it/wp-content/uploads/2016/04/salon-international-du-livre-quebec-2010.jpg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy" title="" itemprop="image" srcset="http://www.dgtvi.it/wp-content/uploads/2016/04/salon-international-du-livre-quebec-2010.jpg 627w, http://www.dgtvi.it/wp-content/uploads/2016/04/salon-international-du-livre-quebec-2010-300x158.jpg 300w" sizes="(max-width: 627px) 100vw, 627px" /></div>                                                        
+    					</a>
+                                        
+                                            <div class="front-view-content full-post">
+                            <p style="text-align: justify;">In Svizzera il paesaggio culturale italiano:</p>
+<p style="text-align: justify;">l&#8217;Italia è l&#8217;ospite d&#8217;onore dell&#8217;edizione 2005 del Salon du Livre di Ginevra</p>
+<p style="text-align: justify;">Il Salon international du livre, de la presse et du multimédia di Ginevra è diventato in quasi vent&#8217;anni il più importante appuntamento culturale del Paese, su una superficie di 30.000 mq, circa 300 espositori, rappresentanti di oltre 1000 case editrici e 30 Paesi diversi, incontrano un pubblico ampio che ruota intorno alle 120.000 presenze. Ogni anno il Salon riserva un&#8217;ospitalità d&#8217;onore ad un Paese estero che rappresenta il &#8220;tema forte&#8221; della manifestazione annuale. In questa 19° edizione il Paese ospite d&#8217;onore è l&#8217;Italia.</p>
+<p style="text-align: justify;">Viaggio nel paesaggio culturale italiano</p>
+<p style="text-align: justify;">La partecipazione dell&#8217;Italia in qualità di ospite d&#8217;onore al 19° Salon International du Livre, de la Presse et du Multimédia di Ginevra offre l&#8217;opportunità di dedicare ai visitatori e ai lettori svizzeri il racconto di un viaggio esemplare attraverso il &#8220;paesaggio culturale&#8221; dell&#8217;Italia di oggi, anche con aperture e sguardi al suo passato, attraverso alcune tappe significative di voci e immagini della storia, da cui provengono ancora echi e riflessi. L&#8217;invito è quello di immergersi nel variegato territorio culturale italiano, attraverso i libri, le voci, le immagini, i suoni, i sapori&#8230;</p>
+<p style="text-align: justify;">Il Padiglione Italia, nel cuore della Hall 4, è una vetrina di 350 mq, aperta, permeabile e luminosa, con un&#8217;ampia esposizione di oltre 3000 titoli (per circa 10.000 volumi): il percorso espositivo, curato e gestito dalla Librairie Le Parnasse di Ginevra, è un itinerario attraverso la migliore produzione editoriale italiana con la partecipazione di circa 30 case editrici e le principali traduzioni. L&#8217;ampia libreria, un terzo in lingua italiana e due terzi in traduzione, presenta i classici della letteratura, la narrativa e la poesia attuali, la saggistica, i libri d&#8217;arte e illustrati, la letteratura per ragazzi, i libri di viaggio&#8230;</p>
+<p style="text-align: justify;">Accanto all&#8217;esposizione, l&#8217;altro polo di  attrazione del Padiglione Italia è la Sala Italia, uno spazio con 70 posti a sedere, che ospiterà un intenso programma di incontri, conversazioni, letture, spettacoli teatrali, proiezioni commentate.</p>
+<p style="text-align: justify;">Protagonisti del programma culturale oltre 30 tra autori, artisti, intellettuali, tra i quali: Francesco ALLIATA DI VILLAFRANCA; Boris BIANCHERI; Corrado CALABRÒ; Franco CARDINI; Patrizia CAVALLI; Cesare DE MARCHI; Tullio DE MAURO;  Antonio DEBENEDETTI; Alain ELKANN; Daria GALATERIA; Luigi GUARNIERI; Fleur JAEGGY; Raffaele LA CAPRIA; Michele LO PORCARO; Rosetta LOY; Matteo MAJORANO; Dacia MARAINI; Jean-Jaques MARCHAND; Marinella MASCIA GALATERIA; Margaret MAZZANTINI; Melania MAZZUCCO; Brizio MONTINARO; Raffaella MORSELLI; Nico ORENGO; Romana PETRI; Paola PITAGORA; Elisabetta RASY; Ugo RICCARELLI; Domenico STARNONE; Sebastiano VASSALLI; Marcello VENEZIANI; Egi VOLTERRANI.</p>
+<p style="text-align: justify;">Il programma è attraversato da un ciclo di incontri dal titolo Entretien avec&#8230;: un&#8217;ora &#8220;a tu per tu&#8221; con alcuni degli autori e degli intellettuali presenti a Ginevra, in dialogo con il pubblico sulla loro opera, sui loro riferimenti letterari, sul loro personale itinerario attraverso la letteratura italiana. Al termine tutti gli autori saranno protagonisti del tradizionale rito delle firme e delle dediche.</p>
+<p style="text-align: justify;">Affiancano il ciclo di Entretien avec&#8230; gli appuntamenti dedicati ad alcune Voci: incontri con la creazione letteraria, con la poesia &#8220;dal vivo&#8221;, con le parole e i suoni&#8230; Una serie di appuntamenti raccordati dal percorso Tappe propone, tra l&#8217;altro, alcuni omaggi a classici letterari attraverso incontri diversificati come la presentazione della traduzione italiana dei romanzi epistolari di Isabelle de Charrière che dà vita ad un convegno sulla traduzione; la versione francese della biografia del grande critico letterario italiano Giacomo Debenedetti; l&#8217;omaggio a Maria Bellonci con letture, proiezione e commento critico del ciclo di affreschi del Pisanello nel Palazzo Ducale di Mantova. Tra le Tappe anche il percorso, a partire dalla lingua e dal linguaggio, attraverso i libri della storia del Premio Strega.</p>
+<p style="text-align: justify;">Numerosi gli appuntamenti con i Luoghi del tempo e Paesaggi: dai molti mari della penisola, protagonisti di una conversazione a più voci per indagarne le diverse influenze culturali sulle varie &#8220;Italie&#8221;, alle tappe che raccontano alcuni nodi della storia culturale italiana, dai guelfi e ghibellini agli anni Settanta.</p>
+<p style="text-align: justify;">Il Viaggio nel paesaggio culturale italiano è integrato anche da un approfondimento del rapporto tra territorio e cultura attraverso la presenza espositiva dell&#8217;editoria e della produzione culturale di alcune Regioni italiane, come la Sicilia e il Piemonte.</p>
+<p style="text-align: justify;">Dedicato soprattutto agli operatori del settore, il convegno Dalla trama alla rete, promosso dall&#8217;AIE &#8216; Associazione Italiana Editori, offre spunti di  riflessione a quanti operano nell&#8217;ambito dei &#8220;mestieri del libro&#8221; per scoprire le opportunità offerte dai nuovi modelli di business alle case editrici, in particolare nell&#8217;ottica di internazionalizzazione e di scambio tra le culture.</p>
+<p style="text-align: justify;">Arricchiscono l&#8217;offerta del Padiglione Italia lo Spazio multimedia e l&#8217;Angolo Città dei Sapori. Lo Spazio Multimedia è un angolo multimediale con schermo al plasma e quattro postazioni pc, che ospita ogni giorno un calendario di proiezioni di video e immagini sull&#8217;arte, il paesaggio, la letteratura raccontata dai suoi protagonisti, le città, i territori e in generale tutta la ricchezza del Belpaese. L&#8217;Angolo Città dei Sapori oltre ad essere un punto informativo sulla grande tradizione agroalimentare e gastronomica italiana offrirà, ogni giorno, un appuntamento-degustazione per completare l&#8217;immersione &#8220;multisensoriale&#8221; nel paesaggio italiano.</p>
+<p style="text-align: justify;">Affiancano questa &#8220;festa italiana in Svizzera&#8221; una serie di iniziative collaterali, che, parallelamente al Salon, propongono ulteriori sguardi sul &#8220;paesaggio culturale italiano&#8221;, attraverso incontri con gli autori e appuntamenti con il grande cinema italiano.</p>
+<p style="text-align: justify;">A Ginevra, in concomitanza con il Salon, verrà presentata una rassegna cinematografica con una selezione di pellicole rappresentative della varietà della produzione cinematografica italiana.</p>
+<p style="text-align: justify;">L&#8217;Istituto Italiano di Cultura in  Svizzera &#8220;Centro di Studi Italiani&#8221;, inoltre, propone, presso il Landes Museum di Zurigo, nell&#8217;ambito della mostra La dolce lingua (16 febbraio &#8216; 29 maggio 2005), un calendario di incontri e letture con alcuni degli autori italiani presenti al Salon.</p>
+<p style="text-align: justify;">La partecipazione dell&#8217;Italia è promossa e coordinata dal Ministero per i Beni e le Attività Culturali &#8211; Dipartimento per i beni archivistici e librari &#8211; Direzione generale per i beni librari e gli istituti culturali, d&#8217;intesa con il Ministero degli Affari Esteri &#8211; Direzione Generale per la Promozione e la Cooperazione Culturale, in stretta collaborazione con l&#8217;AIE-Associazione Italiana Editori.</p>
+                        </div>
+                                                            </article><!--.post excerpt-->
+							<article class="latestPost excerpt  " itemscope itemtype="http://schema.org/BlogPosting">
+					<header>
+						<h2 class="title front-view-title" itemprop="headline"><a href="http://www.dgtvi.it/nuovi-orari-ascom/" title="NUOVI ORARI ASCOM">NUOVI ORARI ASCOM</a></h2>
+									<div class="post-info">
+													<span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">Dicembre 8, 2016</span></span>
+													<span class="thecategory"><i class="fa fa-tags"></i> <a href="http://www.dgtvi.it/sport/" title="View all posts in Sport"  itemprop="articleSection">Sport</a></span>
+													<span class="thecomment"><i class="fa fa-comments"></i> <a rel="nofollow" href="http://www.dgtvi.it/nuovi-orari-ascom/#respond" itemprop="interactionCount">Nessun commento</a></span>
+							</div>
+							</header>
+                                        
+                                            <div class="front-view-content full-post">
+                            <div id="attachment_49" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-49" loading="lazy" class="size-full wp-image-49" src="http://www.dgtvi.it/wp-content/uploads/2016/12/NUOVI-ORARI-ASCOM.jpg" alt="NUOVI ORARI ASCOM" width="800" height="533" srcset="http://www.dgtvi.it/wp-content/uploads/2016/12/NUOVI-ORARI-ASCOM.jpg 800w, http://www.dgtvi.it/wp-content/uploads/2016/12/NUOVI-ORARI-ASCOM-300x200.jpg 300w, http://www.dgtvi.it/wp-content/uploads/2016/12/NUOVI-ORARI-ASCOM-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><p id="caption-attachment-49" class="wp-caption-text">NUOVI ORARI ASCOM</p></div>
+<p>PIU&#8217; FLESSIBILITA&#8217; E UNO SPORTELLO (IN FUNZIONE NELLA SEDE DI P.ZZA BARDELLA) CHE PERMETTERA&#8217; IL RITIRO E LA CONSEGNA DI DOCUMENTI FINO ALLE ORE 19.15</p>
+<p>Sede Ascom PadovaIl nuovo corso dell’Ascom? Non solo maggiore tutela sindacale, ma anche maggiori servizi per gli associati.<br />
+A cominciare dal nuovo orario di apertura degli uffici che sarà in vigore da mercoledì 1° febbraio e che mira ad avvicinarsi il più possibile alle esigenze dei soci.<br />
+Gli uffici dell&#8217;Associazione saranno infatti aperti al pubblico dal lunedì al giovedì dalle 8.30 alle 12.30 e dalle 14.00 alle 17.15 e il venerdì dalle ore 8.30 alle 12.30.<br />
+Un orario che permetterà, inoltre, di trovare nel corso della giornata sempre uno sportello a disposizione (nella sede di P.zza Bardella) dove poter ritirare o consegnare documenti, sia dalle 12.30 alle 14, che oltre le 17.15 e fino alle 19.15. In pratica, un’Ascom aperta quasi 11 ore nell’arco della giornata!<br />
+Per quanto riguarda le delegazioni Ascom della provincia l&#8217;orario sarà quello che prevede l’apertura dalle 8.30 alle 12.30 e dalle 14 alle 17.15, con l&#8217;eccezione di poter reperire eventuali pratiche fino alle ore 18.<br />
+La nuova sede del centro storico (via Zabarella), rispetterà invece i seguenti orari: dal lunedì al giovedì dalle ore 9.00 alle ore 17.00 con orario continuato, mentre il venerdì l’ufficio sarà aperto dalle ore 9.00 alle ore 12.45.<br />
+Insomma, un orario all’insegna della massima flessibilità.<br />
+“Un segnale forte di rinnovamento -afferma il presidente Fernando Zilio- che è intenzione di questo nuovo gruppo dirigente trasmettere a tutti i soci e che conferma una ritrovata efficienza dell&#8217;associazione”.<br />
+“Nello specifico –ha concluso Zilio- vogliamo offrire un servizio che si avvicini alle esigenze dei colleghi, venendo incontro espressamente alle loro richieste in quello spirito di collaborazione che sta alla base del nuovo modo di proporsi della nostra Associazione”.</p>
+                        </div>
+                                                            </article><!--.post excerpt-->
+							<article class="latestPost excerpt  last" itemscope itemtype="http://schema.org/BlogPosting">
+					<header>
+						<h2 class="title front-view-title" itemprop="headline"><a href="http://www.dgtvi.it/allarme-piazze/" title="ALLARME PIAZZE">ALLARME PIAZZE</a></h2>
+									<div class="post-info">
+													<span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">Dicembre 8, 2016</span></span>
+													<span class="thecategory"><i class="fa fa-tags"></i> <a href="http://www.dgtvi.it/sport/" title="View all posts in Sport"  itemprop="articleSection">Sport</a></span>
+													<span class="thecomment"><i class="fa fa-comments"></i> <a rel="nofollow" href="http://www.dgtvi.it/allarme-piazze/#respond" itemprop="interactionCount">Nessun commento</a></span>
+							</div>
+							</header>
+                                        
+                                            <div class="front-view-content full-post">
+                            <p>&nbsp;</p>
+<div id="attachment_46" style="width: 748px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-46" loading="lazy" class="size-full wp-image-46" src="http://www.dgtvi.it/wp-content/uploads/2016/12/ALLARME-PIAZZE.jpg" alt="ALLARME PIAZZE" width="738" height="462" srcset="http://www.dgtvi.it/wp-content/uploads/2016/12/ALLARME-PIAZZE.jpg 738w, http://www.dgtvi.it/wp-content/uploads/2016/12/ALLARME-PIAZZE-300x188.jpg 300w" sizes="(max-width: 738px) 100vw, 738px" /><p id="caption-attachment-46" class="wp-caption-text">ALLARME PIAZZE</p></div>
+<p style="text-align: justify;">“ALLARME PIAZZE”: E’ SEMPRE MENO LA GENTE CHE VA A FARE LA SPESA NEL “SALOTTO” PADOVANO.<br />
+BERTIN (ASCOM): “MA RESTA PUR SEMPRE UN “CENTRO COMMERCIALE NATURALE” SUL QUALE DOBBIAMO INVESTIRE”</p>
+<p style="text-align: justify;">Piazze di PadovaE’ allarme piazze. Nel senso che il “salotto” del commercio padovano sembra non essere più tale.<br />
+Già nei mesi scorsi si erano fatte sempre più insistenti le voci di un progressivo calo dell’ ”appeal” di una delle zone più celebrate di Padova e ne erano stati pure individuati i motivi: difficoltà di arrivare in un centro privo di parcheggi, innanzitutto, e poi abbassamento del livello qualitativo con l’immissione di nuovi operatori stranieri non esattamente in linea con gli standard di tradizione e qualità delle “piazze”.<br />
+Adesso, a confermare tutto questo e a fissare, nero su bianco, lo stato di disagio dell’area, arriva la rilevazione dell’Ufficio Studi dell’Ascom che ha correlato una serie di dati provenienti sia dai commercianti che dai consumatori.<br />
+Ed un primo dato di sicuro interesse è che a scendere è proprio il comparto alimentare, vero fiore all’occhiello di un’area dove insistono, oltre ai banchi della frutta e verdura, anche i negozi sotto il Salone e tutta una serie di altri esercizi di consolidata tradizione.<br />
+“Si tratta di una contrazione che varia dai 10 ai 15 punti percentuali –precisano all’Ascom- e che sembra riconducibile alle minori presenze registrate ogni giorno in centro”.<br />
+Minori presenze dovute, come si è detto, soprattutto alle difficoltà di parcheggio, ma anche al non gradimento del mezzo pubblico (caotico nelle ore di punta e quindi non agevole per chi, fatta la spesa, deve portarsi appresso le borse).<br />
+“Il risultato –continuano all’Ascom- è che alla spesa quotidiana in centro, si preferisce sempre di più il passaggio, magari settimanale, nel centro commerciale in periferia”.<br />
+Non solo. La difficoltà di accesso, riducendo il numero dei clienti, limita anche la vendita di taluni prodotti. Così dicasi, ad esempio, per certe paste alimentari particolari o per taluni prodotti “di nicchia” come certi formaggi o certi salumi ormai appannaggio di chi, nelle piazze o nelle immediate vicinanze, ci abita, ma non più nel menu di chi il centro non riesce più a raggiungerlo.<br />
+A questo, comunque, va aggiunta anche una sana dose di autocritica.<br />
+“Non vi è dubbio –commentano all’Ufficio Studi dell’Ascom- che l’offerta oltre che sostenuta, vada anche adeguata ai tempi ed in questo senso, almeno un commerciante su tre (36%) ritiene indispensabile pensare a nuove forme promozionali per una zona che, finora, ha “vissuto di rendita”, ma che adesso necessita di un rilancio proprio alla luce delle mutate condizioni.<br />
+“E’ evidente –dichiara Patrizio Bertin, presidente dei commercianti Ascom del centro storico- che promozione ed accesso al centro sono due facce della stessa medaglia. Pensare alla prima senza aver trovato soluzioni per il secondo è esercizio destinato a non risolvere la questione. Solo che, a forza di rinviare nel tempo le decisioni, si rischia di rimanere con un centro “povero” di commercio e dunque privo di una delle caratteristiche che lo hanno reso famoso”.<br />
+“Per questo –continua Bertin- in linea con quanto ha già fatto l’Ascom che ha aperto un nuovo ufficio in via Zabarella, pubblico e privato devono investire sulle piazze, “centro commerciale naturale” di Padova e, più in generale, sul centro storico: ne trarrà beneficio l’intera città che, in questo modo, potrà riappropriarsi del suo ruolo di capitale commerciale del Veneto”.</p>
+                        </div>
+                                                            </article><!--.post excerpt-->
+							<article class="latestPost excerpt  " itemscope itemtype="http://schema.org/BlogPosting">
+					<header>
+						<h2 class="title front-view-title" itemprop="headline"><a href="http://www.dgtvi.it/il-consorzio-regionale-esercenti-sardi-fidi/" title="Il Consorzio Regionale Esercenti Sardi Fidi">Il Consorzio Regionale Esercenti Sardi Fidi</a></h2>
+									<div class="post-info">
+													<span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">Dicembre 8, 2016</span></span>
+													<span class="thecategory"><i class="fa fa-tags"></i> <a href="http://www.dgtvi.it/sport/" title="View all posts in Sport"  itemprop="articleSection">Sport</a></span>
+													<span class="thecomment"><i class="fa fa-comments"></i> <a rel="nofollow" href="http://www.dgtvi.it/il-consorzio-regionale-esercenti-sardi-fidi/#respond" itemprop="interactionCount">Nessun commento</a></span>
+							</div>
+							</header>
+                                        
+                                            <div class="front-view-content full-post">
+                            <div id="attachment_43" style="width: 610px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-43" loading="lazy" class="size-full wp-image-43" src="http://www.dgtvi.it/wp-content/uploads/2016/12/Consorzio-Regionale.jpg" alt="Consorzio Regionale" width="600" height="428" srcset="http://www.dgtvi.it/wp-content/uploads/2016/12/Consorzio-Regionale.jpg 600w, http://www.dgtvi.it/wp-content/uploads/2016/12/Consorzio-Regionale-300x214.jpg 300w, http://www.dgtvi.it/wp-content/uploads/2016/12/Consorzio-Regionale-211x150.jpg 211w" sizes="(max-width: 600px) 100vw, 600px" /><p id="caption-attachment-43" class="wp-caption-text">Consorzio Regionale</p></div>
+<p style="text-align: justify;">Il Consorzio Regionale Esercenti Sardi Fidi (Cresfidi) è un Consorzio Cooperativo costituito fra imprenditori del Commercio, del Turismo e dei Servizi aderenti alla Confesercenti.</p>
+<p style="text-align: justify;">Il Consorzio non ha fini di lucro ed il suo scopo sociale è &#8220;favorire e promuovere il miglioramento e lo sviluppo delle Imprese Consorziate, assistendo le medesime nell&#8217;accesso al credito ordinario d&#8217;esercizio&#8221;.</p>
+<p style="text-align: justify;">In particolare la Cresfidi consente alle PMI di ottenere un credito maggiore ed un tasso inferiore rispetto alla normale clientela delle banche nonchè di ottenere una valutazione del merito di credito basata sulle potenzialità reddituali e di sviluppo delle aziende e sulla capacità dell&#8217;imprenditore, invece che su analisi di bilancio statiche.</p>
+<p style="text-align: justify;">La Cresfidi è in grado di fornire una serie di servizi integrati ad ampio raggio alle imprese associate: concessione di garanzie, consulenza in fase di scelta delle fonti finanziarie, assistenza in materia di agevolazioni pubbliche.Servizio Documentazione</p>
+<p style="text-align: justify;">La disponibilità di libri e riviste nonché le relazioni internazionali permettono di fornire con la massima celerità, anche attraverso un servizio di fotocopie, documenti sul settore vetrario richiesti dagli utenti. Vengono altresì fornite ricerche bibliografiche su commissione su argomenti specifici. Biblioteca della Stazione Sperimentale del Vetro</p>
+<p style="text-align: justify;">Libri La biblioteca, unica specializzata nel suo genere in Italia è aperta alla consultazione esterna. Consta di un patrimonio librario di oltre 4000 volumi la cui ricerca è possibile on-line.</p>
+<p style="text-align: justify;">Periodici<br />
+Presso la Stazione Sperimentale del Vetro sono disponibili i seguenti periodici:Banca dati</p>
+<p style="text-align: justify;">La base di dati scientifica dedicata al vetro denominata &#8220;Glassfile&#8221; è stata costituita grazie alla collaborazione tra centri vetrari europei, complementari tra loro per attività e ubicazione geografica. Essa ha per scopo la diffusione delle informazioni bibliografiche specifiche in seno al mondo vetrario.<br />
+La base di dati Glassfile, contiene circa 75000 riferimenti di documenti riassunti e indicizzati dal 1970 ad oggi.<br />
+Essa copre circa 200 periodici di tutto il mondo, nonché libri, tesi e resoconti di congressi sugli aspetti scientifici, tecnici e storici del vetro e settori collaterali: fisica e chimica dello stato vetroso, prodotti vetrari e il loro confezionamento, proprietà del vetro, trattamenti ed applicazioni, materie prime, fusione, lavorazione, formatura, riciclaggio, ambiente, forni per vetreria, statistiche professionali, refrattari, arte e storia.</p>
+                        </div>
+                                                            </article><!--.post excerpt-->
+							<article class="latestPost excerpt  " itemscope itemtype="http://schema.org/BlogPosting">
+					<header>
+						<h2 class="title front-view-title" itemprop="headline"><a href="http://www.dgtvi.it/le-rubriche-di-rtv/" title="LE RUBRICHE di RTV">LE RUBRICHE di RTV</a></h2>
+									<div class="post-info">
+													<span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">Aprile 2, 2016</span></span>
+													<span class="thecategory"><i class="fa fa-tags"></i> <a href="http://www.dgtvi.it/tv/" title="View all posts in TV"  itemprop="articleSection">TV</a></span>
+													<span class="thecomment"><i class="fa fa-comments"></i> <a rel="nofollow" href="http://www.dgtvi.it/le-rubriche-di-rtv/#respond" itemprop="interactionCount">Nessun commento</a></span>
+							</div>
+							</header>
+                        					<a href="http://www.dgtvi.it/le-rubriche-di-rtv/" title="LE RUBRICHE di RTV" rel="nofollow" id="featured-thumbnail" class="featured">
+    					    <div class="featured-thumbnail"><img width="680" height="350" src="http://www.dgtvi.it/wp-content/uploads/2016/04/IP-Television-gamesnotiziecom-680x350.jpg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy" title="" itemprop="image" /></div>                                                        
+    					</a>
+                                        
+                                            <div class="front-view-content full-post">
+                            <p style="text-align: justify;">In tutti gli angoli del mondo capita ormai che per caso, perfetta sincronicità o pura coincidenza, l’eccezione alla regola venga ripresa da telecamere di videoamatori e videoreporter. Ore e ore di materiale vengono viste e selezionate da RTV con una regola: nessuna scena di violenza gratuita deve essere messa in onda.</p>
+<p style="text-align: justify;">Le immagini più scioccanti, crude o che possano offendere in qualche modo la sensibilità dei più, vengono escluse: la spettacolarizzazione del  dolore è bandita. Non per questo viene a mancare il materiale: centinaia di avvenimenti fuori dal comune, curiosi, a volte esilaranti, altre drammatici, o ancora episodi straordinari di sport, di salvataggio, o fenomeni naturali fanno di RTV un reality show mozzafiato.</p>
+<p style="text-align: justify;"><strong>Nell&#8217;ultima puntata di questa sera:</strong></p>
+<p style="text-align: justify;">Dalle spiagge delle Hawai, dove è esplosa come nuova disciplina per poi diffondersi in tutto il mondo, arrivano le immagini più spettacolari di kitsurfing, dove la tradizionale vela da windsurf viene sostituita dalla potenza sviluppata dagli aquiloni a cui si è appesi, aquiloni manovrabili da cavi che permettono di solcare velocemente le onde e fare salit fino ad ora inimmaginabili. E proprio tra un salto e un altro vedremo anche la disavventura di un campione di kitsurf travolto da un’ondata.</p>
+<p style="text-align: justify;">Siamo in America per mostrare le incredibili sequenze di tamponamenti che avvengono di notte sulle lunghissime freeway di Los Angeles, per poi passare in Germania per vedere una gara di mountain bike in una miniera a più di 100 mt di profondità.</p>
+<p style="text-align: justify;">Gli escapisti sono artisti della fuga, il più famoso è l’indimenticabile Houdini ma non sempre le loro esibizioni riescono al 100% come accade a  questo seguace del grande mago che ha rischiato di rimanere seppellito in una bara di plexiglass su cui era stata colato del cemento! C’è stato un film che ha raccontato questo tipo di avvenimenti, era “un giorno di ordinaria follia” interpretato da Michael Douglas e le immagini che RTV Prime Time ci mostra nella puntata stasera raccontano proprio due avvenimenti di ordinaria follia: il primo che vede un cliente sparare al proprio avvocato e il secondo un uomo che si costruisce una sorta di bulldozer per radare al suolo mezza città!</p>
+<p style="text-align: justify;">Nell’ultima puntata Daniel Ducruet non poteva lasciare i suoi telespettatori senza una nuova e spericolata impresa: per RTV Prime Time il nostro presentatore farà parte di una pattuglia acrobatica della Red Bulls, per un saluto vertiginoso, emozionante e adrenalico, degno di RTV!</p>
+                        </div>
+                                                            </article><!--.post excerpt-->
+							<article class="latestPost excerpt  last" itemscope itemtype="http://schema.org/BlogPosting">
+					<header>
+						<h2 class="title front-view-title" itemprop="headline"><a href="http://www.dgtvi.it/la-lega-italiana-per-la-lotta-contro-i-tumori-e-trenta-ore-per-la-vita-un-valido-rapporto-che-dura-nel-tempo/" title="La Lega Italiana per la Lotta contro i Tumori e Trenta Ore per la Vita: un valido rapporto che dura nel tempo">La Lega Italiana per la Lotta contro i Tumori e Trenta Ore per la Vita: un valido rapporto che dura nel tempo</a></h2>
+									<div class="post-info">
+													<span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">Aprile 2, 2016</span></span>
+													<span class="thecategory"><i class="fa fa-tags"></i> <a href="http://www.dgtvi.it/salud/" title="View all posts in Salud"  itemprop="articleSection">Salud</a></span>
+													<span class="thecomment"><i class="fa fa-comments"></i> <a rel="nofollow" href="http://www.dgtvi.it/la-lega-italiana-per-la-lotta-contro-i-tumori-e-trenta-ore-per-la-vita-un-valido-rapporto-che-dura-nel-tempo/#respond" itemprop="interactionCount">Nessun commento</a></span>
+							</div>
+							</header>
+                        					<a href="http://www.dgtvi.it/la-lega-italiana-per-la-lotta-contro-i-tumori-e-trenta-ore-per-la-vita-un-valido-rapporto-che-dura-nel-tempo/" title="La Lega Italiana per la Lotta contro i Tumori e Trenta Ore per la Vita: un valido rapporto che dura nel tempo" rel="nofollow" id="featured-thumbnail" class="featured">
+    					    <div class="featured-thumbnail"><img width="620" height="305" src="http://www.dgtvi.it/wp-content/uploads/2016/04/tabaquismo.jpg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy" title="" itemprop="image" srcset="http://www.dgtvi.it/wp-content/uploads/2016/04/tabaquismo.jpg 620w, http://www.dgtvi.it/wp-content/uploads/2016/04/tabaquismo-300x148.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /></div>                                                        
+    					</a>
+                                        
+                                            <div class="front-view-content full-post">
+                            <p style="text-align: justify;">E’ da poco entrata in vigore la legge che vieta il fumo nei locali pubblici, cavallo di battaglia da anni della Lega Italiana per la Lotta contro i Tumori, LILT. Nell’ambito della prevenzione primaria, la lotta al tabagismo ha sempre rivestito infatti un ruolo principale per la LILT. Nel 2000 la Commissione Affari Sociali della Camera dei Deputati aveva richiesto il parere dell’associazione sui vari progetti di legge sul divieto di fumo allora in discussione in parlamento.</p>
+<p style="text-align: justify;">L’impegno della Lega non si limita all’organizzazione di campagne di informazione. La Lega, per aiutare i fumatori a liberarsi da questa schiavitù si avvale infatti del lavoro del personale medico della Sede Centrale e delle Sezioni Provinciali. E anche del sostegno di un’Associazione come Trenta Ore per la Vita onlus.</p>
+<p style="text-align: justify;">Nel giugno 1999, presso la Sede Centrale, è stato attivato il servizio Linea Verde SOS Fumo 800 99 88 77. Realizzato con il contributo di &#8220;Trenta Ore per la Vita&#8221;”, ha dato in questi anni ottimi risultati. La Linea Verde SOS FUMO è attiva il lunedì e il giovedì dalle 9.30 alle 18 e il martedì, mercoledì e venerdì dalle 9.30 alle 14.30. Rispondono psicologi, biostatistici, giuristi e medici.<br />
+&#8220;Senza ombra di dubbio posso affermare che mai il nostro Ente ha conosciuto un così intenso fervore di attività, come in questi ultimi cinque anni, una gestione così fantasiosa e appassionata, un impegno di tanti soci e volontari che vengono chiamati per una generale mobilitazione nei vari appuntamenti annuali, che vanno dalla Settimana Nazionale della Prevenzione Oncologica, affidata al nostro Ente con determinazione del Presidente del Consiglio dei Ministri, alla Giornata Mondiale senza Tabacco, la cui organizzazione è stata affidata alla LILT dall’Organizzazione Mondiale della Sanità, dalla Settimana Europea contro il Cancro, che si svolge la seconda settimana di ottobre nei 25 Paesi dell’Unione Europea, al Mese Rosa per la prevenzione dei tumori del seno. Questo per parlare solo dei principali appuntamenti annuali, ai quali ogni Sezione aggiunge altre manifestazioni, secondo le tradizioni locali&#8221;, afferma il dott. Silvio , Direttore Generale LILT.</p>
+<p style="text-align: justify;">Negli anni sono nati anche numerosi gruppi per la disassuefazione dal fumo, che poggiano sulla pratica di una metodologia propria della Lega contro i Tumori, messa a punto nel 1986 e revisionata da un Gruppo di Studio nel 2000. Dal 2000 al 2004 sono stati realizzati oltre 200 di questi gruppi, di cui 15 ad opera di conduttori della Sede Centrale LILT.</p>
+<p style="text-align: justify;">Nel 1997 è stata istituita la Linea Verde d’Informazione Oncologica, SOS Tumori , uno strumento che raccoglie le informazioni relative ai Centri dove poter effettuare la diagnosi precoce e accedere alle prestazioni erogate dalle diverse strutture oncologiche operanti in Italia. Attualmente la Linea Verde, anche questa sostenuta dall’Associazione Trenta Ore per la Vita, si avvale dell’utilizzo di supporti informatici, con accesso a banche dati nazionali ed internazionali.</p>
+<p style="text-align: justify;">Oltre alla lotta al fumo, e all’offerta di informazione nel campo oncologico, sottolineiamo come la LILT abbia potuto incrementare la prevenzione secondaria anche grazie al finanziamento specifico di progetti di prevenzione e diagnosi precoce da parte di Trenta Ore per la Vita, che ha fornito macchinari all’avanguardia e contribuito alla formazione di personale specializzato.</p>
+<p style="text-align: justify;">Un altro campo infine che vede le due associazioni affiancate è l’assistenza ai malati di tumore. Notevole, secondo quanto dichiara la Lega, è stato l’incremento, grazie al contributo di Trenta Ore per la Vita, su tutto il territorio nazionale, di forme diversificate di cure domiciliari gratuite ai pazienti in fase avanzata, la creazione di Hospice, l’attività ambulatoriale, i servizi di riabilitazione.</p>
+<p style="text-align: justify;">&#8220;Non ho difficoltà ad affermare che questa svolta che coinvolge tutta la Lega Italiana per la Lotta contro i Tumori ha registrato un salto di qualità con la visibilità ed i progetti avviati con le due edizioni di Trenta Ore per la Vita, a cui va quindi tutta la nostra gratitudine e l’auspicio di futura collaborazione&#8221;, conclude Arcidiacono.</p>
+<p style="text-align: justify;">Nella foto di A. Maricchiolo da sin. Silvio e Lorella Cuccarini a Roma, durante la Giornata Nazionale della Prevenzione del 2003</p>
+                        </div>
+                                                            </article><!--.post excerpt-->
+							<article class="latestPost excerpt  " itemscope itemtype="http://schema.org/BlogPosting">
+					<header>
+						<h2 class="title front-view-title" itemprop="headline"><a href="http://www.dgtvi.it/difesa-personale-imparare-riguardo-alla-difesa-personale/" title="Difesa personale &#8220;Imparare riguardo alla difesa personale&#8221;">Difesa personale &#8220;Imparare riguardo alla difesa personale&#8221;</a></h2>
+									<div class="post-info">
+													<span class="thetime updated"><i class="fa fa-calendar"></i> <span itemprop="datePublished">Aprile 2, 2016</span></span>
+													<span class="thecategory"><i class="fa fa-tags"></i> <a href="http://www.dgtvi.it/sport/" title="View all posts in Sport"  itemprop="articleSection">Sport</a></span>
+													<span class="thecomment"><i class="fa fa-comments"></i> <a rel="nofollow" href="http://www.dgtvi.it/difesa-personale-imparare-riguardo-alla-difesa-personale/#respond" itemprop="interactionCount">Nessun commento</a></span>
+							</div>
+							</header>
+                        					<a href="http://www.dgtvi.it/difesa-personale-imparare-riguardo-alla-difesa-personale/" title="Difesa personale &#8220;Imparare riguardo alla difesa personale&#8221;" rel="nofollow" id="featured-thumbnail" class="featured">
+    					    <div class="featured-thumbnail"><img width="680" height="350" src="http://www.dgtvi.it/wp-content/uploads/2016/04/04-difesa-personale-680x350.jpg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy" title="" itemprop="image" /></div>                                                        
+    					</a>
+                                        
+                                            <div class="front-view-content full-post">
+                            <blockquote>
+<p style="text-align: justify;">Difesa personale è un termine generico che può essere usato in contesti e in situazioni diverse le cose da imparare riguardo alla difesa personale variano a seconda dei casi, quello che puo valere per una ragazza è difficile che vada bene anche per un buttafuori.</p>
+</blockquote>
+<p style="text-align: justify;">Questo articolo è indirizzato sopratutto ai principianti o a chi non ha mai fatto arti marziali, per chi ha gia qualche anno di esperienza dovrebbero essere cose superate.</p>
+<p style="text-align: justify;">Nei vari corsi di arti marziali o difesa personali spesso i nuovi arrivati chiedeno cosa fare in caso di aggressioni, naturalmente non c&#8217;è una regola generale, ma ci sono una serie di regole generali,in reltà molto semplici e dettate dal buon senso, che possono risultare utili.</p>
+<p style="text-align: justify;"><strong>La fuga</strong><br />
+Non fa molto da &#8220;guerriero&#8221;, ma la cosa migliore quando le cose si mettono male è scappare alla prima occasione, non si sa mai cosa può accadere.</p>
+<p style="text-align: justify;"><strong>Occhi aperti</strong><br />
+Questo vale più che altro per furti e scippi, ma è più facile di quanto può sembrare accorgersi quando qualcuno si avvicina con cattive idee se non si è troppo persi nei propi pensieri. Dopo essersene accorti si passa al punto uno cercando di farsi notare il meno possibile, se l&#8217;aggressore si accorge di essere stato notato potrebbe essere peggio. Basta cambiare strada o entrare in un negozio con naturalezza.</p>
+<p style="text-align: justify;"><strong>Mantenere la calma</strong><br />
+Non è facile ma ci si deve sforzare di mantenere la calma e non innervosirsi mentre una discussione sta prendendo una brutta piega o l&#8217;altro cerca di arrivare alle mani. Mantenere la calma e la lucidita in questi casi può aiutare a raffreddare l&#8217;ira dell&#8217;altro e soprattutto se si viene attaccati si ha la lucidità per reagire in maniera adeguata.</p>
+<p style="text-align: justify;"><strong>Spray al pepe e simili</strong><br />
+Non servono a molto, non sono neppure siano legali, ma in caso di aggressione non si ha di sicuro il tempo di aprire la borsetta, cercare lo spray ed usarlo.Ancora peggio in caso di scippo: reberebbero anche lo spray!</p>
+<p style="text-align: justify;"><strong>Armi varie</strong><br />
+Anche queste non servono molto in difesa personale, ogni tanto si sente dire da qualcuno che fare arti marziali non serve perchè ci sono le armi, ma c&#8217;i sono 2 problemi: 1 normalmente nesuno gira armato 2 anche se si gira con una pistola nella fondina il pugno di un aggressore ti raggiunge molto prima di tirare fuori l&#8217;arma.</p>
+                        </div>
+                                                            </article><!--.post excerpt-->
+						
+            <!--Start Pagination-->
+            				<div class="pagination">
+					<ul>
+						<li class="nav-previous"></li>
+						<li class="nav-next"></li>
+					</ul>
+				</div>
+						<!--End Pagination-->
+            
+                        		</div>
+	</div>
+	<aside id="sidebar" class="sidebar c-4-12" role="complementary" itemscope itemtype="http://schema.org/WPSideBar">
+	<div id="sidebars" class="g">
+		<div class="sidebar">
+			<ul class="sidebar_list">
+					<li id="sidebar-search" class="widget">
+						<h3>Search</h3>
+						<form method="get" id="searchform" class="search-form" action="http://www.dgtvi.it" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="" placeholder="Search the site" x-webkit-speech="x-webkit-speech" />
+		<input id="search-image" class="sbutton" type="submit" value="Search" />
+	</fieldset>
+</form>					</li>
+			</ul>
+		</div>
+	</div><!--sidebars-->
+</aside>
+	</div><!--#page-->
+</div><!--.main-container-->
+<footer id="site-footer" class="footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+        <div class="copyrights">
+        <div class="container">
+			<!--start copyrights-->
+<div class="row" id="copyright-note">
+<span><a href="http://www.dgtvi.it/" title="il sito delle notizie più importanti di oggi" rel="nofollow">DGTVI</a> Copyright &copy; 2023.</span>
+<div class="top"></div>
+<div class="top"></a></div>
+</div>
+<!--end copyrights-->
+		</div><!--.container-->
+    </div>
+</footer><!--footer-->
+<link rel='stylesheet' id='responsive-css'  href='http://www.dgtvi.it/wp-content/themes/schema/css/responsive.css?ver=5.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.dgtvi.it/wp-content/themes/schema/css/font-awesome.min.css?ver=5.9.5' type='text/css' media='all' />
+</div><!--.main-container-wrap-->
+</body>
+</html>

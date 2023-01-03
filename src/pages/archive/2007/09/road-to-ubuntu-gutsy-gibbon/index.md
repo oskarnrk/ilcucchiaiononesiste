@@ -1,0 +1,12 @@
+---
+layout: "../../../../../layouts/BlogPost.astro"
+title: "Road to Ubuntu «Gutsy Gibbon»"
+date: "2007-09-21"
+categories: 
+  - "linux-informatica"
+tags: 
+  - "gutsy-gibbon"
+  - "ubuntu"
+---
+
+[![](/images/raid19b.jpg)](http://www.suzillustrations.com/tairise/images/raid19b.jpg)Mancano pochi giorni al 27 settembre, data nella quale - secondo la [release schedule](https://wiki.ubuntu.com/GutsyReleaseSchedule) - verrà rilasciata la Beta della nostra Ubuntu 7.10 «Gutsy Gibbon». Siamo entrati in beta-freeze, e la moda del momento è diventata dare la caccia ai bug (di cui abbiamo una diapositiva) che affliggono la distribuzione. Come spesso accade si tappa un buco ma se ne apre un altro. In questi giorni infatti è successo un po' di tutto: Compiz che non partiva più da solo, lo scrolling nel touchpad del notebook che si è disattivato di sua sponte, qualche "La sessione è stata avviata senza le tecnologie assistive" (che manco mi servono) e non si sa perché. Gli aggiornamenti sono frequentissimi, e tappano rapidamente le falle che si riscontrano. Il lato negativo è che ho perso il conto delle volte che ho visto reinstallare OpenOffice.org, ma vedere scaricarsi gli ultimi pacchetti di Gnome 2.20 è stata una bella soddisfazione... Ma non c'è problema: con fede cieca aspettiamo il 18 ottobre, data del rilascio finale. I server si intaseranno come l'ultima volta, sotto il peso delle migliaia di utenti che accorreranno a osannare la nascita del Gibbone Coraggioso, dopo la gestazione di 6 mesi. Subito dopo aver urlato "è nato!" faremo un sorriso, guarderemo il nostro monitor e, senza nemmeno assaporare appieno quel momento di gioia et giubilo, ci chiederemo già quando si dischiuderà l'uovo dell'Airone Ardito. Giureremo che questa volta non aggiorneremo alle Alpha, ma aspetteremo il rilascio ufficiale, o come minimo la Beta. E ridendo capiremo che non resisteremo, e che salteremo a pie' pari appena possibile nelle versioni di sviluppo più sconsigliate, pentendoci poi di averlo fatto. O meglio, fingendo pentimento. Scusate, ma ho ricominciato le lezioni, lo star seduto a prendere chilometrate di appunti non aiuta la mia salute mentale. Mi sento molto così: o\_\_O News di servizio, anzi invito spassionato dalla redazione: la newsletter italiana di Ubuntu-It ora può arrivare anche direttamente nella tua email! [Clicca qui per iscriverti](http://www.freelists.org/list/newsletter-italiana).

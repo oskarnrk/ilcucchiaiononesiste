@@ -1,0 +1,15 @@
+---
+layout: "../../../../../layouts/BlogPost.astro"
+title: "Non storia, ma Leggenda"
+date: "2006-03-29"
+categories: 
+  - "personal"
+  - "musica-showbiz"
+  - "showbiz"
+tags: 
+  - "chiusura"
+  - "maracaibo"
+  - "riva-del-garda"
+---
+
+E così sabato, o meglio domenica alle 8 di mattina, siamo usciti dal Maracaibo. Lo abbiamo chiuso, assieme a Paolo e Michele. Eravamo stanchi morti, qualcuno ha anche versato qualche lacrima durante la serata. Ma non poteva finire lì, così tutti a fare colazione. E sono arrivato a casa alle 10:20. Beh signorine, signore e signori, è finita un'avventura in cui da poco ero tornato, e questo non semplifica le cose, sinceramente mi dispiace ancora di più. [![](/images/Maracaibo%2025%20marzo%202006.jpg)](http://photos1.blogger.com/blogger/7958/1508/1600/Maracaibo%2025%20marzo%202006.jpg) Ecco il discorso di apertura della serata: Maracaibo! Ascolta. Corrisponde a verità quello che avete saputo. Il Maracaibo Disco chiude. E non parliamo di restyling o di fantomatiche gelaterie. Il Maracaibo Disco chiude. E' vero, ci sono state chiacchiere varie, ma quando poi succede è tutta un'altra cosa. E' stato un fulmine a ciel sereno, per tutti. E siamo all'Ultima Notte. Chiedete perché? Beh, quando passerete qui sotto, e ci saranno diversi appartamenti al posto delle nostre vetrate, lo capirete. Non è dipeso da noi, non dipende da noi, e per questo fa ancora più male. Fra queste pareti sono passate molte generazioni, fin dagli anni '60. Possiamo ricordare il Bambù, il Moulin Rouge, l'Apres. E' possibile che alcuni di voi siano qui perché i propri genitori si sono conosciuti proprio qui, dove siete adesso. Alla fine degli anni '90 entrano in scena Paolo e Michele, con il ciclo Café Latino (con ospite il Kaos), Jamila, Maracaibo. E con loro Ale C. Ci hanno messo anima e corpo, perché tutto funzionasse al meglio. Per il vostro divertimento. Mi pare che il minimo gesto simbolico per ringraziarli sia il miglior applauso che potete fare... ... C'è chi ci ha voluto bene, chi ci ha voluto male, chi ci ha chiamati “Maracaibo”, chi “Maragabibbo” o con altri nomignoli. Ma ce ne siamo fregati delle brutte cose, e siamo sempre andati avanti, a testa alta, e ne siamo fieri. Infatti nel flyer di questa settimana abbiamo ringraziato tutti quelli che hanno lavorato con noi. Salutiamo chi ci ha voluto bene, chi ci ha voluto bene e poi male, e anche chi ci ha voluto male. Ed ora, Signorine, signore e signori, è arrivato il momento. L'Ultima Notte del Maracaibo. La Notte più lunga, la Notte senza fine. Dopo questa ultima volta toglieranno questi muri, il nostro corpo, all'anima che voi, che noi formiamo, e facciamo vivere. Stanotte vogliamo vedere un'esplosione di divertimento, di vita, per onorare degnamente ciò che siamo stati e che siamo. Siete con noi??? ... Maracaibo, non lo dico solo per far il figo o come frase di circostanza, lo facciamo davvero: siete pronti a fare afterhour con noi? ... In questo momento Ale C in console, Oskar from Radio Digi-One alla voce... Con noi Vivaldj, Santu DJ, Andre Hof, Matteo P, alle luci Robertino... Onoriamo la differenza tra voler fare la storia e diventare Leggenda!

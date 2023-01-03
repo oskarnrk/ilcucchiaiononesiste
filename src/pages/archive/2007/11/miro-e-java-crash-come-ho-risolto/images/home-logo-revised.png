@@ -1,0 +1,1466 @@
+<? ob_start(); ?>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<base href="BASE_HREF" />
+
+<!-- Meta -->
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="description" content="Miro is a popular, free, and open internet TV application. It brings video channels from thousands of sources and has more free HD than any other platform." />
+<meta name="keywords" content="Miro, Video Player, podcast client, Free TV, High Definition, HD, Bittorrent, Participatory Culture Foundation"/>
+<meta name="Author" content="Participatory Culture Foundation" />
+<meta name="revisit-after" content="30 days" />
+<!-- Styles -->
+
+
+
+ <link href="css/styles.css" media="all" rel="stylesheet" type="text/css" />
+ <link href="css/nav.css" media="all" rel="stylesheet" type="text/css" />
+ 
+ 
+<!--[if IE]>
+ <link rel="stylesheet" type="text/css" media="screen" href="/css/nav-ie.css?5234" >
+<![endif]-->
+
+<!-- Feed -->
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.getmiro.com/blog/feed" />
+
+<!-- Scripts -->
+	
+	<script src="STATIC_BASE_URLjs/jquery.js"></script>
+	<!-- <script src="http://cdn.optimizely.com/js/12019399.js"></script> -->
+	<script src="//cdn.optimizely.com/js/12019399.js"></script>
+	<script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script> 
+	
+<!-- <script src="STATIC_BASE_URLjs/projectswitch.js" type="text/javascript"></script> -->
+<script src="STATIC_BASE_URLjs/intl.js" type="text/javascript" language="javascript"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
+</script>
+
+<? ob_flush(); ?>
+
+
+
+<script type="text/javascript"> 
+(function($){
+ $.fn.extend({
+ 
+ 	customStyle : function(options) {
+	  if(!$.browser.msie || ($.browser.msie&&$.browser.version>6)){
+	  return this.each(function() {
+	  
+			var currentSelected = $(this).find(':selected');
+			$(this).after('<span class="customStyleSelectBox"><span class="customStyleSelectBoxInner">'+currentSelected.text()+'</span></span>').css({position:'absolute', opacity:0,fontSize:$(this).next().css('font-size')});
+			var selectBoxSpan = $(this).next();
+			var selectBoxWidth = parseInt($(this).width()) - parseInt(selectBoxSpan.css('padding-left')) -parseInt(selectBoxSpan.css('padding-right'));			
+			var selectBoxSpanInner = selectBoxSpan.find(':first-child');
+			selectBoxSpan.css({display:'inline-block'});
+			selectBoxSpanInner.css({width:selectBoxWidth, display:'inline-block'});
+			var selectBoxHeight = parseInt(selectBoxSpan.height()) + parseInt(selectBoxSpan.css('padding-top')) + parseInt(selectBoxSpan.css('padding-bottom'));
+			$(this).height(selectBoxHeight).change(function(){
+				selectBoxSpanInner.text($(this).val()).parent().addClass('changed');
+			});
+			
+	  });
+	  }
+	}
+ });
+})(jQuery);
+ 
+ 
+$(function(){
+ 
+$('select.styled').customStyle();
+ 
+});
+</script> 
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=236797649702571";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<title>Miro - Free, open-source music and video player.</title>
+
+<link rel="stylesheet" href="STATIC_BASE_URLcss/index-3.0.css" type="text/css" media="screen"  />
+
+
+<script src="STATIC_BASE_URLswf/flowplayer-3.0.5.min.js">
+
+
+</script>
+
+<script type="text/javascript">
+
+sfHover = function() {
+	var sfEls = document.getElementById("featured").getElementsByTagName("li");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+</script>
+
+
+<style> 
+
+body {padding:0;}
+ 
+img {
+	border:0;		
+}
+ 
+#scroll {
+	position:absolute;;
+	height:;
+	right: 0;
+	top: 60px;
+	overflow:hidden;
+
+	width:646px;
+	padding: 0px;
+	height:398px;
+	background:url(i/new-miro-bg.png) 0 0px no-repeat !important;
+
+}
+ 
+#tools {
+	width:9999em;
+	position:absolute;
+	height:380px;
+}
+ 
+
+.tool p{
+width: 300px;
+padding: 20px;
+background: #333;
+background: rgba(0,0,0, .8);
+
+background: -webkit-gradient(linear, left top, left bottom, from(rgba(48,48,48,1)), to(rgba(0,0,0,1))); 
+background: -moz-linear-gradient(top,  rgba(48,48,48,1), rgba(0,0,0,1));
+background: -o-linear-gradient(top,  rgba(48,48,48,1), rgba(0,0,0,1));
+background: -ms-linear-gradient(top,  rgba(48,48,48,1), rgba(0,0,0,1));
+background: linear-gradient(top,  rgba(48,48,48,1), rgba(0,0,0,1));
+
+
+  -moz-box-shadow:inset 0 1px 1px rgba(255,255,255,.2);
+  -webkit-box-shadow:inset 0 1px 1px rgba(255,255,255,.2);
+  -ms-box-shadow:inset 0 1px 1px rgba(255,255,255,.2);
+  -o-box-shadow:inset 0 1px 1px rgba(255,255,255,.2);
+box-shadow:inset 0 1px 1px rgba(255,255,255,.2);
+
+
+-moz-transition: all .5s ease-in-out; 
+-webkit-transition: all .5s ease-in-out; 
+-o-transition: all .5s ease-in-out; 
+-ms-transition: all .5s ease-in-out; 
+transition: all .5s ease-in-out; 
+  
+  
+position:absolute;
+left:50%;
+margin-left: -170px !important;
+color: #fff;
+bottom: 240px;
+-moz-border-radius:8px;
+-webkit-border-radius:8px;
+-ms-border-radius:8px;
+-o-border-radius:8px;
+border-radius:8px;	
+
+
+opacity: 0;
+
+border: 1px solid #222;
+border-top: 1px solid #222;
+border-bottom: 1px solid #000;
+
+}
+ 
+.tool:hover p{
+opacity: 1;
+
+}
+ 
+
+.tool {
+	float:left;
+	width:646px;
+position: relative;
+	height:454px;
+padding: 0 !important;
+	text-align:center;
+}
+ 
+.details .st_sharethis  {
+  top: -12px !important;
+right:0px;
+}
+ 
+ 
+#thumbs {
+  -moz-box-shadow:inset 0 1px 1px rgba(255,255,255,.2);
+  -webkit-box-shadow:inset 0 1px 1px rgba(255,255,255,.2);
+  -ms-box-shadow:inset 0 1px 1px rgba(255,255,255,.2);
+  -o-box-shadow:inset 0 1px 1px rgba(255,255,255,.2);
+box-shadow:inset 0 1px 1px rgba(255,255,255,.2);
+
+
+  
+ 
+	height:20px;
+	position:absolute;
+	left: 0;
+	bottom: 0px;
+padding: 5px 0 5px 0!important;
+	width:990px;
+
+}
+ 
+.t {
+	padding:0px !important;
+	border:0 !important;
+
+}
+ 
+.t a {
+	background:transparent url(http://static.flowplayer.org/tools/img/demo-navi.jpg) no-repeat scroll -21px -90px;
+	margin-left:11px;
+	display:block;
+	width:4px;
+	float:left;
+	height:4px;
+	cursor:pointer;
+-moz-border-radius: 40px;
+-webkit-border-radius: 40px; 
+-ms-border-radius: 40px; 
+-o-border-radius: 40px; 
+border-radius: 40px; 
+
+
+
+margin-top: 5px;
+margin-left: 10px !important;
+
+   background: -webkit-gradient(linear, left top, left bottom, from(rgba(101,101,101,.1)), to(rgba(255,255,255,0))); /* for webkit browsers */
+  background: -moz-linear-gradient(top,  rgba(255,255,255,0), rgba(101,101,101,.1)); /* for firefox 3.6+ */
+  background: -ms-linear-gradient(top,  rgba(255,255,255,0), rgba(101,101,101,.1)); /* for firefox 3.6+ */
+  background: -o-linear-gradient(top,  rgba(255,255,255,0), rgba(101,101,101,.1)); /* for firefox 3.6+ */
+  background:linear-gradient(top,  rgba(255,255,255,0), rgba(101,101,101,.1)); /* for firefox 3.6+ */
+
+
+
+  
+border: 1px solid #ddd;
+border-top: 1px solid #eee;
+border-bottom: 1px solid #ddd;
+}
+
+
+
+ .t a:hover {
+
+border: 1px solid #ccc;
+border-top: 1px solid #ddd;
+border-bottom: 1px solid #bbb;
+}
+
+
+
+
+.t a:active {
+	cursor:default !important;
+   background: -webkit-gradient(linear, left top, left bottom, from(rgba(101,101,101,.2)), to(rgba(255,255,255,0))); /* for webkit browsers */
+  background: -moz-linear-gradient(top,  rgba(101,101,101,.2), rgba(255,255,255,0)); /* for firefox 3.6+ */
+  background: -o-linear-gradient(top,  rgba(101,101,101,.2), rgba(255,255,255,0)); /* for firefox 3.6+ */
+  background: -ms-linear-gradient(top,  rgba(101,101,101,.2), rgba(255,255,255,0)); /* for firefox 3.6+ */
+  background: linear-gradient(top,  rgba(101,101,101,.2), rgba(255,255,255,0)); /* for firefox 3.6+ */
+  
+
+border: 1px solid #d6d6d6;
+border-top: 1px solid #ccc;
+border-bottom: 1px solid #e8e8e8;
+
+}
+
+
+
+.t a.active {
+	cursor:default !important;
+   background: -webkit-gradient(linear, left top, left bottom, from(rgba(101,101,101,.1)), to(rgba(255,255,255,0))); /* for webkit browsers */
+  background: -moz-linear-gradient(top,  rgba(101,101,101,.1), rgba(255,255,255,0)); /* for firefox 3.6+ */
+  background: -o-linear-gradient(top,  rgba(101,101,101,.1), rgba(255,255,255,0)); /* for firefox 3.6+ */
+  background: -ms-linear-gradient(top,  rgba(101,101,101,.1), rgba(255,255,255,0)); /* for firefox 3.6+ */
+  background: linear-gradient(top,  rgba(101,101,101,.1), rgba(255,255,255,0)); /* for firefox 3.6+ */
+  
+
+border: 1px solid #d6d6d6;
+border-top: 1px solid #ccc;
+border-bottom: 1px solid #e8e8e8;
+
+}
+ 
+.navi {
+
+}
+ 
+/* CSS sprite for the navigation */
+#t0 		  { margin-left:20px; _margin-left:10px;}
+#t0.active { background-position:-21px 0 !important; }
+#t0:hover  { background-position:-21px -180px; }
+#t0:active { background-position:-21px -270px; }
+ 
+#t1			{ background-position:-325px -90px; }
+#t1:hover 	{ background-position:-325px -180px; }
+#t1:active	{ background-position:-325px -270px; }
+#t1.active	{ background-position:-325px 0 !important; }
+ 
+#t2			{ background-position:-435px -90px; }
+#t2:hover 	{ background-position:-435px -180px; }
+#t2:active	{ background-position:-435px -270px; }
+#t2.active	{ background-position:-435px 0 !important; }
+ 
+#t3			{ background-position:-545px -90px; }
+#t3:hover 	{ background-position:-545px -180px; }
+#t3:active	{ background-position:-545px -270px; }
+#t3.active	{ background-position:-545px 0 !important; }
+ 
+#t4			{ background-position:-655px -90px; }
+#t4:hover 	{ background-position:-655px -180px; }
+#t4:active	{ background-position:-655px -270px; }
+#t4.active	{ background-position:-655px 0 !important; }
+ 
+#t5			{ background-position:-765px -90px; }
+#t5:hover 	{ background-position:-765px -180px; }
+#t5:active	{ background-position:-765px -270px; }
+#t5.active	{ background-position:-765px 0 !important; }
+ 
+#t6			{ background-position:-875px -90px; }
+#t6:hover 	{ background-position:-875px -180px; }
+#t6:active	{ background-position:-875px -270px; }
+#t6.active	{ background-position:-875px 0 !important; }
+
+
+
+/* the overlayed element */
+.simple_overlay {
+	
+	/* must be initially hidden */
+	display:none;
+	
+	/* place overlay on top of other elements */
+	z-index:10000;
+	
+	/* styling */
+	background-color:#000;
+	
+	width:850px;	
+	height:508px !important;		
+	/* CSS3 styling for latest browsers */
+	-moz-box-shadow:0 0 440px 5px #000;
+	-webkit-box-shadow: 0 0 440px #000;
+	
+-moz-border-radius-bottomright: 5px;
+-moz-border-radius-bottomleft: 5px;
+
+-webkit-border-bottom-right-radius: 5px;
+-webkit-border-bottom-left-radius: 5px;
+
+-ms-border-bottom-right-radius: 5px;
+-ms-border-bottom-left-radius: 5px;
+
+
+-o-border-bottom-right-radius: 5px;
+-o-border-bottom-left-radius: 5px;
+
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+
+}
+
+/* close button positioned on upper right corner */
+.simple_overlay .close {
+	background:url(i/close.png) 0px -43px no-repeat;
+	position:absolute;
+	right: -40px;
+	top: 0px;
+
+	cursor:pointer;
+	height:38px;
+	width:42px;
+}
+
+.simple_overlay .close:hover {
+	background:url(i/close.png) 0 -86px !important;
+}
+
+.simple_overlay .close:active {
+	background:url(i/close.png) 0 -86px;
+}
+
+
+</style> 
+ 
+ 
+
+ 
+ 
+<script type="text/javascript">var switchTo5x=true;</script>
+
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'7fc4f173-243c-4886-a6b4-69af2cfd90cb'});</script>
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-163840-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body id="index">
+
+<div class="ultra-nav">
+
+<ul>
+    <li class="pcf_link"><a href="http://www.pculture.org">PCF</a></li>
+	<li><a href="#" class="miro-top">Miro</a></li>
+    <li class="mvc_link"><a href="http://www.mirovideoconverter.com">Miro Video Converter</a></li>
+    <li class="mc_link"><a href="http://www.mirocommunity.org">Miro Community</a></li>
+    <li class="us_link"><a href="http://www.amara.org">Amara</a></li>
+</ul>
+
+</div>
+
+<div id="blue">
+
+
+<div class="header">
+	<div id="lang">
+
+   
+        <form name="locale" action="http://www.getmiro.com/changelocale.php" method="get" onsubmit="return onLocaleSubmit();">
+        <select class="localeselect styled" name="localeselect" onchange="javascript: document.locale.submit();">
+        <?
+           foreach($all_locales as $name => $value) {
+           if($set_locale == $value) $selected = "selected";
+           else $selected = '';
+           echo "<option value=\"${value}\" $selected>$name</option>\n";
+           }
+        ?>
+        </select>
+        <!-- <input type="submit" value="change" /> -->
+        </form>
+
+	</div>
+
+	<a class="logo" title="Miro Logo" href="BASE_HREF"><span>Miro</span></a>
+
+      <ul class="sub-nav">
+		<li class="download_link"><a href="BASE_HREFdownload/">Download</a></li>
+		<li class="using-miro_link"><a href="BASE_HREFusing-miro/">Get Started</a></li>
+		<li class="publish_link"><a href="BASE_HREFpublish/">Publish</a></li>
+		<li class="open-source_link"><a href="BASE_HREFopen-source/volunteer/">Volunteer</a></li>
+		<li class="blog_link"><a href="BASE_HREFblog/">Blog</a></li>
+		<li class="help_link"><a href="BASE_HREFhelp/">Help</a></li>
+<!--[if !IE]><!-->
+		<li class="facebook_link"><a href="http://www.facebook.com/pages/Miro/22022060446">Follow us on Facebook</a></li>
+		
+		<li class="twitter_link"><a href="http://twitter.com/themirofolks">Follow us on Twitter</a></li>
+		<!--<![endif]-->
+
+	</ul>
+</div>
+
+<div id="wrap" class="container_12">
+
+    <div id="content">
+        <div id="top">
+	
+
+
+
+<div class="download">
+<span id="download_button"><span class="arrow"></span>
+<script language="JavaScript" type="text/javascript">
+
+   <!--
+function getfile(file, spawnpage)
+{
+  var browser = (window.navigator.userAgent.indexOf("SV1") != -1);
+  window.open(file,'downloading','toolbar=0,location=no,directories=0,status=0, scrollbars=no,resizable=0,width=1,height=1,top=0,left=0');
+  window.focus();
+  location.href = spawnpage;
+}
+
+	
+if (navigator.appVersion.indexOf("Win")!=-1)
+  {
+     
+   document.write("<a onClick=\"return ConversionCount()\" class=\"download windows\" href=\"" + 'download/for-windows' + "\">Download Miro</a><span class=\"for\">for Windows</span><div class=\"versions\">Version  - 6.0");
+   
+  }
+
+ else if (navigator.appVersion.indexOf("Mac")!=-1)
+   {
+	   	var _os = {
+		    data: function(){
+		      return( navigator.userAgent.toLowerCase().split(/\s*[;)(]\s*/)[2].split(" ") );
+		    },
+		    name: function(){
+		      return( this.data()[1] );
+		    },
+		    version: function(){
+		      var version = this.data().pop();
+		          version = parseFloat(version.replace("_","."));
+		      return( version );
+		    }
+		  };
+
+	    if(_os.version() == 10.5){
+	    	document.write('<a onClick="return ConversionCount()" class="download" href="download/for-osx">Download Miro</a><span class="for">For Mac OSX 10.5</span><div class="versions">Version  - 5.0.2');
+		  }else{
+		  	document.write('<a onClick="return ConversionCount()" class="download" href="download/for-osx">Download Miro</a><span class="for">For Mac OSX 10.6+</span><div class="versions">Version  - 6.0');
+		  }
+   }
+
+
+ else if (window.navigator.userAgent.indexOf("Ubuntu")!=-1)
+   {
+     document.write('<a onClick="return ConversionCount()" class="download" href="download/for-ubuntu">Download Miro</a><span class="for">for Linux</span><div class="versions" style="display:inline-block;margin:-6px 2px 0 40px !important;">Version  - 6.0');
+   }
+ else 
+   {
+     document.write('<a onClick="return ConversionCount()" class="download" href="download/all/">Download Miro</a>');
+   }
+//-->
+
+</script>
+<a href="/download" class="vercc">Other Versions</a></div>
+</span>
+</div>
+
+
+
+<div></div><!-- ie fix --> 
+
+<div class="text">Use your keyboard's arrow keys to navigate</div>
+ 
+<!-- root element for everything --> 
+<div id="scroll"> 
+ 
+	<!-- scrollable items --> 
+	<div id="tools"> 
+ 
+ 
+		<!-- empty slot --> 
+		<div class="tool">
+</div> 
+ 
+		<!-- tabs --> 
+		<div class="tool"> 
+		
+		<p>Miro manages your music effortlessly</p>
+		<!--[if IE]><!-->
+<img src="i/shot1.png" />
+ <!--<![endif]-->
+ 
+		</div> 
+ 
+		<!-- tooltip --> 
+		<div class="tool"> 
+ 
+		<p>It's easy to try Miro with your video and music</p>
+		
+<img src="i/shot2.png" />
+ 
+		</div> 
+ 
+		<!-- overlay --> 
+		<div class="tool"> 
+ 
+		<p>Miro syncs to Android devices</p>
+		
+		<!--[if IE]><!-->
+<img src="i/shot3.png" />
+ <!--<![endif]--> 
+		</div> 
+ 
+		<!-- scrollable --> 
+		<div class="tool"> 
+ 
+	
+			<p>A beautiful HD video experience</p>
+		
+<img src="i/shot4.png" />
+ 
+		</div> 
+ 
+		<!-- FORM --> 
+		<div class="tool"> 
+ 
+			<p>Download, play, convert, and sync effortlessly</p>
+		
+<img src="i/shot5.png" />
+
+ 
+		</div> 
+ 
+
+ 
+ 
+	</div> 
+ 
+	<!-- intro "page" --> 
+	<div id="intro" class="tool"> 
+ <img src="i/key.gif" class="key" />
+<div class="beautiful">The beautiful, open-source music and video player that lets you break free!</div>
+<div class="m4-p"><span>Why you should switch to</span><h1 class="m4">Miro 6</h1></div>
+
+<img src="i/new-miro.png" />
+ 
+	</div> 
+ 
+	<!-- required for IE6/IE7 --> 
+	<br clear="all" /> 
+ 
+	<!-- thumbnails --> 
+	<div id="thumbs" class="t"> 
+ 
+		<!-- intro page navi button --> 
+		<a id="t0" class="active"></a> 
+ 
+		<!-- scrollable navigator root element --> 
+		<div class="navi"> 
+			<a style="display:none"></a> 
+			<a id="t1"></a> 
+			<a id="t2"></a> 
+			<a id="t3"></a> 
+			<a id="t4"></a> 
+			<a id="t5"></a> 
+			<a id="t6"></a> 
+		</div> 
+ 
+	</div> 
+ 
+</div> 
+ 
+<script> 
+// initialize scrollable and return the programming API
+var api = $("#scroll").scrollable({
+	items: '#tools'
+ 
+// use the navigator plugin
+}).navigator().data("scrollable");
+ 
+$('#scroll').click(function() {
+    api.next();
+}).css('cursor', 'pointer'); 
+// this callback does the special handling of our "intro page"
+api.onBeforeSeek(function(e, i) {
+ 
+	// when on the first item: hide the intro
+	if (i) {
+		$("#intro").fadeOut("slow");
+ 
+		// dirty hack for IE7-. cannot explain
+		if ($.browser.msie && $.browser.version < 8) {
+			$("#intro").hide();
+		}
+ 
+	// otherwise show the intro
+	} else {
+		$("#intro").fadeIn(1000);
+	}
+ 
+	// toggle activity for the intro thumbnail
+	$("#t0").toggleClass("active", i == 0);
+});
+ 
+// a dedicated click event for the intro thumbnail
+$("#t0").click(function() {
+ 
+	// seek to the beginning (the hidden first item)
+	$("#scroll").scrollable().begin();
+ 
+});
+ 
+</script> 
+
+
+
+<div></div><!-- ie fix --> 
+
+
+
+
+
+
+<a class="larger-vid" id="introduction" href="#" rel="#miro-intro">
+	<span>
+		<img src="i/big-play.png" />
+		<p id="watch_intro">Watch an introduction to Miro</p>
+	</span>
+</a>
+
+
+<!-- <a class="larger-vid" href="#" rel="#mies2"><span><img src="i/big-play.png" /></span>How to get started with Miro</a>-->
+
+
+
+
+
+
+ <div></div><!-- ie fix --> 
+  
+  <!-- overlays --> 
+  <div class="simple_overlay" id="miro-intro"> 
+
+    <script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js">
+      ({
+			"base_state": {},
+           "video_url": "http://vimeo.com/24101645",
+           "video_config": {
+               "title": 0,
+               "byline": 0,
+               "portrait": 0,
+               "color": 'FF0000',
+               "width": 850,
+               "height": 531,
+           }
+      })
+    </script>
+
+
+    
+    <div class="details"> 
+    		<p class="dl-bar"> 
+    			<span class="dl-title">Download this Video</span>
+    			<a class="hd" href="#">HD</a>
+    			<!-- <a class="sd" href="http://vimeo.com/download/video:51826184?v=2&e=1306143806&h=29909d147fe931a75ca53c965d81470b&uh=921848c706d895ccce9e918f3b60bd3d">SD</a> -->
+    			<span class='st_sharethis' displayText='ShareThis' style="margin-top:21px;margin-left:6px;"></span>
+    		</p> 
+    </div>
+  </div> 
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+<script> 
+// What is $(document).ready ? See: http://flowplayer.org/tools/documentation/basics.html#document_ready
+$(document).ready(function() {
+
+$("a[rel]").overlay({mask: '#000', effect: 'apple'});
+
+$("div.grid_4 > div").click(function() {
+   $(this).parent().find('a[rel]').overlay({api:true}).load();
+   return true;
+});
+
+});
+</script> 
+
+
+
+
+
+
+  </div>
+
+        <h3 id="miro">What Makes Miro So Amazing?</h3>
+        
+        <a href="BASE_HREFdevice-makers" class="device">Device Makers, Music Stores, Cloud Services<span> why you need Miro and how to partner with us</span></a>
+
+        
+        
+<div class="pitches">
+      
+
+
+        <div class="grid_4 current">
+          <div><span></span><img src="i/nine-reasons/current-full.jpg" width="300" height="186" /></div>
+          <h4>Works with your current music library</h4>          
+          <p>      
+            It's very easy to switch from iTunes to Miro -- without any copying.  Just point Miro to your music and video folders and those files will appear.  If you don't like Miro (impossible!), nothing's changed.          </p>
+          <a id="current" rel="#works" href="#" class="notIE play">30 Second Video</a>
+          <a id="current" href="http://vimeo.com/24100035" target="_blank" class="IEonly play">30 Second Video</a>
+        </div>
+
+<div class="simple_overlay" id="works"> 
+    <script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js">
+		({
+			"base_state": {},
+           video_url: "http://vimeo.com/24100035",
+           video_config: {
+               title: 0,
+               byline: 0,
+               portrait: 0,
+               color: 'FF0000',
+               width: 850,
+               height: 531,
+           }
+      }) 
+    </script> 
+
+    <div class="details"> 
+    
+      
+      <p class="dl-bar"> 
+      <span class="dl-title">Download this Video</span>
+      <a class="hd" href="#">HD</a>
+      <!-- <a class="sd" href="http://vimeo.com/download/video:51826184?v=2&e=1306143806&h=29909d147fe931a75ca53c965d81470b&uh=921848c706d895ccce9e918f3b60bd3d">SD</a> -->
+      <span class='st_sharethis' displayText='ShareThis' style="margin-top:18px;margin-left:0px;"></span>
+      </p> 
+    
+    </div> 
+</div> 
+ 
+
+
+
+
+
+
+        <div class="grid_4 connect">
+          <div><span></span><img src="i/nine-reasons/connect-full.jpg" width="300" height="186" /></div>
+          <h4>Converts and syncs to Android & Kindle Fire</h4>          
+          <p>
+            You'd have to be crazy to use a music player that doesn't sync to your phone.  Miro is simply the best music and video player for Android phones and tablets.  
+          </p>
+          <a id="sync" rel="#syncs" href="#" class="notIE play">30 Second Video</a>
+          <a id="sync" href="http://vimeo.com/24094787" target="_blank" class="IEonly play">30 Second Video</a>
+        </div>
+
+
+
+
+
+<div class="simple_overlay" id="syncs"> 
+    <script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js">
+      ({
+			"base_state": {},
+           video_url: "http://vimeo.com/24094787",
+           video_config: {
+               title: 0,
+               byline: 0,
+               portrait: 0,
+               color: 'FF0000',
+               width: 850,
+               height: 531,
+           }
+      })
+    </script>
+
+    
+    <div class="details"> 
+    
+      
+      <p class="dl-bar"> 
+      <span class="dl-title">Download this Video</span>
+      <a class="hd" href="#">HD</a>
+      <!-- <a class="sd" href="http://vimeo.com/download/video:51826184?v=2&e=1306143806&h=29909d147fe931a75ca53c965d81470b&uh=921848c706d895ccce9e918f3b60bd3d">SD</a> -->
+      <span class='st_sharethis' displayText='ShareThis' style="margin-top:18px;margin-left:0px;"></span>
+      </p> 
+    
+    </div> 
+</div> 
+
+
+
+
+
+        <div class="grid_4 stores">
+          <div><span></span><img src="i/nine-reasons/stores-full.jpg" width="300" height="186" /></div>
+          <h4>Buy Music and Apps inside Miro</h4>          
+          <p>
+            The Amazon MP3 store is built-in to Miro.  Buy, download, and listen, seamlessly.  Buy Android apps from the Amazon or Google app stores and they will sync to your device.          </p>
+          <a id="buy" rel="#buys" href="#" class="notIE play">30 Second Video</a>
+          <a id="buy" href="http://vimeo.com/24095171" target="_blank" class="IEonly play">30 Second Video</a>
+        </div>
+
+
+
+
+
+<div class="simple_overlay" id="buys"> 
+    <script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js">
+      ({
+			"base_state": {},
+           video_url: "http://vimeo.com/24095171",
+           video_config: {
+               title: 0,
+               byline: 0,
+               portrait: 0,
+               color: 'FF0000',
+               width: 850,
+               height: 531,
+           }
+      })
+    </script>
+
+    <div class="details"> 
+    
+      
+      <p class="dl-bar"> 
+      <span class="dl-title">Download this Video</span>
+      <a class="hd" href="#">HD</a>
+      <!-- <a class="sd" href="http://vimeo.com/download/video:51826184?v=2&e=1306143806&h=29909d147fe931a75ca53c965d81470b&uh=921848c706d895ccce9e918f3b60bd3d">SD</a> -->
+      <span class='st_sharethis' displayText='ShareThis' style="margin-top:18px;margin-left:0px;"></span>
+      </p> 
+    
+    </div> 
+</div> 
+
+
+
+
+
+
+
+<div class="clear"></div>
+
+
+
+
+
+
+
+        <div class="grid_4 player">
+          <div><span></span><img src="i/nine-reasons/play.jpg" width="300" height="186" /></div>
+          <h4>Download and play almost any video </h4>          
+          <p>
+            Do you still use separate programs to download, play music, play videos, and sync to your phone?  Miro plays almost any video or music format and downloads from YouTube, podcasts, Amazon, and bittorrent.           </p>
+          <a id="download" rel="#downloads" href="#" class="notIE play">30 Second Video</a>
+          <a id="download" href="http://vimeo.com/24099711" target="_blank" class="IEonly play">30 Second Video</a>
+        </div>
+
+
+<div class="simple_overlay" id="downloads"> 
+    <script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js">
+      ({
+			"base_state": {},
+           video_url: "http://vimeo.com/24099711",
+           video_config: {
+               title: 0,
+               byline: 0,
+               portrait: 0,
+               color: 'FF0000',
+               width: 850,
+               height: 531,
+           }
+      })
+    </script>
+
+    
+    <div class="details"> 
+    
+      
+      <p class="dl-bar"> 
+      <span class="dl-title">Download this Video</span>
+      <a class="hd" href="#">HD</a>
+      <!-- <a class="sd" href="http://vimeo.com/download/video:51826184?v=2&e=1306143806&h=29909d147fe931a75ca53c965d81470b&uh=921848c706d895ccce9e918f3b60bd3d">SD</a> -->
+      <span class='st_sharethis' displayText='ShareThis' style="margin-top:18px;margin-left:0px;"></span>
+      </p> 
+    
+    </div> 
+</div> 
+
+
+
+
+
+
+
+        <div class="grid_4 convert">
+          <div><span></span><img src="i/nine-reasons/convert.jpg" width="300" height="186" /></div>
+          <h4>Convert any video</h4>          
+          <p>
+            You can convert almost any video with Miro into mp4/h264, with presets for almost any device you can think of (including iPhones, iPods, iPads, Android phones, and more).          </p>
+          <a id="convert" rel="#converts" href="#" class="notIE play">30 Second Video</a>
+          <a id="convert" href="http://vimeo.com/24097134" target="_blank" class="IEonly play">30 Second Video</a>
+        </div>
+
+
+
+
+
+<div class="simple_overlay" id="converts"> 
+    <script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js">
+      ({
+			"base_state": {},
+           video_url: "http://vimeo.com/24097134",
+           video_config: {
+               title: 0,
+               byline: 0,
+               portrait: 0,
+               color: 'FF0000',
+               width: 850,
+               height: 531,
+           }
+      })
+    </script>
+    
+    <div class="details"> 
+          
+      <p class="dl-bar"> 
+      <span class="dl-title">Download this Video</span>
+      <a class="hd" href="#">HD</a>
+      <!-- <a class="sd" href="http://vimeo.com/download/video:51826184?v=2&e=1306143806&h=29909d147fe931a75ca53c965d81470b&uh=921848c706d895ccce9e918f3b60bd3d">SD</a> -->
+      <span class='st_sharethis' displayText='ShareThis' style="margin-top:18px;margin-left:0px;"></span>
+      </p> 
+    
+    </div> 
+</div> 
+
+
+
+
+
+
+        <div class="grid_4 stream">
+          <div><span></span><img src="i/nine-reasons/stream-full.jpg" width="300" height="186" /></div>
+          <h4>Share Your Media on your Network</h4>          
+          <p>
+            When two Miro's are on the same wifi network, they can stream and transfer music and videos to each other.  It's the easiest way to watch a video or play music upstairs if the file is downstairs.          </p>
+          <a id="share" rel="#shares" href="#" class="notIE play">30 Second Video</a>
+          <a id="share" href="http://vimeo.com/24099768" target="_blank" class="IEonly play">30 Second Video</a>
+        </div>
+
+<div class="simple_overlay" id="shares"> 
+    <script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js">
+      ({
+			"base_state": {},
+           video_url: "http://vimeo.com/24099768",
+           video_config: {
+               title: 0,
+               byline: 0,
+               portrait: 0,
+               color: 'FF0000',
+               width: 850,
+               height: 531,
+           }
+      })
+    </script>
+    
+    <div class="details"> 
+      
+      <p class="dl-bar"> 
+      <span class="dl-title">Download this Video</span>
+      <a class="hd" href="#">HD</a>
+      <!-- <a class="sd" href="http://vimeo.com/download/video:51826184?v=2&e=1306143806&h=29909d147fe931a75ca53c965d81470b&uh=921848c706d895ccce9e918f3b60bd3d">SD</a> -->
+      <span class='st_sharethis' displayText='ShareThis' style="margin-top:18px;margin-left:0px;"></span>
+      </p> 
+    
+    </div> 
+</div> 
+
+
+
+
+
+
+
+<div class="clear"></div>
+
+
+        <div class="grid_4 nolocks">
+          <div><span></span><img src="i/nine-reasons/open.jpg" width="300" height="186" /></div>
+          <h4>Open-source - don't lock yourself in!</h4>          
+          <p>
+            Unlike some other media players (cough, cough), Miro is not trying to run your life!  Not only is Miro 100% free and open-source, it's made by a non-profit organization. You don't need to be locked down by one corporation to have a great media experience.            </p>
+          <a id="opensource" rel="#opensources" href="#" class="notIE play">30 Second Video</a>
+          <a id="opensource" href="http://vimeo.com/24097219" target="_blank" class="IEonly play">30 Second Video</a>
+        </div>
+
+
+<div class="simple_overlay" id="opensources"> 
+    <script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js">
+      ({
+			"base_state": {},
+           video_url: "http://vimeo.com/24097219",
+           video_config: {
+               title: 0,
+               byline: 0,
+               portrait: 0,
+               color: 'FF0000',
+               width: 850,
+               height: 531,
+           }
+      })
+    </script>
+
+    <div class="details"> 
+      
+      <p class="dl-bar"> 
+      <span class="dl-title">Download this Video</span>
+      <a class="hd" href="#">HD</a>
+      <!-- <a class="sd" href="http://vimeo.com/download/video:51826184?v=2&e=1306143806&h=29909d147fe931a75ca53c965d81470b&uh=921848c706d895ccce9e918f3b60bd3d">SD</a> -->
+      <span class='st_sharethis' displayText='ShareThis' style="margin-top:18px;margin-left:0px;"></span>
+      </p> 
+    
+    </div> 
+</div> 
+
+
+
+        <div class="grid_4 downloads">
+          <div><span></span><img src="i/nine-reasons/downloads-full.jpg" width="300" height="186" /></div>
+          <h4>Ultra-fast torrent downloading</h4>          
+          <p>
+            Miro has some of the fastest bittorrent downloading in the world, built in.  Try us head-to-head with any bittorrent application!          </p>
+          <a id="torrent" rel="#torrents" href="#" class="notIE play">30 Second Video</a>
+          <a id="torrent" href="http://vimeo.com/24099802" target="_blank" class="IEonly play">30 Second Video</a>
+        </div>
+
+
+<div class="simple_overlay" id="torrents"> 
+    <script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js">
+      ({
+			"base_state": {},
+           video_url: "http://vimeo.com/24099802",
+           video_config: {
+               title: 0,
+               byline: 0,
+               portrait: 0,
+               color: 'FF0000',
+               width: 850,
+               height: 531,
+           }
+      })
+    </script>
+    
+    <div class="details"> 
+      
+      <p class="dl-bar"> 
+      <span class="dl-title">Download this Video</span>
+      <a class="hd" href="#">HD</a>
+      <!-- <a class="sd" href="http://vimeo.com/download/video:51826184?v=2&e=1306143806&h=29909d147fe931a75ca53c965d81470b&uh=921848c706d895ccce9e918f3b60bd3d">SD</a> -->
+      <span class='st_sharethis' displayText='ShareThis' style="margin-top:18px;margin-left:0px;"></span>
+      </p> 
+    
+    </div> 
+</div> 
+
+        <div class="grid_4">
+          <div><span></span><img src="i/nine-reasons/features.jpg" width="300" height="186" /></div>
+          <h4>But it's not about the features!</h4>          
+          <p>
+            Miro has a lot of features, but that's not what matters-- it's the experience.  Miro is a simple, beautiful, unified way to download, organize, and watch videos and listen to music.  And it's totally free.           </p>
+          <a id="experience" rel="#experiences" href="#" class="notIE play">30 Second Video</a>
+          <a id="experience" href="http://vimeo.com/24099815" target="_blank" class="IEonly play">30 Second Video</a>
+        </div>
+
+
+
+<div class="simple_overlay" id="experiences"> 
+    <script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js">
+      ({
+			"base_state": {},
+           video_url: "http://vimeo.com/24099815",
+           video_config: {
+               title: 0,
+               byline: 0,
+               portrait: 0,
+               color: 'FF0000',
+               width: 850,
+               height: 531,
+           }
+      })
+    </script>
+
+    <div class="details"> 
+      
+      <p class="dl-bar"> 
+      <span class="dl-title">Download this Video</span>
+      <a class="hd" href="#">HD</a>
+      <!-- <a class="sd" href="http://vimeo.com/download/video:51826184?v=2&e=1306143806&h=29909d147fe931a75ca53c965d81470b&uh=921848c706d895ccce9e918f3b60bd3d">SD</a> -->
+      <span class='st_sharethis' displayText='ShareThis' style="margin-top:18px;margin-left:0px;"></span>
+      </p> 
+    
+    </div> 
+</div> 
+
+
+
+
+
+
+
+</div>
+<div class="clear"></div>
+
+<div class="grid_3">
+  <div class="grid_3 community-pitch alpha omega">
+    
+    <a href="http://www.mirocommunity.org"><img src="i/pitches/community-icon.png" width="142" height="142" alt="Miro Community" /></a>
+    
+  </div>
+  <h4>Miro Community</h4>
+  <p>The easiest way to make a beautiful video website for any topic, organization, school, or community.</p>
+  <br />
+<br /><br /><br /></div>
+
+<div class="grid_3">
+  <div class="grid_3 converter-pitch alpha omega">
+    <a href="http://www.mirovideoconverter.org"><img src="i/pitches/converter-icon.png" width="142" height="142" alt="Miro Video Converter" /></a>
+
+  </div>
+  
+        <h4>Miro Video Converter</h4>
+  <p>A super simple way to convert any video format to MP4 or for your phone or Apple device.</p>
+  
+</div>
+
+
+<div class="grid_3">
+  <div class="grid_3 unisubs-pitch alpha omega">
+    <a href="http://www.universalsubtitles.org"><img src="i/pitches/unisubs-icon.png" width="142" height="142" alt="Universal Subtitles" /></a>
+  </div>
+
+  <h4>Amara</h4>
+  <p>Increase your viewership by subtitling, captioning, or translating any video, with the help of your viewers.</p>
+</div>
+
+
+<div class="grid_3">
+  <div class="grid_3 ipad-pitch alpha omega">
+    <a href="http://www.getmiro.com/ipad"><img src="i/pitches/ipad-icon.png" width="142" height="142" alt="Miro for iPad" /></a>
+  </div>
+    <h4>Miro for iPad</h4>
+  <p>Stream, transfer, and play videos and music from Miro to your iPad with our beautiful and free iPad app.</p>
+
+</div>
+
+
+
+
+<div class="clear">&nbsp;</div>
+
+
+	<div class="grid_4 plank likefb">
+		<div class="fb">
+			<h4>Remember to Like Miro</h4>
+			  <!--<span><iframe src="http://www.facebook.com/plugins/like.php?app_id=211329765574583&amp;href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FMiro%2F22022060446&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe></span>
+			  -->
+			  <span class="fb">
+				<div class="fb-like" data-href="http://www.facebook.com/GetMiro" data-send="false" data-layout="button_count" data-width="44" data-show-faces="false"></div>
+			  </span>
+		</div>
+	</div>
+		
+	<div class="grid_4 plank getemailed">
+		<div>
+			<h4>Be first to hear about updates</h4>	
+			<form method="post" action="http://pcf8.pculture.org/interspire/form.php?form=1" id="frmSS1" onsubmit="return CheckForm1(this);" style="display: inline; font-size: 14px; text-align: center;">
+				<input type="text" name="email" value="" class="field" />
+				<input type="hidden" name="format" value="h" />
+				<input class="red-box submit" type="submit" value="Update me" />
+			</form>		
+		</div>
+	</div>
+		
+	<div class="grid_4 plank big-heart">
+		<div>
+			<a href="https://www.miroguide.com/donate">Donate</a>
+		</div>
+	</div>
+
+
+<div class="clear">&nbsp;</div>
+
+
+        <div class="preload_pop"> 
+
+        </div>
+     <div class="clear space"> 
+
+        </div>
+
+
+
+
+
+
+<div class="clear"></div>
+            </div><!-- /content -->
+         
+<div style="margin:auto auto auto auto;width:940px;clear:both;">
+
+ <h3 id="site_map_title">Looking for something?</h3>
+
+
+        <ul id="site_map">
+        	
+            
+            
+            <div class="downs">
+                <h5>Download Miro</h5>
+                <li><a href="BASE_HREF">Home</a></li>
+                <li><a href="BASE_HREFdownload/">Download Miro</a></li>
+                <li><a href="BASE_HREFdownload/features/">Features</a></li>
+                <li><a href="BASE_HREFdownload/screenshots/">Screenshots</a></li>
+            </div>
+            
+            <div class="uses">
+            <h5>Using Miro</h5>
+                <li><a href="BASE_HREFusing-miro">Getting Started</a></li>
+                <li><a href="BASE_HREFhelp/">Help</a></li>
+                <li><a href="http://support.getmiro.com/solution/categories/13502">FAQ</a></li>
+            </div>
+            
+            <div class="pubs">
+                <h5>Publish</h5>
+                <li><a href="BASE_HREFpublish/">Publishing on Miro</a></li>
+                <li><a href="BASE_HREFpublish/troubleshooting/">Troubleshooting</a></li>
+                <li><a href="BASE_HREFpublish/makeinternettv/">Video Making 101</a></li>
+                <li><a href="BASE_HREFpublish/guide/">Content Guide</a></li>
+            </div>
+            
+            <div class="opens">
+                <h5>Open Source</h5>
+                <li><a href="BASE_HREFopen-source/volunteer/">Volunteers &amp; Internships</a></li>
+                <li><a href="BASE_HREFopen-source/share/">Share Miro</a></li>
+                <li><a href="https://develop.participatoryculture.org/democracy/">Software Development</a></li>
+                <li><a href="http://webchat.freenode.net?channels=miro">Chat</a></li> 
+			</div>
+            
+            <div class="abouts">
+                <h5>About</h5>
+                <li><a href="BASE_HREFblog/">Miro Blog</a></li>
+                <li><a href="BASE_HREFabout/">Our Organization</a></li>
+                <li><a href="BASE_HREFpress/">Press</a></li>
+                <li><a href="BASE_HREFcontact/">Contact</a></li>
+                <li><a href="BASE_HREFjobs/">Jobs</a></li>
+                <li><a href="https://www.miroguide.com/donate">Donate</a></li>
+            </div>
+        </ul>
+        </div>
+            
+            	
+            <div class="clear"></div>
+            
+            <div id="footer">
+         
+         
+         
+         
+         
+<a class="FlattrButton" style="display:none;" href="http://getmiro.com"></a>
+<noscript><a href="http://flattr.com/thing/271266/Miro" target="_blank">
+<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a></noscript>
+
+		    
+				<p style="font-size:14px"><strong>Miro</strong> is a project of the <strong>Participatory Culture Foundation&#8482;</strong></p>
+				<p><img src="/i/pcf-circle-logo.png" /></p>
+
+				<p>The Miro name, logo, and icon are trademarks of the Participatory Culture Foundation (PCF).</p>
+
+                <p>Please see the <a href="http://pculture.org/pcf/websites-privacy/">EULA</a> and <a href="http://pculture.org/pcf/websites-privacy/">Privacy policy</a> for Miro and Miro installers.</p>
+				
+				<p>All text and image content on getmiro.com, unless otherwise specified, is released by PCF into the public domain. This does not include the Miro name, logo, and icon. This does not include the software code, which is licensed under the GPL. Please share, re-publish, re-use, and re-imagine this site.</p>
+			</div>
+
+            
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-f1oJI0C-85pYg"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-f1oJI0C-85pYg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+    
+  
+</div><!-- /wrap -->
+</div>
+
+
+<style>
+.idl{display:inline-block;position:absolute;right:0px;top:98px;}
+.idl img{visibility: visible !important;}
+</style>
+
+<a href="http://internetdefenseleague.org" class="idl">
+  <img src="http://internetdefenseleague.org/images/badges/final/banner_right.png" alt="Member of The Internet Defense League" />
+</a>  
+
+<script type="text/javascript">
+    window._idl = {};
+    _idl.variant = "modal";
+    (function() {
+        var idl = document.createElement('script');
+        idl.type = 'text/javascript';
+        idl.async = true;
+        idl.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'members.internetdefenseleague.org/include/?url=' + (_idl.url || '') + '&campaign=' + (_idl.campaign || '') + '&variant=' + (_idl.variant || 'banner');
+        document.getElementsByTagName('body')[0].appendChild(idl);
+    })();
+</script>
+
+
+<!--[if !(lte IE 8)]><!-->
+<script type="text/javascript"> 
+  // The defaults are set below
+  var tdwfb_config = {
+    greeting: 'Dear Internet Users', // Sets the salutation at the top left
+    disableDate: false, // If true, the banner shows even if the date is not yet 02/11/2014
+    callOnly: false // If true, the banner only displays a form for calling congress
+  };
+  (function(){
+    var e = document.createElement('script'); e.type='text/javascript'; e.async = true;
+    e.src = document.location.protocol + '//d1agz031tafz8n.cloudfront.net/thedaywefightback.js/widget.min.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s);
+  })();
+</script>
+<!--<![endif]-->
+
+
+
+
+</body>
+</html>

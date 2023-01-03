@@ -1,0 +1,13 @@
+---
+layout: "../../../../../layouts/BlogPost.astro"
+title: "Ogni tanto vado al cinema: Inception"
+date: "2010-10-13"
+categories: 
+  - "cinema"
+tags: 
+  - "inception"
+  - "multisala-modena"
+  - "trento"
+---
+
+Il blog langue, ogni tanto è pure carino scriverci qualcosa, poverino. E allora ecco: sono stato al cinema - di lunedì che costa meno - per vedere _**Inception**_. Avevo sentito pareri pro e contro, dovevo verificare di persona di cosa parlava e com'era questo film. Ma prima una parola sul cinema: sono andato al **Multisala "Modena" di Trento**, il quale ha fatto una figura barbina e mi è giunta voce che sia quasi la normalità: hanno spostato la proiezione in un'altra sala (delle tre che ci sono) all'ultimo momento, quando siamo arrivati ci hanno dato la fila O che, guarda un po', non esisteva. Questo giochetto ha fatto perdere le prenotazioni a chi le aveva fatte. Poi ho avuto la sensazione che abbiano venduto più biglietti del dovuto, la gente entrava in sala e non aveva il posto dove sedersi. Un amico e la moglie hanno preso il biglietto e, usciti prima dell'inizio vista la situazione, non volevano rimborsare il biglietto, «Devo venderli ad un'altra persona prima di ridarvi i soldi» si sono sentiti dire. Al momento dell'inizio del film poi hanno iniziato a proiettarlo in 4/3, così han fermato, riavvolto e ricominciato. Dopo la pausa tra primo e secondo tempo hanno ricominciato senza audio, ergo stessa pantomima di prima. Nota positiva l'audio. (Signori gestori del cinema, se capitate a leggere questo post e vi dà fastidio, beh, era l'obiettivo. C'è gente che chiede il rimborso per molto meno. Migliorate il servizio.) _**NB**: non ci sono spoiler, nomino solamente in due occasioni una parte del film ma non svelo niente sulla trama._ Parliamo del film, e sia chiaro che non sono un critico cinematografico, butto lì pensieri a casaccio. Mi è piaciuto molto. Le 2 ore e mezza di durata non le ho praticamente sentite. Ogni volta che notavo qualche sbavatura, qualche elemento lasciato scoperto, puntualmente veniva sistemato o spiegato; rimane un solo neo, ossia lo sballottamento dei personaggi addormentati nella stanza d'albergo. La colonna sonora maestosa mi ha colpito, accompagnava la tensione del film in maniera egregia. Leonardo Di Caprio - sputtanato ad alti livelli ai tempi delle ragazzine che lasciavano scie di bava per lui e lo consideravano più icona religiosa che artista - rimane un gran bravo attore, lo dico ricordando _The departed_. Sono rimasto affascinato anche dagli effetti speciali, in particolare quello dello spostamento di gravità nell'albergo durante la lotta, spettacolare. Riassumendo: consiglio di andare a vederlo, vale tutto il prezzo del biglietto.

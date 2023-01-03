@@ -1,0 +1,16 @@
+---
+import { SITE_OWNER } from "../config";
+
+const today = new Date();
+---
+
+<footer>
+  &copy; {today.getFullYear()}
+  {SITE_OWNER} - powered by Astro
+</footer>
+<style>
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+</style>
