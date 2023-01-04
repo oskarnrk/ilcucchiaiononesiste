@@ -1,10 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	@apply container mx-auto py-8;
+}
+
+h1 {
+	@apply text-4xl font-bold;
+}
+
+h2 {
+	@apply text-3xl font-bold;
+}
+
+h3 {
+	@apply text-2xl font-bold;
+}
+
+h4 {
+	@apply text-xl font-bold;
+}
+
 /*
   The CSS in this style tag is based off of Bear Blog's default CSS.
   https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
- */
-body {
-	font-family: Verdana, sans-serif;
+
+  body {
+	  font-family: Verdana, sans-serif;
 	margin: auto;
 	padding: 20px;
 	max-width: 65ch;
@@ -65,3 +89,4 @@ blockquote {
 	margin: 0px;
 	font-style: italic;
 }
+*/

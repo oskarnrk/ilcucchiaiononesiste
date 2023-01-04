@@ -20,30 +20,13 @@ const posts = (await Astro.glob("./2*/**/index.{md,mdx}"))
   <head>
     <Analytics />
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-    <style>
-      ul {
-        list-style-type: none;
-        padding: unset;
-      }
-      ul li {
-        display: flex;
-      }
-      ul li time {
-        flex: 0 0 130px;
-        font-style: italic;
-        color: #595959;
-      }
-      ul li a:visited {
-        color: #8e32dc;
-      }
-    </style>
   </head>
   <body>
     <Header />
     <div>
       <p>Sono Oscar Zambotti, aka oskarnrk.</p>
       <p>In ordine sparso: trentino, sviluppatore web e mobile, innamorato di tutto ciò che è tecnologia, videogiocatore, appassionato di serie TV, vocalist, milanista, ma soprattutto padre e marito.</p>
-      <p><i>Sto migrando il blog da Wordpress self-hosted ad Astro + Netlify, l'estetica non sarà il top ma migliorerà e seguirà guida!</i></p>
+      <p class="italic">Sto migrando il blog da Wordpress self-hosted ad Astro + Netlify, l'estetica non sarà il top ma migliorerà e seguirà guida!</p>
     </div>
     <main>
       <section>

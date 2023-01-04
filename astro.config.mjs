@@ -2,7 +2,9 @@ import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import partytown from "@astrojs/partytown";
 import sitemap from "@astrojs/sitemap";
+import tailwind from "@astrojs/tailwind";
 
+// https://astro.build/config
 export default defineConfig({
   site: "https://www.ilcucchiaiononesiste.it",
   integrations: [
@@ -10,9 +12,10 @@ export default defineConfig({
     partytown({
       // Adds dataLayer.push as a forwarding-event.
       config: {
-        forward: ["dataLayer.push"]
+        forward: ["dataLayer.push"],
       },
     }),
     sitemap(),
+    tailwind()
   ],
 });
