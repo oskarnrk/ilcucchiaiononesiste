@@ -18,8 +18,8 @@ const posts = (await Astro.glob("./2*/**/index.{md,mdx}"))
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <Analytics />
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <style>
       ul {
         list-style-type: none;
