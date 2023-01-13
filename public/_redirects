@@ -1,1 +1,2 @@
 /:year/:month/:day/:slug  /:year/:month/:slug
+/:year/:month/:day/:slug  /archive/:year/:month/:slug
