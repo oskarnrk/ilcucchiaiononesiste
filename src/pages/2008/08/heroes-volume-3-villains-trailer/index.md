@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "\"Heroes Volume 3: Villains\" trailers"
 date: "2008-08-12"
 categories: 

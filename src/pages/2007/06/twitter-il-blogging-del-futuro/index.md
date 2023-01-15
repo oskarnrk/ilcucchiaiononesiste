@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Twitter, il blogging del futuro?"
 date: "2007-06-09"
 categories: 

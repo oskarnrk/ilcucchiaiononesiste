@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Assenze, serie tv e punto della situazione"
 date: "2013-05-02"
 categories: 

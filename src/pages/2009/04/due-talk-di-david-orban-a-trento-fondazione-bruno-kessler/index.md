@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Due talk di David Orban a Trento, Fondazione Bruno Kessler"
 date: "2009-04-07"
 categories: 

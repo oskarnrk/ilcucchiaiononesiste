@@ -1,6 +1,5 @@
 ---
 import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
-import Analytics from "../components/Analytics.astro";
 import BaseHead from "../components/BaseHead.astro";
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
@@ -8,6 +7,7 @@ import Header from "../components/Header.astro";
 // Use Astro.glob() to fetch all posts, and then sort them by date.
 const posts = (await Astro.glob("./2*/**/index.{md,mdx}"))
   .filter((post) => !post.frontmatter.draft)
+  .filter((post) => parseInt(post.url.split("/")[1]) > import.meta.env.PUBLIC_ARCHIVE_LAST_YEAR)
   .sort(
     (a, b) =>
       new Date(b.frontmatter.date).valueOf() -
@@ -18,7 +18,6 @@ const posts = (await Astro.glob("./2*/**/index.{md,mdx}"))
 <!DOCTYPE html>
 <html lang="it">
   <head>
-    <Analytics />
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <style>
       ul {
@@ -42,8 +41,17 @@ const posts = (await Astro.glob("./2*/**/index.{md,mdx}"))
     <Header />
     <div>
       <p>Sono Oscar Zambotti, aka oskarnrk.</p>
-      <p>In ordine sparso: trentino, sviluppatore web e mobile, innamorato di tutto ciò che è tecnologia, videogiocatore, appassionato di serie TV, vocalist, milanista, ma soprattutto padre e marito.</p>
-      <p><i>Sto migrando il blog da Wordpress self-hosted ad Astro + Netlify, l'estetica non sarà il top ma migliorerà e seguirà guida!</i></p>
+      <p>
+        In ordine sparso: trentino, sviluppatore web e mobile, innamorato di
+        tutto ciò che è tecnologia, videogiocatore, appassionato di serie TV,
+        vocalist, milanista, ma soprattutto padre e marito.
+      </p>
+      <p>
+        <i
+          >Sto migrando il blog da Wordpress self-hosted ad Astro + Netlify,
+          l'estetica non sarà il top ma migliorerà e seguirà guida!</i
+        >
+      </p>
     </div>
     <main>
       <section>

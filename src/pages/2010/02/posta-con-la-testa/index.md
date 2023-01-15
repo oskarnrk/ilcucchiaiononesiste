@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Posta con la testa"
 date: "2010-02-09"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "CAMPIONI D'EUROPA!"
 date: "2007-05-24"
 categories: 

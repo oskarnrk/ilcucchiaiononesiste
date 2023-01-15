@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Il ritorno di MacGyver"
 date: "2008-05-05"
 categories: 

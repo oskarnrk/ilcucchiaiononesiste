@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Oasis, \"Stop the clocks\""
 date: "2006-12-02"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Ligabue e l'Orchestra: emozioni all'Arena di Verona"
 date: "2008-10-06"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Abbattiamo una casa? Così, tanto per.."
 date: "2006-09-12"
 categories: 

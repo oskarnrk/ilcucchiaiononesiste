@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "In fondo in fondo ci mancherà"
 date: "2008-01-08"
 categories: 

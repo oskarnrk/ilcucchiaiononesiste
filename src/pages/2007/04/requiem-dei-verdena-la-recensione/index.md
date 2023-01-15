@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "\"Requiem\" dei Verdena: la recensione!"
 date: "2007-04-16"
 categories: 

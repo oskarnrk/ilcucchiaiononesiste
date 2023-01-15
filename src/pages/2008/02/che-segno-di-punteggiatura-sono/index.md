@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Che segno di punteggiatura sono?"
 date: "2008-02-20"
 categories: 

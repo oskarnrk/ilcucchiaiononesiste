@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "tar xzvf regali.tar.gz"
 date: "2008-12-28"
 categories: 

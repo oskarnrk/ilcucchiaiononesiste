@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Il futuro è qui, e io lo voglio"
 date: "2008-03-13"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "meemi, social network made in Italy"
 date: "2008-03-10"
 categories: 

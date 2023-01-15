@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Le avventure utontiche - Num. 2"
 date: "2007-11-24"
 categories: 

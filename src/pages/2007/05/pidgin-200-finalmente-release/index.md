@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Pidgin 2.0.0 final(mente) release"
 date: "2007-05-04"
 categories: 

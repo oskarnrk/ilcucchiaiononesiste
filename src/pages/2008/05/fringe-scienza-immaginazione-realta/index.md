@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Fringe: scienza, immaginazione, realtà"
 date: "2008-05-22"
 categories: 

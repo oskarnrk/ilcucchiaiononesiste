@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Trattato pseudofilosofico. Non vuol dire nulla."
 date: "2006-08-01"
 categories: 

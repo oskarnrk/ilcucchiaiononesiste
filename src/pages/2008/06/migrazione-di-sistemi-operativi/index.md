@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Migrazione di sistemi operativi"
 date: "2008-06-12"
 categories: 

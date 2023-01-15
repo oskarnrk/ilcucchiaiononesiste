@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Google Buzz intasa la Posta in arrivo, ecco una soluzione"
 date: "2010-02-10"
 categories: 

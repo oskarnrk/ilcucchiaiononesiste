@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "\"Sì, è proprio lui\""
 date: "2008-10-12"
 categories: 

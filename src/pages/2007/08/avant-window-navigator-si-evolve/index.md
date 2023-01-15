@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Avant Window Navigator si evolve"
 date: "2007-08-19"
 categories: 

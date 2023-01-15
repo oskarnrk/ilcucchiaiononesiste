@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "MAG per PlayStation 3, la recensione"
 date: "2010-01-26"
 categories: 

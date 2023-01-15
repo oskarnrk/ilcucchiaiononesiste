@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "La saggezza \"savonese\""
 date: "2007-07-25"
 categories: 

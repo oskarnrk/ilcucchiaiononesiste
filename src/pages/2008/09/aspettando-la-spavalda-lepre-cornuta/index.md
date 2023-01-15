@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Aspettando la Spavalda Lepre Cornuta"
 date: "2008-09-09"
 categories: 

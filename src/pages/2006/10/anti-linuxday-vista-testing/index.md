@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "\"Anti-LinuxDay\" & Vista testing"
 date: "2006-10-17"
 categories: 

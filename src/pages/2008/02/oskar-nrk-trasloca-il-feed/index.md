@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Oskar NRK trasloca il feed"
 date: "2008-02-29"
 categories: 

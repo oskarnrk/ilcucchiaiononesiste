@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Micro$oft Bancomat bug"
 date: "2007-08-23"
 categories: 

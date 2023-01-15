@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Miro e Java crash, come ho risolto"
 date: "2007-11-16"
 categories: 

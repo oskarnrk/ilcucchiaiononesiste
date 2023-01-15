@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Indiscutibilmente emozionanti: Baustelle"
 date: "2006-06-08"
 categories: 

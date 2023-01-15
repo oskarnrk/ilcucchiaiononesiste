@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "A che ora è la fine del mondo?"
 date: "2008-09-08"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Macchianera Blog Awards, mo' mi candido"
 date: "2008-08-28"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Io, il nerd che è in me e la corsa"
 date: "2011-08-05"
 categories: 

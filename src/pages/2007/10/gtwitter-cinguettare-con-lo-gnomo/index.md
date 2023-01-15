@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "gTwitter, cinguettare con lo Gnomo"
 date: "2007-10-31"
 categories: 

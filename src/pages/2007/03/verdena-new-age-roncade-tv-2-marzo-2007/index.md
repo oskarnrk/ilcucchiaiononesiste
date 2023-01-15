@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Verdena @ New Age (Roncade, TV), 2 marzo 2007"
 date: "2007-03-03"
 categories: 

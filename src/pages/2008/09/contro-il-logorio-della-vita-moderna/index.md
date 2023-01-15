@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "\"Contro il logorio della vita moderna\""
 date: "2008-09-25"
 categories: 

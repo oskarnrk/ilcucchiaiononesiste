@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "No, non ci siamo proprio"
 date: "2008-06-05"
 categories: 

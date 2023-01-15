@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Ho deciso di affondare il sottomarino di Last Resort"
 date: "2012-11-03"
 categories: 

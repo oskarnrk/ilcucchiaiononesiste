@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "\"device is unmanaged\" con Network Manager 0.7 su Intrepid Ibex?"
 date: "2008-10-11"
 categories: 

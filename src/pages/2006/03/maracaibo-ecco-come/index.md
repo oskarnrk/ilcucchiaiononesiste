@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Maracaibo: ecco com'è"
 date: "2006-03-07"
 categories: 

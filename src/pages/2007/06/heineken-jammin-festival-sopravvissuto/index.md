@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Heineken Jammin' Festival: sopravvissuto!"
 date: "2007-06-19"
 categories: 

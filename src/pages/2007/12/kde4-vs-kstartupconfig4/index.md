@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "KDE4 vs kstartupconfig4"
 date: "2007-12-14"
 categories: 

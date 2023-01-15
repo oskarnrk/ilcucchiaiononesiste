@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "\"Dividiamo i sassi per colore, forma e dimensione...\""
 date: "2006-05-23"
 categories: 

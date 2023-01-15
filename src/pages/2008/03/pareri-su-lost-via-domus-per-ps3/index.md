@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Pareri su Lost Via Domus per Ps3"
 date: "2008-03-25"
 categories: 

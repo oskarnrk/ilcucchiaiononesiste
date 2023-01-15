@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Road to Ubuntu «Gutsy Gibbon»"
 date: "2007-09-21"
 categories: 

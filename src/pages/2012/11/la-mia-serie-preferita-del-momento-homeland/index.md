@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "La mia serie preferita al momento: Homeland"
 date: "2012-11-02"
 categories: 

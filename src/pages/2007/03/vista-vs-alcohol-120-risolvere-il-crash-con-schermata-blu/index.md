@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Vista vs Alcohol 120%: risolvere il crash con schermata blu"
 date: "2007-03-08"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "David Orban alla Fondazione Bruno Kessler, \"The Open Internet of Things\""
 date: "2009-04-11"
 categories: 

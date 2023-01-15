@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Rimuovere tutti i pannelli di GNOME in Ubuntu"
 date: "2009-11-05"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Gioia et giubilo: il Gibbone Coraggioso è nato!"
 date: "2007-10-18"
 categories: 

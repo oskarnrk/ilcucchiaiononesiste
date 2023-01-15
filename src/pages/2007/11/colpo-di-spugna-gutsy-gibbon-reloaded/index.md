@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Colpo di spugna: «Gutsy Gibbon» reloaded"
 date: "2007-11-15"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "diggita, l'editoria sociale"
 date: "2008-06-30"
 categories: 

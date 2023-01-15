@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Bongo Linux arruola Oskar NRK"
 date: "2008-01-02"
 categories: 

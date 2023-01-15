@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "KDE4 in gutsy-backports"
 date: "2007-11-23"
 categories: 

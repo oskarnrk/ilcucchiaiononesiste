@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Qualcuno la chiama già Terza Repubblica"
 date: "2008-04-15"
 categories: 

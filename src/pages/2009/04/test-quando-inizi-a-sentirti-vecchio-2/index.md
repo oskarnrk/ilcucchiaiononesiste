@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Test: quando inizi a sentirti vecchio? /2"
 date: "2009-04-25"
 categories: 

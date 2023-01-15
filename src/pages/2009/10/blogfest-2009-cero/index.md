@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "BlogFest 2009, c'ero!"
 date: "2009-10-06"
 categories: 

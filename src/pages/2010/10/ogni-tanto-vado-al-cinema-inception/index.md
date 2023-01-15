@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Ogni tanto vado al cinema: Inception"
 date: "2010-10-13"
 categories: 

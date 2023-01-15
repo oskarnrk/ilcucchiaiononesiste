@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Honeymoon in the U.S.A."
 date: "2013-12-28"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "ADDIO MARACAIBO DISCO"
 date: "2006-03-19"
 categories: 

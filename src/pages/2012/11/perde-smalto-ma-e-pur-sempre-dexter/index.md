@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Perde smalto ma è pur sempre Dexter"
 date: "2012-11-09"
 categories: 

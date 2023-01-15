@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Bill & Steve: i pirati di Silicon Valley \"reloaded\" :P"
 date: "2007-06-01"
 categories: 

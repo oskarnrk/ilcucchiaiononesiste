@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Manco fossimo in Scrubs"
 date: "2008-07-17"
 categories: 

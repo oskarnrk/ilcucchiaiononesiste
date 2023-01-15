@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "E sta per finire un altro weekend (cit.)"
 date: "2007-10-06"
 categories: 

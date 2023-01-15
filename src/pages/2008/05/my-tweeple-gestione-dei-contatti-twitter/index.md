@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "My Tweeple, gestione dei contatti Twitter"
 date: "2008-05-03"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Sistemare il supporto a iPhone e iPod Touch su Ubuntu 10.04 Lucid Lynx"
 date: "2010-04-11"
 categories: 

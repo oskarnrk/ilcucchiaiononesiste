@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "«Gutsy Gibbon» reloaded, tirando le somme"
 date: "2007-12-01"
 categories: 

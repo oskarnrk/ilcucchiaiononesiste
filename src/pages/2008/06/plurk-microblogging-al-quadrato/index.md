@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Plurk, microblogging al quadrato"
 date: "2008-06-03"
 categories: 

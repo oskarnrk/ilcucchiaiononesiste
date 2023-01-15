@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Intervista doppia alla Blogfest: Francesco Gavello vs. Oskar NRK"
 date: "2009-10-12"
 categories: 

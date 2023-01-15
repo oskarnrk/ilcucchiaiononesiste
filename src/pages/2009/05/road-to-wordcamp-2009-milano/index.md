@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Road to Wordcamp 2009, Milano"
 date: "2009-05-22"
 categories: 

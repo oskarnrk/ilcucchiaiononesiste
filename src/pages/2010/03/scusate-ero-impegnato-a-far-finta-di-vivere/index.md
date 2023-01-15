@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Scusate, ero impegnato a far finta di vivere"
 date: "2010-03-20"
 categories: 

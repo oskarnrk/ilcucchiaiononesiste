@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "WipEoput HD su Playstation 3, legendary!"
 date: "2008-10-10"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Schizzo di follia: da Feisty Fawn a Gutsy Gibbon"
 date: "2007-08-27"
 categories: 

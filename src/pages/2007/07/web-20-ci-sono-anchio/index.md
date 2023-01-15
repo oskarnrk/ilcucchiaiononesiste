@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Web 2.0: ci sono anch'io!"
 date: "2007-07-12"
 categories: 

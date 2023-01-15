@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Dexter Season 3 trailer!"
 date: "2008-07-25"
 categories: 

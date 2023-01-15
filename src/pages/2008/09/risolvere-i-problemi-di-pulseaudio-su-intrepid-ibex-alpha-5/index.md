@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Risolvere i problemi di PulseAudio su Intrepid Ibex Alpha 5"
 date: "2008-09-11"
 categories: 

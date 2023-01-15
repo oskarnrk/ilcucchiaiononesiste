@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "PokerTH on Ubuntu Linux"
 date: "2007-05-05"
 categories: 

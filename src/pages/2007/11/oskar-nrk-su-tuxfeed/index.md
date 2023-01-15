@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Oskar NRK su TuxFeed"
 date: "2007-11-14"
 categories: 

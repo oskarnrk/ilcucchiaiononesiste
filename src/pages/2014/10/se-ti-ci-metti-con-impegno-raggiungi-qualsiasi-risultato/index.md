@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "\"Se ti ci metti con impegno raggiungi qualsiasi risultato\""
 date: "2014-10-15"
 categories: 

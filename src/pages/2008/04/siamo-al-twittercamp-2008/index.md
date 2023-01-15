@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Siamo al Twittercamp 2008!"
 date: "2008-04-19"
 categories: 

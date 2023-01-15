@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "\"MAG 256 Battle\", Sony aspetta i giocatori a Londra"
 date: "2010-01-18"
 categories: 

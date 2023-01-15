@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "L'Italia censura i bloggers"
 date: "2007-10-20"
 categories: 

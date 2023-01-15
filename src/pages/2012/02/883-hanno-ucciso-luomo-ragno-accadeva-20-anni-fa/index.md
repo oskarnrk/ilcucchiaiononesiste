@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Gli 883 dissero che qualcuno aveva ucciso l'Uomo Ragno. 20 anni fa."
 date: "2012-02-10"
 categories: 

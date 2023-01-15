@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Anche Oskar NRK su \"Il Bloggatore\""
 date: "2008-01-14"
 categories: 

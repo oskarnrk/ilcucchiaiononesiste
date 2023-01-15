@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "\"Ratchet and Clank: A spasso nel tempo\", il minigioco!"
 date: "2009-11-25"
 categories: 

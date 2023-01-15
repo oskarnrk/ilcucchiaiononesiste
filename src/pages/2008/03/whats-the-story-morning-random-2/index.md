@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "(What's the story) Morning random? /2"
 date: "2008-03-28"
 categories: 

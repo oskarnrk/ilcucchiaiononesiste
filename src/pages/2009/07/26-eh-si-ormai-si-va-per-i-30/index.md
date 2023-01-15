@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "26? Eh sì, ormai si va per i 30!"
 date: "2009-07-10"
 categories: 

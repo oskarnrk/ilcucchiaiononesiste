@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Ubuntu \"Intrepid Ibex\" 8.10 Release Schedule"
 date: "2008-05-03"
 categories: 

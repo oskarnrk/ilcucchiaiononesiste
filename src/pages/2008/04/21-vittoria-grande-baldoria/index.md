@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "21, vittoria, grande baldoria"
 date: "2008-04-29"
 categories: 

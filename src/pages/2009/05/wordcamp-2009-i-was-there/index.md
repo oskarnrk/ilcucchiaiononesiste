@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Wordcamp 2009: I was there"
 date: "2009-05-27"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Seminario \"The Internet as Web Services: introduction to ReST\""
 date: "2009-05-15"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "No OOXML, sì ODF!"
 date: "2008-03-18"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "4 anni per non perdersi più"
 date: "2008-08-02"
 categories: 

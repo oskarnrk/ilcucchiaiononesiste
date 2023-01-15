@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Ritrovato il Balloon Boy del Colorado!"
 date: "2009-10-15"
 categories: 

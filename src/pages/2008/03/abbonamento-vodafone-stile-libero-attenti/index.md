@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Abbonamento Vodafone Stile Libero, attenti"
 date: "2008-03-06"
 categories: 

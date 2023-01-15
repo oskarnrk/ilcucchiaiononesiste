@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Geek music: XP feat. 98 hit single!"
 date: "2008-02-18"
 categories: 

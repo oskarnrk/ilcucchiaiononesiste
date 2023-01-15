@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Avant Window Navigator in Ubuntu «Gutsy Gibbon» 7.10"
 date: "2007-10-04"
 categories: 

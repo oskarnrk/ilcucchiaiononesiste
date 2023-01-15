@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Dubbi: Ps3 vs Wii, \"Gphone\" vs Fic Neo 1973"
 date: "2007-11-07"
 categories: 

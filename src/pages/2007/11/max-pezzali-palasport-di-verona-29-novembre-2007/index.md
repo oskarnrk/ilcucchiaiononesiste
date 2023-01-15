@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Max Pezzali @ Palasport di Verona, 29 novembre 2007"
 date: "2007-11-30"
 categories: 

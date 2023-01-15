@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Tavolini, diete, televisori e altre storie"
 date: "2008-10-25"
 categories: 

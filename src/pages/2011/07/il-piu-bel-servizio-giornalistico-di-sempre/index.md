@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Il più bel servizio giornalistico di sempre"
 date: "2011-07-14"
 categories: 

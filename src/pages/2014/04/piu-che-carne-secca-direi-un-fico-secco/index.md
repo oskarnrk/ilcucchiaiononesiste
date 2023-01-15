@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Più che carne secca direi un fico secco"
 date: "2014-04-02"
 categories: 

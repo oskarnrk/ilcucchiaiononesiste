@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Adobe AIR su Linux? Sì, ma."
 date: "2008-02-28"
 categories: 

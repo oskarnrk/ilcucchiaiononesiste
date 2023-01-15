@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Google Wave in manutenzione? \"Time to chillax\""
 date: "2010-05-11"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Ubuntu 8.04 \"Hardy Heron\" LTS"
 date: "2007-08-29"
 categories: 

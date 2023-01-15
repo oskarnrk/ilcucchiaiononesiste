@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Le soddisfazioni per un genitore"
 date: "2008-06-19"
 categories: 

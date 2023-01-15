@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Ripristinare GRUB2 su Ubuntu con un Live CD dopo l'installazione di Windows"
 date: "2009-10-14"
 categories: 

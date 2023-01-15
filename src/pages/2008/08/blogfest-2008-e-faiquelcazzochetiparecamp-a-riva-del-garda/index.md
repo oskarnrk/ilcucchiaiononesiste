@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "BlogFest 2008 e FaiQuelCazzoCheTiPareCamp a Riva del Garda"
 date: "2008-08-31"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Problemi con Flash integrato in Chrome 20 su Ubuntu 12.04"
 date: "2012-06-29"
 categories: 

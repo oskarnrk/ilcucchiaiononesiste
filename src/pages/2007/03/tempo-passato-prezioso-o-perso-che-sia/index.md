@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Tempo passato, prezioso o perso che sia"
 date: "2007-03-08"
 categories: 

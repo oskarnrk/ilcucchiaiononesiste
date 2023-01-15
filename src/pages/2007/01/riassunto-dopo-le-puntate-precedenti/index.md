@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Riassunto dopo le puntate precedenti"
 date: "2007-01-18"
 categories: 

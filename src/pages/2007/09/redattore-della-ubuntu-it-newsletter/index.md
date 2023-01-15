@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Redattore della Ubuntu-It Newsletter"
 date: "2007-09-12"
 categories: 

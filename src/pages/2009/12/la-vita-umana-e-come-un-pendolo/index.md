@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "La vita umana è come un pendolo"
 date: "2009-12-07"
 categories: 

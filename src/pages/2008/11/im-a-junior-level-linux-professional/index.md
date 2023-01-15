@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "I'm a Junior Level Linux Professional"
 date: "2008-11-18"
 categories: 

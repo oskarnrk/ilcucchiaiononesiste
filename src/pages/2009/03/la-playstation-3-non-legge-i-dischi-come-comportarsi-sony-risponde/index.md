@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "La Playstation 3 non legge i dischi. Come comportarsi? Sony risponde"
 date: "2009-03-27"
 categories: 

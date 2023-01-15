@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Skype su Ubuntu 8.04 Hardy Heron con PulseAudio [HowTo]"
 date: "2008-06-11"
 categories: 

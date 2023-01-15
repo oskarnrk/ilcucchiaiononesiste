@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Firefox Vs Chromium, arbitra Flash"
 date: "2009-07-15"
 categories: 

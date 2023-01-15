@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Userei il nuovo Clearlooks, ma..."
 date: "2007-09-01"
 categories: 

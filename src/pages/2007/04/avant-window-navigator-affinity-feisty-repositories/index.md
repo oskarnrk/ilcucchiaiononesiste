@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Avant Window Navigator & Affinity: Feisty repositories"
 date: "2007-04-12"
 categories: 

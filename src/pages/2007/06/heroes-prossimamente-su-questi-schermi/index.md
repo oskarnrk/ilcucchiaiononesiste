@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "\"Heroes\": prossimamente su questi schermi?"
 date: "2007-06-07"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Da un grande potere derivano grandi responsabilità"
 date: "2008-09-10"
 categories: 

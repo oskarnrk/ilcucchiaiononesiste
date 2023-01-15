@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Adobe AIR 1.1 beta su Ubuntu Linux [HowTo]"
 date: "2008-09-19"
 categories: 

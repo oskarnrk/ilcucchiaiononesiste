@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Nuovo singolo di Ligabue e decisioni deludenti"
 date: "2008-05-09"
 categories: 

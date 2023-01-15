@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Il \"libro bianco\" del CdR uscente del TG1"
 date: "2011-03-25"
 categories: 

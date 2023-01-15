@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Chromium e il vero volto del tasto \"Chiudi finestra\""
 date: "2009-08-04"
 categories: 

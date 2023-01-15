@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Anche i blog migrano, e si aggiornano"
 date: "2009-06-13"
 categories: 

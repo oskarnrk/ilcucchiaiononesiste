@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "How addicted to Twitter am I?"
 date: "2010-06-24"
 categories: 

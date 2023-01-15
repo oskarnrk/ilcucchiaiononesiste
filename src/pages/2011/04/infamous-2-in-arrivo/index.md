@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "inFamous 2 in arrivo!"
 date: "2011-04-15"
 categories: 

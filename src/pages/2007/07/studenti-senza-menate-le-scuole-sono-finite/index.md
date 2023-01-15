@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Studenti senza menate, le scuole sono finite.."
 date: "2007-07-19"
 categories: 

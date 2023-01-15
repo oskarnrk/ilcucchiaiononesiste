@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Gigi D'Agostino @ Max Disco, Bressanone (BZ)"
 date: "2006-05-01"
 categories: 

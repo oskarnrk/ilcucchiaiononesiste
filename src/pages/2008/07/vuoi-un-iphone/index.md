@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Vuoi un iPhone? Mah"
 date: "2008-07-23"
 categories: 

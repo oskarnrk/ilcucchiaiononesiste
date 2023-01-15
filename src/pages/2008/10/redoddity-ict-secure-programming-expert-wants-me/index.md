@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "RedOddity ICT Secure Programming Expert wants me"
 date: "2008-10-02"
 categories: 

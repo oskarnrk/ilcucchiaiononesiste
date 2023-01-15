@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Resoconto della trasferta all'Apres di sabato 6 ottobre 2007"
 date: "2007-10-09"
 categories: 

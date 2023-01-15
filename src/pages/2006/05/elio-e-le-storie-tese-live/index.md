@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Elio e Le Storie Tese? Live!"
 date: "2006-05-01"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Segnali dal Profondo Nord"
 date: "2008-11-14"
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Razzi Arpia Inferno e Fiamme, il ritorno dei Verdena"
 date: "2010-12-23"
 categories: 

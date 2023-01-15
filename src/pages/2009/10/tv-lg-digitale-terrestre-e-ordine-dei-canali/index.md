@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Tv LG, digitale terrestre e ordine dei canali"
 date: "2009-10-16"
 categories: 

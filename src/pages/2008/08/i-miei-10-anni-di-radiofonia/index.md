@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "I miei 10 anni di radiofonia"
 date: "2008-08-07"
 categories: 

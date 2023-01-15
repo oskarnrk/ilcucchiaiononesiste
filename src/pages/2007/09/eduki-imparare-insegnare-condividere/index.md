@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Eduki: imparare, insegnare, condividere"
 date: "2007-09-28"
 categories: 

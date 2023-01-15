@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Wordpress 2.8, con me non va d'accordo"
 date: "2009-06-11"
 categories: 

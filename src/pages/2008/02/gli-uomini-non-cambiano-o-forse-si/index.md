@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Gli uomini non cambiano. O forse sì"
 date: "2008-02-27"
 categories: 

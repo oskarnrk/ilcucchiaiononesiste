@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Uscita Ubuntu 7.04 \"The Feisty Fawn\", in sviluppo 7.10 \"The Gutsy Gibbon\""
 date: "2007-04-19"
 categories: 

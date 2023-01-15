@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Il venticinquesimo genetliaco"
 date: "2008-07-11"
 categories: 

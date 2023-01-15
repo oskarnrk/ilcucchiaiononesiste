@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Ordine nella convivenza di GNOME e KDE"
 date: "2008-01-12"
 categories: 

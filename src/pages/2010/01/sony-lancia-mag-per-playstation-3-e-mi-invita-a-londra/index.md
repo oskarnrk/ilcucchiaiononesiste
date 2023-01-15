@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Sony lancia MAG per Playstation 3 e mi invita a Londra!"
 date: "2010-01-07"
 categories: 

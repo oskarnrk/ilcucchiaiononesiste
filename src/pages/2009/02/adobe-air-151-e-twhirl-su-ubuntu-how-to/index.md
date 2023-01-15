@@ -1,5 +1,5 @@
 ---
-layout: "../../../../../layouts/BlogPost.astro"
+layout: "../../../../layouts/BlogPost.astro"
 title: "Adobe AIR 1.5.1 e Twhirl su Ubuntu [how to]"
 date: "2009-02-25"
 categories: 
