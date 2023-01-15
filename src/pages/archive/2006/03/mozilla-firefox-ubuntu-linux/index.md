@@ -1,6 +1,6 @@
 ---
 layout: "../../../../../layouts/BlogPost.astro"
-title: "Mozilla Firefox &#038; Ubuntu Linux"
+title: "Mozilla Firefox & Ubuntu Linux"
 date: "2006-03-05"
 categories: 
   - "informatica"

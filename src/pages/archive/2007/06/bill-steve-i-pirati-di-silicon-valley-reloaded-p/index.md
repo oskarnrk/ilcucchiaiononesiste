@@ -1,6 +1,6 @@
 ---
 layout: "../../../../../layouts/BlogPost.astro"
-title: "Bill &#038; Steve: i pirati di Silicon Valley \"reloaded\" :P"
+title: "Bill & Steve: i pirati di Silicon Valley \"reloaded\" :P"
 date: "2007-06-01"
 categories: 
   - "informatica"

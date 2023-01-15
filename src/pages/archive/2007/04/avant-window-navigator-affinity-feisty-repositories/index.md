@@ -1,6 +1,6 @@
 ---
 layout: "../../../../../layouts/BlogPost.astro"
-title: "Avant Window Navigator &#038; Affinity: Feisty repositories"
+title: "Avant Window Navigator & Affinity: Feisty repositories"
 date: "2007-04-12"
 categories: 
   - "howto"

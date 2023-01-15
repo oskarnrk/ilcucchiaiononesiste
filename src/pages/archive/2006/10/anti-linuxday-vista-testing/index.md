@@ -1,6 +1,6 @@
 ---
 layout: "../../../../../layouts/BlogPost.astro"
-title: "\"Anti-LinuxDay\" &#038; Vista testing"
+title: "\"Anti-LinuxDay\" & Vista testing"
 date: "2006-10-17"
 categories: 
   - "fun"
