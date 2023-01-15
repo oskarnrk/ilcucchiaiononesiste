@@ -1,0 +1,11 @@
+---
+layout: "../../../../layouts/BlogPost.astro"
+title: "\"Se ti ci metti con impegno raggiungi qualsiasi risultato\""
+date: "2014-10-15"
+categories: 
+  - "personal"
+tags: 
+  - "fumo"
+---
+
+Ricordate da dove viene questa citazione? Esatto, _Ritorno al futuro_. E questa volta mi sto impegnando davvero. Ho preso il famoso libro _È facile smettere di fumare, se sai come farlo_ di Allen Carr. Qualcuno mi ha detto che mi avrebbe aiutato tantissimo, ho trovato esperienze di interi nuclei familiari che dopo la lettura hanno immadiatamente abbandonato le sigarette senza problemi. Altri mi hanno detto che era soltanto un riassunto di banalità e che spendere soldi per acquistarlo era inutile. 180 pagine al costo di due pacchetti di Camel. Potevo anche fare il tentativo, no? L'ho letto. Non posso negare di aver pensato a tratti "Questo lo sapevo anche senza trovarlo scritto qui". È una raccolta di concetti semplici, spesso ripetuti allo sfinimento. Ma aiuta. Fa scattare qualcosa. Finita l'ultima pagina ho chiuso il libro, mi sono rollato due sigarette, ho fumato la prima, arrivato quasi al filtro l'ho usata per accendere la seconda. Tre tiri, spenta. Mi sono sbarazzato di tabacco, cartine, filtri e accendino. Non fumo da una settimana. Non nego che i primi giorni sono stati un po' fastidiosi, specie al lavoro dove avevo degli orari in cui una sigaretta ci stava tutta, abitudine. Spesso finivo una qualche attività e pensavo "Ok, adesso esco e...", mi partiva un leggero panico ma non ho ceduto. Ogni giorno questi momenti si sono attenuati e in parte sono anche spariti. Ho pure installato un paio di app ([QuitNow!](https://play.google.com/store/apps/details?hl=it&id=com.EAGINsoftware.dejaloYa) e [Quit Smoking: Cessation Nation](https://play.google.com/store/apps/details?hl=it&id=com.horner.ronald.cessationnation)) che ti dicono da quanto non fumi, quanto hai risparmiato in termini di tempo e denaro, quanto ci ricavi in salute (tempo per azzerare la nicotina dal corpo e per eliminare la dipendenza, ad esempio). Queste statistiche però devono essere soltanto una curiosità, continuare a controllarle morbosamente mi farebbero capire che il fumo mi manca e non è così, non deve. KEEP CALM AND DO NOT SMOKE.

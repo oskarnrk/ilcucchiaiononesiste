@@ -1,12 +1,13 @@
 ---
+import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
-import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
 
 // Use Astro.glob() to fetch all posts, and then sort them by date.
-const posts = (await Astro.glob("./archive/**/index.{md,mdx}"))
+const posts = (await Astro.glob("./2*/**/index.{md,mdx}"))
   .filter((post) => !post.frontmatter.draft)
+  .filter((post) => parseInt(post.url.split("/")[1]) <= import.meta.env.PUBLIC_ARCHIVE_LAST_YEAR)
   .sort(
     (a, b) =>
       new Date(b.frontmatter.date).valueOf() -
