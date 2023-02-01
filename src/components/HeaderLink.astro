@@ -10,11 +10,10 @@ const isActive = href === pathname || href === pathname.replace(/\/$/, "");
 <a
   href={href}
   class:list={[
-    className,
-    { "font-bold": isActive },
-    "mx-4",
-    "first:ml-0",
-    "last:mr-0",
+    "navbar-item",
+    //"is-tab",
+    { "is-active": isActive },
+    className
   ]}
   {...props}
 >

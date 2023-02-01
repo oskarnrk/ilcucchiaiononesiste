@@ -4,14 +4,18 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../config";
 ---
 
 <header>
-  <h1>{SITE_TITLE}</h1>
-  <h4>{SITE_DESCRIPTION}</h4>
-  <nav class="my-4">
-    <HeaderLink href="/">Home</HeaderLink>
-    <HeaderLink href="/archive">Archive</HeaderLink>
-    <HeaderLink href="/disclaimer-license">Disclaimer & License</HeaderLink>
-    <HeaderLink href="https://twitter.com/oskarnrk" target="_blank"
-      >Twitter</HeaderLink
-    >
+  <div>
+    <h1 class="title is-1">{SITE_TITLE}</h1>
+    <h4 class="subtitle is-4">{SITE_DESCRIPTION}</h4>
+  </div>
+
+  <nav class="navbar is-light my-4" role="navigation" aria-label="main navigation">
+    <div class="navbar-menu">
+      <div class="navbar-start">
+        <HeaderLink href="/">Home</HeaderLink>
+        <HeaderLink href="/archive">Archive</HeaderLink>
+        <HeaderLink href="/disclaimer-license">Disclaimer & License</HeaderLink>
+      </div>
+    </div>
   </nav>
 </header>

@@ -4,10 +4,10 @@ import { SITE_OWNER } from "../config";
 const today = new Date();
 ---
 
-<footer class="mt-8">
-  &copy; {today.getFullYear()}
-  {SITE_OWNER} - powered by Astro
+<footer class="is-flex is-justify-content-center is-align-content-center mt-4">
+  <span>&copy; {today.getFullYear()} {SITE_OWNER} - powered by <a href="https://astro.build" target="_blank">Astro</a></span>
   <img
+    class="ml-2"
     src="https://api.netlify.com/api/v1/badges/aafdad76-c4dd-4cf0-a77e-1263e692b0ec/deploy-status"
     alt="Netlify Status"
   />

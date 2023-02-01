@@ -1,8 +1,5 @@
 ---
-import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
-import BaseHead from "../components/BaseHead.astro";
-import Footer from "../components/Footer.astro";
-import Header from "../components/Header.astro";
+import Main from "../components/Main.astro";
 
 // Use Astro.glob() to fetch all posts, and then sort them by date.
 const posts = (await Astro.glob("./2*/**/index.{md,mdx}"))
@@ -15,45 +12,23 @@ const posts = (await Astro.glob("./2*/**/index.{md,mdx}"))
   );
 ---
 
-<!DOCTYPE html>
-<html lang="it">
-  <head>
-    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-  </head>
-  <body>
-    <Header />
-    <div>
-      <p>Sono Oscar Zambotti, aka oskarnrk.</p>
-      <p>
-        In ordine sparso: trentino, sviluppatore web e mobile, innamorato di
-        tutto ciò che è tecnologia, videogiocatore, appassionato di serie TV,
-        vocalist, milanista, ma soprattutto padre e marito.
-      </p>
-      <p class="italic">
-        Sto migrando il blog da Wordpress self-hosted ad Astro + Netlify,
-        l'estetica non sarà il top ma migliorerà e seguirà guida!
-      </p>
-    </div>
-    <main>
-      <section>
-        <ul>
-          {
-            posts.map((post) => (
-              <li>
-                <time datetime={post.frontmatter.date}>
-                  {new Date(post.frontmatter.date).toLocaleDateString("it-it", {
-                    year: "numeric",
-                    month: "short",
-                    day: "numeric",
-                  })}
-                </time>
-                <a href={post.url}>{post.frontmatter.title}</a>
-              </li>
-            ))
-          }
-        </ul>
-      </section>
-    </main>
-    <Footer />
-  </body>
-</html>
+<Main>
+  <section>
+    <ul>
+      {
+        posts.map((post) => (
+          <li>
+            <time datetime={post.frontmatter.date}>
+              {new Date(post.frontmatter.date).toLocaleDateString("it-it", {
+                year: "numeric",
+                month: "short",
+                day: "numeric",
+              })}
+            </time>
+            <a href={post.url}>{post.frontmatter.title}</a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</Main>

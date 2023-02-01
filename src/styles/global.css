@@ -1,26 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-body {
-	@apply container mx-auto py-8;
-}
-
-h1 {
-	@apply text-4xl font-bold;
-}
-
-h2 {
-	@apply text-3xl font-bold;
-}
-
-h3 {
-	@apply text-2xl font-bold;
-}
-
-h4 {
-	@apply text-xl font-bold;
-}
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
 
 /*
   The CSS in this style tag is based off of Bear Blog's default CSS.

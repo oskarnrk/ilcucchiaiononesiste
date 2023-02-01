@@ -1,0 +1,42 @@
+---
+import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
+import BaseHead from "../components/BaseHead.astro";
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
+---
+
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  </head>
+  <body>
+    <div class="container">
+      <Header />
+      <div class="columns">
+        <div class="column is-three-quarters">
+          <main>
+            <slot />
+          </main>
+        </div>
+        <div class="column is-one-quarters">
+          <div class="box">
+            ⚠️ <span class="is-italic">
+              Sto migrando il blog da Wordpress self-hosted ad Astro + Bulma CSS + Netlify,
+              l'estetica non sarà il top ma migliorerà e seguirà guida!
+            </span>
+          </div>
+          <div class="box">
+            <p>Sono Oscar Zambotti, aka oskarnrk.</p>
+            <p>
+              In ordine sparso: trentino, sviluppatore web e mobile, innamorato
+              di tutto ciò che è tecnologia, videogiocatore, appassionato di
+              serie TV, vocalist, milanista, ma soprattutto padre e marito.
+            </p>
+          </div>
+        </div>
+      </div>
+      <Footer />
+    </div>
+  </body>
+</html>
