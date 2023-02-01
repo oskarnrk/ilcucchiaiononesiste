@@ -4,13 +4,27 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../config";
 ---
 
 <header>
-  <div>
-    <h1 class="title is-1">{SITE_TITLE}</h1>
-    <h4 class="subtitle is-4">{SITE_DESCRIPTION}</h4>
+  <div class="hero is-dark">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title is-1">{SITE_TITLE}</h1>
+        <h4 class="subtitle is-4">{SITE_DESCRIPTION}</h4>
+      </div>
+    </div>
   </div>
 
-  <nav class="navbar is-light my-4" role="navigation" aria-label="main navigation">
-    <div class="navbar-menu">
+  <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+    <!-- TODO: mobile menu -->
+    <!--
+    <div class="navbar-brand">
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    -->
+    <div id="navbarMenu" class="navbar-menu container">
       <div class="navbar-start">
         <HeaderLink href="/">Home</HeaderLink>
         <HeaderLink href="/archive">Archive</HeaderLink>
