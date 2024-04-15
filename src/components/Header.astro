@@ -4,22 +4,32 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../config";
 ---
 
 <header>
-  <h1>{SITE_TITLE}</h1>
-  <h4>{SITE_DESCRIPTION}</h4>
-  <nav>
-    <HeaderLink href="/">Home</HeaderLink>
-    <HeaderLink href="/archive">Archive</HeaderLink>
-    <HeaderLink href="/disclaimer-license">Disclaimer & License</HeaderLink>
-    <HeaderLink href="https://twitter.com/oskarnrk" target="_blank"
-      >Twitter</HeaderLink
-    >
+  <div class="hero">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title is-1">{SITE_TITLE}</h1>
+        <h4 class="subtitle is-4">{SITE_DESCRIPTION}</h4>
+      </div>
+    </div>
+  </div>
+
+  <nav class="navbar" role="navigation" aria-label="main navigation">
+    <!-- TODO: mobile menu -->
+    <!--
+    <div class="navbar-brand">
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    -->
+    <div id="navbarMenu" class="navbar-menu container">
+      <div class="navbar-start">
+        <HeaderLink href="/">Home</HeaderLink>
+        <HeaderLink href="/archive">Archive</HeaderLink>
+        <HeaderLink href="/disclaimer-license">Disclaimer & License</HeaderLink>
+      </div>
+    </div>
   </nav>
 </header>
-<style>
-  header {
-    margin: 0em 0 2em;
-  }
-  h1 {
-    margin: 0.5em 0;
-  }
-</style>

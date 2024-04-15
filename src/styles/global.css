@@ -1,8 +1,14 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css";
+
+body {
+	height: 100vh;
+}
+
 /*
-  The CSS in this style tag is based off of Bear Blog's default CSS.
-  https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
-  License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
- */
+The CSS in this style tag is based off of Bear Blog's default CSS.
+https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
+License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
+
 body {
 	font-family: Verdana, sans-serif;
 	margin: auto;
@@ -65,3 +71,4 @@ blockquote {
 	margin: 0px;
 	font-style: italic;
 }
+*/
