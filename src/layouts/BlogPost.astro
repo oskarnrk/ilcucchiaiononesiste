@@ -4,30 +4,33 @@ import Main from "../components/Main.astro";
 export interface Props {
   content: {
     title: string;
-    description: string;
     date?: string;
     updatedDate?: string;
     image?: string;
+    categories?: string[];
+    tags?: string[];
   };
 }
 
 const {
-  content: { title, description, date, updatedDate, image },
+  content: { title, date, updatedDate, image, categories, tags },
 } = Astro.props;
 ---
 
 <Main>
   <article>
-    {image && <img width={720} height={360} src={image} alt="" />}
-    <h2 class="title is-2">{title}</h2>
-    {date && <time>{date}</time>}
-    {
-      updatedDate && (
-        <div>
-          Last updated on <time>{updatedDate}</time>
-        </div>
-      )
-    }
-    <slot />
+    <div class="content">
+      {image && <img width={720} height={360} src={image} alt="" />}
+      <h2 class="title is-2">{title}</h2>
+      {date && <time>{date}</time>}
+      {
+        updatedDate && (
+          <div>
+            Last updated on <time>{updatedDate}</time>
+          </div>
+        )
+      }
+      <slot />
+    </div>
   </article>
 </Main>
