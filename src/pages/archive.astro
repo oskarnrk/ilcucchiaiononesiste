@@ -17,6 +17,6 @@ const sort: (a: Record<string, any>, b: Record<string, any>) => number = (
   new Date(a.frontmatter.date).valueOf();
 ---
 
-<Main>
+<Main title="Archivio">
   <PostsList posts={posts} filter={filter} sort={sort} />
 </Main>
