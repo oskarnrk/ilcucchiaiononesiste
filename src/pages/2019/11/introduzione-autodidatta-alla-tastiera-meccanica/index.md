@@ -16,7 +16,7 @@ tags:
 
 Ho cercato di evitarla il più possibile, ho tentato di ignorarla, far finta che non esistesse, ma alla fine eccola qui. La scimmia per la **tastiera meccanica**. Mi è necessaria? No. Migliorerebbe ciò che faccio 8+ ore al giorno? Possibile. Sarebbe uno sfizio? Probabile.
 
-Ho iniziato a informarmi, leggere articoli, vedere video, confrontare pareri, e mi sono fatto un'idea di quello che vorrei. Ho pensato quindi di riassumere un po' di informazioni in un post. Essendo un _n00b_ dell'argomento, parlando solo per letto e sentito dire e non possedendo ancora una tastiera meccanica, nel caso riscontraste errori, imprecisioni o importanti omissioni segnalatele pure nei commenti, grazie!
+Ho iniziato a informarmi, leggere articoli, vedere video, confrontare pareri, e mi sono fatto un'idea di quello che vorrei. Ho pensato quindi di riassumere un po' di informazioni in un post. Essendo un _n00b_ dell'argomento, parlando solo per letto e sentito dire e non possedendo ancora una tastiera meccanica, nel caso riscontraste errori, imprecisioni o importanti omissioni contattatemi pure per segnalarli, grazie!
 
 ## Cos'è una tastiera meccanica?
 

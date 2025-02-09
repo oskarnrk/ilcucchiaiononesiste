@@ -13,11 +13,11 @@ export interface Props {
 }
 
 const {
-  content: { title, date, updatedDate, image, categories, tags },
+  content: { title, date, updatedDate, image },
 } = Astro.props;
 ---
 
-<Main>
+<Main title={title}>
   <article>
     <div class="content">
       {image && <img width={720} height={360} src={image} alt="" />}

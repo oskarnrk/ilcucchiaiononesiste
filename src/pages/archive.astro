@@ -1,34 +1,22 @@
 ---
 import Main from "../components/Main.astro";
+import PostsList from "../components/PostsList.astro";
 
 // Use Astro.glob() to fetch all posts, and then sort them by date.
-const posts = (await Astro.glob("./2*/**/index.{md,mdx}"))
-  .filter((post) => !post.frontmatter.draft)
-  .filter((post) => parseInt(post.url.split("/")[1]) <= import.meta.env.PUBLIC_ARCHIVE_LAST_YEAR)
-  .sort(
-    (a, b) =>
-      new Date(b.frontmatter.date).valueOf() -
-      new Date(a.frontmatter.date).valueOf()
-  );
+const posts = await Astro.glob("./2*/**/index.{md,mdx}");
+
+const filter: (post: Record<string, any>) => boolean = (post) =>
+  !post.frontmatter.draft &&
+  parseInt(post.url.split("/")[1]) <= import.meta.env.PUBLIC_ARCHIVE_LAST_YEAR;
+
+const sort: (a: Record<string, any>, b: Record<string, any>) => number = (
+  a,
+  b
+) =>
+  new Date(b.frontmatter.date).valueOf() -
+  new Date(a.frontmatter.date).valueOf();
 ---
 
-<Main>
-  <section>
-    <ul>
-      {
-        posts.map((post) => (
-          <li>
-            <time datetime={post.frontmatter.date}>
-              {new Date(post.frontmatter.date).toLocaleDateString("en-us", {
-                year: "numeric",
-                month: "short",
-                day: "numeric",
-              })}
-            </time>
-            <a href={post.url}>{post.frontmatter.title}</a>
-          </li>
-        ))
-      }
-    </ul>
-  </section>
+<Main title="Archivio">
+  <PostsList posts={posts} filter={filter} sort={sort} />
 </Main>
