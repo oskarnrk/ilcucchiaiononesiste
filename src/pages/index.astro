@@ -3,7 +3,9 @@ import Main from "../components/Main.astro";
 import PostsList from "../components/PostsList.astro";
 
 // Use Astro.glob() to fetch all posts, and then sort them by date.
-const posts = await Astro.glob("./2*/**/index.{md,mdx}");
+const posts = Object.values(
+  import.meta.glob("./2*/**/index.{md,mdx}", { eager: true }),
+) as Record<string, any>[];
 
 const filter: (post: Record<string, any>) => boolean = (post) =>
   !post.frontmatter.draft &&
@@ -11,7 +13,7 @@ const filter: (post: Record<string, any>) => boolean = (post) =>
 
 const sort: (a: Record<string, any>, b: Record<string, any>) => number = (
   a,
-  b
+  b,
 ) =>
   new Date(b.frontmatter.date).valueOf() -
   new Date(a.frontmatter.date).valueOf();
